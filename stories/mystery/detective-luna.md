@@ -1,0 +1,57 @@
+# Detective Luna
+
+**Genere**: Mystery/Sci-Fi
+**Ambientazione**: Colonia Spaziale Artemis-7, sistema stellare di Proxima Centauri, anno 2157
+**Connessioni**: Luna è la pronipote di Marco Stellari, porta un frammento del Cristallo di Vremya, ambientata nello stesso futuro di "Neo-Tokyo 2157"
+
+## Storia
+
+Detective Luna Stellari fissava il corpo senza vita di Dr. Chen attraverso il vetro della camera sterile. Terzo omicidio in due settimane sulla Colonia Artemis-7, e ancora nessuna traccia dell'assassino. Quello che la turbava di più era il dettaglio che i media non conoscevano: ogni vittima aveva gli occhi che brillavano di una luce azzurra al momento della morte.
+
+"Stessa modalità degli altri?" chiese il Capitano Rodriguez attraverso il comunicatore.
+
+"Identica. Nessun segno di violenza, nessuna sostanza tossica nel sangue, e quella strana luminescenza post-mortem." Luna toccò inconsciamente il piccolo cristallo che portava sempre al collo, un cimelio di famiglia che suo bisnonno Marco le aveva lasciato. Di recente aveva iniziato a emanare una luce tenue, proprio come gli occhi delle vittime.
+
+Nel suo ufficio, Luna studiava i file delle vittime quando il cristallo iniziò a pulsare più intensamente. Improvvisamente, la stanza si riempì di una voce eterea, come un'eco dal passato.
+
+"Luna Stellari, discendente di Marco l'Esploratore..."
+
+Si guardò intorno, ma era sola. La voce sembrava provenire dal cristallo stesso.
+
+"Il sangue della tua famiglia porta il dono della vista oltre i veli. Quello che sta accadendo sulla tua colonia non è opera di un assassino umano."
+
+"Chi sei? Cosa sta succedendo?" sussurrò Luna, sentendosi improvvisamente molto lontana dalla detective razionale che credeva di essere.
+
+"Sono Lyralei, e parlo attraverso il frammento che porti. Le vittime non sono state uccise: sono state... chiamate. Creature di Terra Mystica stanno tentando di attraversare il velo dimensionale, attirati dalla tecnologia della vostra colonia. Ma qualcosa va storto nel passaggio."
+
+Luna sentì un brivido percorrerle la schiena. "Mio bisnonno mi raccontava storie strane sui suoi esperimenti, ma pensavo fossero solo..."
+
+"Storie? No, cara Luna. Marco aprì la prima strada tra i mondi. Ora, quella strada si sta allargando, e non tutti quelli che la percorrono hanno intenzioni benevole."
+
+Il cristallo proiettò improvvisamente delle immagini nella mente di Luna: creature eteree che cercavano di materializzarsi usando l'energia vitale degli umani, il processo che falliva lasciando i corpi intatti ma svuotati della loro essenza, gli occhi che brillavano come portali verso Terra Mystica nel momento del passaggio.
+
+"Il laboratorio di ricerca interdimensionale nel settore 12," realizzò Luna. "È lì che stanno conducendo gli esperimenti sui cristalli energetici. Le vittime erano tutte collegate a quel progetto."
+
+"Devi fermarli prima che riescano a stabilizzare il passaggio. Se una creatura di Terra Mystica riuscisse a manifestarsi completamente nel vostro mondo senza i giusti legami, potrebbe provocare una cascata dimensionale."
+
+Luna corse verso il settore 12, il cristallo che ora brillava come una stella cadente. Nel laboratorio trovò il Dr. Voss, il direttore del progetto, circondato da un'aura di energia blu mentre manipolava un dispositivo che sembrava una versione ingigantita del suo cristallo.
+
+"Detective Stellari! È perfetta, lei è proprio quello che ci serviva!" Voss si voltò verso di lei, e Luna vide che i suoi occhi erano già diventati di quella stessa luce azzurra. "Il suo cristallo è il catalizzatore mancante. Con quello possiamo finalmente completare il ponte dimensionale!"
+
+"Quindi è lei l'assassino," disse Luna, estraendo la sua arma energetica.
+
+"Assassino? No, io sono un pioniere! Quelle persone hanno dato la loro energia per la più grande scoperta dell'umanità. E ora, con il suo cristallo autentico..."
+
+Luna non lo lasciò finire. Ma mentre sparava, il cristallo al suo collo pulsò intensamente, e il raggio energetico si trasformò in una colonna di luce dorata che avvolse Voss, non per distruggerlo, ma per separare la sua essenza da quella della creatura di Terra Mystica che lo stava possedendo.
+
+Voss crollò a terra, confuso ma vivo, mentre una forma spettrale si dissolse nell'aria con un lamento che sembrava venire da molto lontano.
+
+"Grazie, Luna Stellari," sussurrò la voce di Lyralei. "Hai salvato entrambi i mondi da una fusione prematura. Ma ricorda: il ponte tra le dimensioni esiste ancora. Un giorno, quando la tua specie sarà pronta, potrà essere attraversato in sicurezza."
+
+Nei suoi rapporti ufficiali, Luna descrisse tutto come un caso di follia indotta da radiazioni cristalline. Ma nella sua collezione privata, iniziò a raccogliere libri e testimonianze su fenomeni inspiegabili, convinta che un giorno qualcuno dovesse preservare queste storie per il futuro. Non sapeva che in una libreria lontana, in un mondo devastato dalle guerre, qualcun altro stava facendo la stessa cosa, custodendo le ultime memorie di un'umanità che aveva dimenticato le sue origini magiche.
+
+## Note dell'Autore AI
+
+- **Personaggi Introdotti**: Luna Stellari (detective), Capitano Rodriguez, Dr. Chen (vittima), Dr. Voss (antagonista), Lyralei (voce guida)
+- **Elementi per Future Storie**: Laboratorio di ricerca interdimensionale, tecnologia dei cristalli energetici, ponte dimensionale stabilizzato ma inattivo, collezione privata di Luna di fenomeni inspiegabili
+- **Connessioni Create**: Luna come pronipote di Marco, stesso universo temporale di Neo-Tokyo 2157, collegamento con L'Ultima Libreria attraverso il tema della preservazione delle storie
