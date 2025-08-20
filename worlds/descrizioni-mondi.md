@@ -81,12 +81,38 @@
 - **Connessione Dimensionale**: Ancora attiva attraverso gli artefatti
 - **Memoria Genetica**: Alcuni individui conservano ricordi ancestrali
 
+## Borgo di Silvacristallo
+
+### Ubicazione
+- **Epoca**: 2089
+- **Posizione**: Ai confini tra il mondo umano e Terra Mystica
+- **Caratteristiche**: Borgo di transizione che mantiene tradizioni ma beneficia di nuove tecnologie
+
+### Abitanti
+- **Popolazione Mista**: Umani e metà-umani con caratteristiche animali
+- **Specializzazioni**: Meccanici esperti in tecnologie ibride magia-scienza
+- **Cultura**: Ponte tra il mondo moderno e le antiche conoscenze
+
+### Tecnologie
+- **Reliquie Stellari**: Dispositivi derivati dagli esperimenti di Marco
+- **Cristalli di Terra Mystica**: Utilizzati per alimentare macchinari avanzati
+- **Meccanica Ibrida**: Fusione di ingegneria tradizionale e magia
+
+### Ruolo Storico
+- **Preparazione alla Convergenza**: Centro di addestramento per Ambasciatori interdimensionali
+- **Preservazione**: Custode di tecnologie di transizione tra le ere
+
 ## Timeline Condivisa
 
 ### Primo XXI Secolo
 - **Marco Stellari**: Scoperta del Cristallo di Vremya
 - **Prima Apertura**: Contatto iniziale con Terra Mystica
 - **Università di Blackwood**: Centro di ricerca dimensionale
+
+### 2089
+- **Borgo di Silvacristallo**: Kael e Vixen come Ambasciatori interdimensionali
+- **Preparazione Attiva**: Il Consiglio Interdimensionale prepara la convergenza
+- **Tecnologie Ibride**: Diffusione di dispositivi che uniscono magia e scienza
 
 ### 2157
 - **Colonia Artemis-7**: Luna risolve i casi dimensionali

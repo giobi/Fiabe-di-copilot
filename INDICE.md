@@ -1,6 +1,6 @@
 # Indice delle Storie | Story Index
 
-## Prime 3 Storie Create | First 3 Stories Created
+## Prime 4 Storie Create | First 4 Stories Created
 
 ### 1. Il Cristallo di Vremya
 - **File**: `stories/cross-genre/il-cristallo-di-vremya.md`
@@ -29,10 +29,22 @@
 - **Temi**: Preservazione della memoria, amore, resistenza culturale
 - **Connessioni**: Conserva le storie di Marco e Luna, stesso periodo temporale
 
+### 4. Il Ragazzo e la Volpe Meccanica
+- **File**: `stories/fantasy/il-ragazzo-e-la-volpe-meccanica.md`
+- **Genere**: Fantasy/Avventura
+- **Protagonisti**: Kael e Vixen
+- **Epoca**: 2089
+- **Ambientazione**: Borgo di Silvacristallo, confine tra mondo umano e Terra Mystica
+- **Temi**: Amore tra specie diverse, tecnologia senziente, preparazione alla convergenza
+- **Connessioni**: Usa tecnologia Stellari, prepara la ricongiunzione dei mondi
+
 ## Cronologia | Timeline
 
 ### Primo XXI Secolo
 - **Il Cristallo di Vremya**: Marco Stellari scopre il ponte dimensionale
+
+### 2089  
+- **Il Ragazzo e la Volpe Meccanica**: Kael e Vixen come Ambasciatori interdimensionali
 
 ### 2157
 - **Detective Luna**: Luna risolve crimini dimensionali su Artemis-7
@@ -50,6 +62,10 @@
 
 ### Entità Dimensionali
 - **Lyralei**: Custode del Tempo di Terra Mystica (presente in tutte le epoche)
+- **Vixen**: Ex-Guardiana di Terra Mystica trasformata in spirito di motocicletta (2089)
+
+### Ambasciatori Interdimensionali
+- **Kael**: Ragazzo metà umano, partner di Vixen (2089)
 
 ## Mondi e Ambientazioni | Worlds and Settings
 
@@ -73,6 +89,11 @@
 - Governo Unitario che controlla la "purificazione della memoria"
 - L'Ultima Libreria nascosta nel sotterraneo
 
+### Borgo di Silvacristallo
+- Borgo di confine tra mondo umano e Terra Mystica (2089)
+- Centro di addestramento per Ambasciatori interdimensionali
+- Tecnologie ibride magia-scienza
+
 ## Elementi Ricorrenti | Recurring Elements
 
 ### Il Cristallo di Vremya
@@ -86,6 +107,9 @@
 - Lyralei come guida costante
 - Le storie preserve nell'Ultima Libreria
 - Neo-Tokyo 2157 come setting condiviso
+- Vixen utilizza tecnologia derivata dagli esperimenti Stellari
+- Kael come Ambasciatore per la convergenza finale
+- Borgo di Silvacristallo come ponte tra mondi (2089)
 
 ## Database di Supporto | Support Database
 
@@ -103,11 +127,11 @@
 
 ## Statistiche Attuali | Current Statistics
 
-- **Storie Totali**: 3
-- **Personaggi Unici**: 8 principali + 4 secondari
-- **Mondi Creati**: 4 (Terra Mystica, Università di Blackwood, Artemis-7, Neo-Tokyo 2157)
-- **Cross-References**: 15+ collegamenti implementati
-- **Generi Coperti**: Fantasy, Sci-Fi, Mystery, Romance, Distopico
+- **Storie Totali**: 4
+- **Personaggi Unici**: 11 principali + 6 secondari
+- **Mondi Creati**: 5 (Terra Mystica, Università di Blackwood, Artemis-7, Neo-Tokyo 2157, Borgo di Silvacristallo)
+- **Cross-References**: 20+ collegamenti implementati
+- **Generi Coperti**: Fantasy, Sci-Fi, Mystery, Romance, Distopico, Avventura
 
 ## Prossimi Sviluppi Suggeriti | Suggested Next Developments
 
