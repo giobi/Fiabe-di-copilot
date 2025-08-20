@@ -3,18 +3,18 @@
 <div class="story-metadata">
 
 **Genere**: Mystery/Sci-Fi  
-**Ambientazione**: [Colonia Spaziale Artemis-7](../../worlds/descrizioni-mondi.md#colonia-spaziale-artemis-7), sistema stellare di Proxima Centauri, anno 2157  
-**Connessioni**: [Luna](../../characters/database-personaggi.md#luna-stellari) è la pronipote di [Marco Stellari](../../characters/database-personaggi.md#marco-stellari), porta un frammento del [Cristallo di Vremya](../cross-genre/il-cristallo-di-vremya.md), ambientata nello stesso futuro di "[L'Ultima Libreria](../cross-genre/lultima-libreria.md)"
+**Ambientazione**: [Colonia Spaziale Artemis-7](../../worlds/descrizioni-mondi.md?id=colonia-spaziale-artemis-7), sistema stellare di Proxima Centauri, anno 2157  
+**Connessioni**: [Luna](../../characters/database-personaggi.md?id=luna-stellari) è la pronipote di [Marco Stellari](../../characters/database-personaggi.md?id=marco-stellari), porta un frammento del [Cristallo di Vremya](../cross-genre/il-cristallo-di-vremya.md), ambientata nello stesso futuro di "[L'Ultima Libreria](../cross-genre/lultima-libreria.md)"
 
 </div>
 
 ## Storia
 
-Detective <span class="character-link">[Luna Stellari](../../characters/database-personaggi.md#luna-stellari)</span> fissava il corpo senza vita di Dr. Chen attraverso il vetro della camera sterile. Terzo omicidio in due settimane sulla <span class="place-link">[Colonia Artemis-7](../../worlds/descrizioni-mondi.md#colonia-spaziale-artemis-7)</span>, e ancora nessuna traccia dell'assassino. Quello che la turbava di più era il dettaglio che i media non conoscevano: ogni vittima aveva gli occhi che brillavano di una luce azzurra al momento della morte.
+Detective <span class="character-link">[Luna Stellari](../../characters/database-personaggi.md?id=luna-stellari)</span> fissava il corpo senza vita di Dr. Chen attraverso il vetro della camera sterile. Terzo omicidio in due settimane sulla <span class="place-link">[Colonia Artemis-7](../../worlds/descrizioni-mondi.md?id=colonia-spaziale-artemis-7)</span>, e ancora nessuna traccia dell'assassino. Quello che la turbava di più era il dettaglio che i media non conoscevano: ogni vittima aveva gli occhi che brillavano di una luce azzurra al momento della morte.
 
 "Stessa modalità degli altri?" chiese il Capitano Rodriguez attraverso il comunicatore.
 
-"Identica. Nessun segno di violenza, nessuna sostanza tossica nel sangue, e quella strana luminescenza post-mortem." Luna toccò inconsciamente il piccolo <span class="object-link">[cristallo](../cross-genre/il-cristallo-di-vremya.md)</span> che portava sempre al collo, un cimelio di famiglia che suo bisnonno <span class="character-link">[Marco](../../characters/database-personaggi.md#marco-stellari)</span> le aveva lasciato. Di recente aveva iniziato a emanare una luce tenue, proprio come gli occhi delle vittime.
+"Identica. Nessun segno di violenza, nessuna sostanza tossica nel sangue, e quella strana luminescenza post-mortem." Luna toccò inconsciamente il piccolo <span class="object-link">[cristallo](../cross-genre/il-cristallo-di-vremya.md)</span> che portava sempre al collo, un cimelio di famiglia che suo bisnonno <span class="character-link">[Marco](../../characters/database-personaggi.md?id=marco-stellari)</span> le aveva lasciato. Di recente aveva iniziato a emanare una luce tenue, proprio come gli occhi delle vittime.
 
 Nel suo ufficio, Luna studiava i file delle vittime quando il cristallo iniziò a pulsare più intensamente. Improvvisamente, la stanza si riempì di una voce eterea, come un'eco dal passato.
 
@@ -26,11 +26,11 @@ Si guardò intorno, ma era sola. La voce sembrava provenire dal cristallo stesso
 
 "Chi sei? Cosa sta succedendo?" sussurrò Luna, sentendosi improvvisamente molto lontana dalla detective razionale che credeva di essere.
 
-"Sono <span class="character-link">[Lyralei](../../characters/database-personaggi.md#lyralei)</span>, e parlo attraverso il frammento che porti. Le vittime non sono state uccise: sono state... chiamate. Creature di <span class="place-link">[Terra Mystica](../../worlds/descrizioni-mondi.md#terra-mystica)</span> stanno tentando di attraversare il velo dimensionale, attirati dalla tecnologia della vostra colonia. Ma qualcosa va storto nel passaggio."
+"Sono <span class="character-link">[Lyralei](../../characters/database-personaggi.md?id=lyralei)</span>, e parlo attraverso il frammento che porti. Le vittime non sono state uccise: sono state... chiamate. Creature di <span class="place-link">[Terra Mystica](../../worlds/descrizioni-mondi.md?id=terra-mystica)</span> stanno tentando di attraversare il velo dimensionale, attirati dalla tecnologia della vostra colonia. Ma qualcosa va storto nel passaggio."
 
 Luna sentì un brivido percorrerle la schiena. "Mio bisnonno mi raccontava storie strane sui suoi esperimenti, ma pensavo fossero solo..."
 
-"Storie? No, cara Luna. <span class="character-link">[Marco](../../characters/database-personaggi.md#marco-stellari)</span> aprì la prima strada tra i mondi. Ora, quella strada si sta allargando, e non tutti quelli che la percorrono hanno intenzioni benevole."
+"Storie? No, cara Luna. <span class="character-link">[Marco](../../characters/database-personaggi.md?id=marco-stellari)</span> aprì la prima strada tra i mondi. Ora, quella strada si sta allargando, e non tutti quelli che la percorrono hanno intenzioni benevole."
 
 Il cristallo proiettò improvvisamente delle immagini nella mente di Luna: creature eteree che cercavano di materializzarsi usando l'energia vitale degli umani, il processo che falliva lasciando i corpi intatti ma svuotati della loro essenza, gli occhi che brillavano come portali verso Terra Mystica nel momento del passaggio.
 
