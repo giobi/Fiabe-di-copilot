@@ -1,6 +1,6 @@
 # Indice delle Storie | Story Index
 
-## Prime 4 Storie Create | First 4 Stories Created
+## Prime 5 Storie Create | First 5 Stories Created
 
 ### 1. Il Cristallo di Vremya
 - **File**: `stories/cross-genre/il-cristallo-di-vremya.md`
@@ -47,6 +47,15 @@
 - **Temi**: Evoluzione accelerata, cooperazione interspecifica, conseguenze impreviste della scienza
 - **Connessioni**: Famiglia Stellari, frammenti del Cristallo di Vremya, preparazione alla convergenza
 
+### 6. Totò e l'apocalisse nucleare
+- **File**: `stories/cross-genre/toto-e-lapocalisse-nucleare.md`
+- **Genere**: Post-apocalittico/Commedia/Satirico
+- **Protagonisti**: Totò, Massimo Troisi, Diego Armando Maradona, Pulcinella
+- **Epoca**: 2165 (Napoli post-nucleare)
+- **Ambientazione**: Napoli radioattiva dopo le Guerre della Memoria
+- **Temi**: Resilienza attraverso l'umorismo, trasformazione dell'apocalisse in arte, ponti interdimensionali
+- **Connessioni**: Collegata a L'Ultima Libreria, utilizza frammenti del Cristallo di Vremya, espande l'universo post-Guerre della Memoria
+
 ## Cronologia | Timeline
 
 ### Primo XXI Secolo
@@ -61,6 +70,9 @@
 ### 2157
 - **Detective Luna**: Luna risolve crimini dimensionali su Artemis-7
 - **L'Ultima Libreria**: Kai ed Elena preservano la conoscenza a Neo-Tokyo
+
+### 2165
+- **Totò e l'apocalisse nucleare**: Napoli post-nucleare diventa un ponte interdimensionale
 
 ## Personaggi Principali | Main Characters
 
@@ -107,11 +119,17 @@
 - Centro di addestramento per Ambasciatori interdimensionali
 - Tecnologie ibride magia-scienza
 
+
 ### Repubblica Federale di Aquatica
 - Ex-Stazione di Ricerca Marittima Stellari-Beta, Oceano Pacifico (2134)
 - Prima nazione sottomarina governata da coalizione interspecifica
 - Centro di ricerca per energia nucleare pulita e comunicazione animale
 - Riconosciuta dalle Nazioni Unite come stato sovrano
+
+### Napoli Post-Nucleare 2165
+- Città radioattiva dopo le Guerre della Memoria
+- La Fonte di San Gennaro come nodo dimensionale
+- Trasformazione dell'apocalisse in arte e teatro cosmico
 
 ## Elementi Ricorrenti | Recurring Elements
 
@@ -148,11 +166,8 @@
 
 ## Statistiche Attuali | Current Statistics
 
-- **Storie Totali**: 5
-- **Personaggi Unici**: 16 principali + 8 secondari
-- **Mondi Creati**: 6 (Terra Mystica, Università di Blackwood, Artemis-7, Neo-Tokyo 2157, Borgo di Silvacristallo, Repubblica Federale di Aquatica)
-- **Cross-References**: 25+ collegamenti implementati
-- **Generi Coperti**: Fantasy, Sci-Fi, Mystery, Romance, Distopico, Avventura, Comedy
+- **Storie Totali**: 
+- TODO: ricotnare storie e personaggi
 
 ## Prossimi Sviluppi Suggeriti | Suggested Next Developments
 

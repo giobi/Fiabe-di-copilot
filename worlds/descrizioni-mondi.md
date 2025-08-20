@@ -130,6 +130,46 @@
 - **Ricerca Ambientale**: Centro per la purificazione degli oceani mondiali
 - **Preparazione Convergenza**: Modello per l'integrazione future tra specie diverse
 
+
+
+## Napoli Post-Nucleare 2165
+
+### Contesto Storico
+- **Guerre della Memoria**: Napoli devastata otto anni dopo gli eventi principali
+- **Trasformazione Radioattiva**: Città diventata "Zona" contaminata
+- **Risveglio della Fonte**: Riattivazione del nodo dimensionale sotto San Gennaro
+
+### Geografia
+- **Vesuvio**: Erutta fumo verde tossico che disegna forme narrative
+- **Golfo**: Mare nero che riflette stelle di altre dimensioni
+- **Quartieri Spagnoli**: Labirinto di rottami organizzati come teatro cosmico
+- **Via Toledo**: Bazar post-atomico per il commercio di sopravvivenza
+
+### Società
+- **Sopravvissuti**: Guidati da figure carismatiche come Totò, Troisi e Maradona
+- **Bande**: Competono per il controllo della Fonte di San Gennaro
+- **Mercato Nero**: Commercio di ricordi, caffè sintetico e reliquie pre-guerra
+- **Nuova Cultura**: Trasformazione dell'apocalisse in arte e spettacolo
+
+### Strutture Importanti
+- **Duomo di San Gennaro**: Accesso alle catacombe e alla Fonte
+- **La Fonte**: Cristallo gigante che serve come nodo dimensionale
+- **Piazza del Plebiscito**: "La Grande Arena" per discorsi e celebrazioni
+- **Catacombe**: Rete sotterranea che ospita il cuore energetico della città
+
+### Tecnologie e Magia
+- **Frammenti del Cristallo**: Permettono comunicazione interdimensionale
+- **Radiazioni Narrative**: Le contaminazioni creano tatuaggi luminosi
+- **Calcio Multidimensionale**: Sport giocato con palle che esistono in più dimensioni
+- **Teatro Cosmico**: La realtà organizzata come spettacolo perpetuo
+
+### Fenomeni Unici
+- **Resurrezione Artistica**: Personaggi storici napoletani rivivono come archetipi
+- **Pulcinella Interdimensionale**: Maschera eterna che collega i mondi
+- **Turismo dell'Impossibile**: Visitatori da altre dimensioni e timeline
+- **Commedia Perpetua**: La vita quotidiana diventa performance artistica
+
+
 ## Timeline Condivisa
 
 ### Primo XXI Secolo
@@ -151,6 +191,11 @@
 - **Colonia Artemis-7**: Luna risolve i casi dimensionali
 - **Neo-Tokyo**: Kai ed Elena custodiscono l'Ultima Libreria
 - **Status del Ponte**: Inattivo ma monitorato
+
+### 2165
+- **Napoli Post-Nucleare**: Riattivazione della Fonte di San Gennaro
+- **Nuovo Nodo Dimensionale**: Napoli diventa ponte interdimensionale
+- **Connessioni Attive**: Viaggiatori tra Neo-Tokyo e Napoli
 
 ### Futuro Previsto
 - **Convergenza Controllata**: Riunificazione graduale dei mondi

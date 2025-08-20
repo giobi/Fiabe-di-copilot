@@ -125,12 +125,50 @@
 - **Professione**: Ispettore della Commissione per la Sicurezza Nucleare Marina
 - **Ruolo**: Primo rappresentante umano a riconoscere ufficialmente Aquatica
 
+
+## Nuovi Personaggi da "Totò e l'apocalisse nucleare"
+
+### Totò
+- **Prima Apparizione**: "Totò e l'apocalisse nucleare"
+- **Epoca**: 2165 (Napoli post-nucleare)
+- **Ruolo**: Principe della risata, trickster post-apocalittico
+- **Caratteristiche**: Sopravvissuto furbo e folle, porta sempre un cilindro sfondato
+- **Capacità**: Astuzia, commercio nel mercato nero dei ricordi, leadership carismatica
+- **Connessioni**: Custodisce un frammento del Cristallo di Vremya
+
+### Massimo Troisi
+- **Prima Apparizione**: "Totò e l'apocalisse nucleare"
+- **Epoca**: 2165 (Napoli post-nucleare)
+- **Ruolo**: Poeta melancònico e cronista dell'apocalisse
+- **Caratteristiche**: Sguardo malinconico ma ironico, lettore di Leopardi
+- **Capacità**: Trasforma la realtà post-apocalittica in poesia, scrittura di cronache surrealiste
+- **Connessioni**: Documenta l'arrivo di viaggiatori da Neo-Tokyo
+
+### Diego Armando Maradona
+- **Prima Apparizione**: "Totò e l'apocalisse nucleare"
+- **Epoca**: 2165 (Napoli post-nucleare)
+- **Ruolo**: Profeta del pallone, leader carismatico
+- **Caratteristiche**: Capelli grigi, maglia Argentina scolorita, visioni divine
+- **Capacità**: Guida bande di sopravvissuti, organizza calcio multidimensionale
+- **Connessioni**: Riceve visioni da San Gennaro legate alla Fonte
+
+### Pulcinella
+- **Prima Apparizione**: "Totò e l'apocalisse nucleare"
+- **Epoca**: Tutte (entità eterna)
+- **Ruolo**: Maschera eterna, messaggero interdimensionale
+- **Caratteristiche**: Costume bianco impossibilmente pulito, movimenti grotteschi
+- **Capacità**: Apparizione/scomparsa istantanea, conoscenza dei ponti dimensionali
+- **Connessioni**: Porta messaggi da Neo-Tokyo, conosce Lyralei, guida turistica dell'impossibile
+
 ## Cross-References
 
 - **Marco → Luna**: Relazione familiare diretta (bisnonno-pronipote)
 - **Marco → Giacomo**: Relazione familiare diretta (bisnonno-pronipote)
 - **Marco → Kael**: Vixen usa tecnologia derivata dagli esperimenti Stellari
+- **Marco → Totò**: Frammento del Cristallo di Vremya trovato nell'Università Federico II
 - **Luna → Kai/Elena**: Le sue ricerche sono conservate nell'Ultima Libreria
+
+
 - **Giacomo → Whiskers/Shamu-VII**: Esperimenti con frammenti del Cristallo di Vremya causano mutazioni
 - **Lyralei**: Appare come guida in tutte le linee temporali
 - **Lyralei → Vixen**: Entrambe sono Guardiane di Terra Mystica
@@ -138,3 +176,13 @@
 - **Kael → Convergenza**: La sua storia prepara la ricongiunzione dei mondi prevista
 - **Aquatica → Convergenza**: La coalizione interspecifica prepara la Terra per l'integrazione dimensionale
 - **Famiglia Stellari**: Linea genealogica che continua gli esperimenti dimensionali attraverso le generazioni
+
+- **Kai/Elena → Napoli**: Viaggiatori da Neo-Tokyo portano storie della libreria nascosta
+- **Lyralei**: Appare come guida in tutte le linee temporali, menzionata a Napoli
+- **Lyralei → Vixen**: Entrambe sono Guardiane di Terra Mystica
+- **Lyralei → Pulcinella**: Entrambi sono entità interdimensionali
+- **Cristallo di Vremya**: Elemento unificante presente in tutte le storie
+- **Kael → Convergenza**: La sua storia prepara la ricongiunzione dei mondi prevista
+- **Totò → Fonte San Gennaro**: Riattivazione del nodo dimensionale napoletano
+- **Guerre della Memoria**: Evento che collega L'Ultima Libreria e Totò e l'apocalisse nucleare
+- **Pulcinella → Ponti dimensionali**: Facilita le connessioni tra Neo-Tokyo e Napoli
