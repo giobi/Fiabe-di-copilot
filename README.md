@@ -85,6 +85,36 @@ Le storie possono essere le più disparate, appartenenti a temi diversi e mondi 
 **Lunghezza Target**: [Breve/Media/Lunga]
 ```
 
+## 👥 Come Contribuire | How to Contribute
+
+### Per Collaboratori | For Collaborators
+
+Vuoi contribuire con una nuova fiaba? Segui questi semplici passaggi:
+
+1. **Vai nella sezione Issues** del repository
+2. **Apri una nuova issue** cliccando su "New Issue"
+3. **Copia e incolla il template** dalla sezione precedente nel corpo dell'issue
+4. **Compila tutti i campi** del template con i dettagli della tua storia
+5. **Assegna l'issue a @giobi** nella sezione "Assignees" 
+6. **Applica la milestone "fiabe2025"** nella sezione "Milestone"
+7. **Aggiungi i label appropriati** (es. "fantasy", "sci-fi", "mystery")
+8. **Pubblica l'issue** cliccando su "Submit new issue"
+
+### Cosa Succede Dopo | What Happens Next
+
+Una volta creata l'issue:
+- L'AI riceverà le tue specifiche e svilupperà la storia
+- La storia verrà aggiunta alla collezione seguendo le linee guida
+- Riceverai notifiche sugli aggiornamenti
+- La tua idea diventerà parte dell'universo narrativo condiviso!
+
+### Tips per Issue Efficaci | Tips for Effective Issues
+
+- **Sii specifico** nei dettagli ma lascia spazio alla creatività dell'AI
+- **Suggerisci connessioni** con storie esistenti se ne conosci
+- **Indica il mood** che vorresti per la storia
+- **Non preoccuparti** se non hai tutte le idee chiare - l'AI può svilupparle!
+
 ## 🔗 Sistema di Cross-Reference
 
 ### Personaggi Ricorrenti | Recurring Characters
