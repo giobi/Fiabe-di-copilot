@@ -67,9 +67,35 @@
 - **Apparizione**: "Detective Luna"
 - **Ruolo**: Vittima degli esperimenti dimensionali
 
+## Nuovi Personaggi da "Il Ragazzo e la Volpe Meccanica"
+
+### Kael
+- **Prima Apparizione**: "Il Ragazzo e la Volpe Meccanica"
+- **Caratteristiche**: Ragazzo metà umano con orecchie appuntite e capelli rosso fuoco
+- **Capacità**: Può sentire il "cuore delle macchine", connessione spirituale con tecnologia magica
+- **Epoca**: 2089
+- **Ruolo**: Ambasciatore tra il mondo umano e Terra Mystica
+- **Connessioni**: Legato a Vixen, addestrato dal Consiglio Interdimensionale
+
+### Vixen
+- **Prima Apparizione**: "Il Ragazzo e la Volpe Meccanica"
+- **Natura**: Motocicletta senziente con spirito di volpe di Terra Mystica
+- **Caratteristiche**: Carrozzeria a forma di volpe, alimentata da cristalli di Terra Mystica
+- **Origine**: Ex-Guardiana di Terra Mystica intrappolata in cristalli durante la Grande Frattura
+- **Connessioni**: Compagna di Kael, collegata alla famiglia Stellari attraverso i cristalli
+
+### Marta
+- **Prima Apparizione**: "Il Ragazzo e la Volpe Meccanica"
+- **Professione**: Meccanica del borgo di Silvacristallo
+- **Caratteristiche**: Orecchie volpine, conoscenza delle reliquie Stellari
+- **Ruolo**: Mentore e informatrice per Kael
+
 ## Cross-References
 
 - **Marco → Luna**: Relazione familiare diretta (bisnonno-pronipote)
+- **Marco → Kael**: Vixen usa tecnologia derivata dagli esperimenti Stellari
 - **Luna → Kai/Elena**: Le sue ricerche sono conservate nell'Ultima Libreria
 - **Lyralei**: Appare come guida in tutte le linee temporali
+- **Lyralei → Vixen**: Entrambe sono Guardiane di Terra Mystica
 - **Cristallo di Vremya**: Elemento unificante presente in tutte le storie
+- **Kael → Convergenza**: La sua storia prepara la ricongiunzione dei mondi prevista
