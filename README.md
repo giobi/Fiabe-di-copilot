@@ -96,7 +96,7 @@ Vuoi contribuire con una nuova fiaba? Segui questi semplici passaggi:
 3. **Copia e incolla il template** dalla sezione precedente nel corpo dell'issue
 4. **Compila tutti i campi** del template con i dettagli della tua storia
 5. **Assegna l'issue al maintainer del progetto** nella sezione "Assignees" (oppure segui le regole del file CODEOWNERS, se presente)
-6. **Applica la milestone "fiabe2025"** nella sezione "Milestone"
+6. **Applica la milestone più recente (es. "fiabe" o "raccolta-fiabe")** nella sezione "Milestone"  
 7. **Aggiungi i label appropriati** (es. "fantasy", "sci-fi", "mystery")
 8. **Pubblica l'issue** cliccando su "Submit new issue"
 
