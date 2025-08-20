@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Fiabe di Copilot 🤖📚</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Una collezione di racconti generata attraverso l'intelligenza artificiale GitHub Copilot">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    /* Custom CSS for fairy tale theme */
+    :root {
+      --theme-color: #42b883;
+      --text-color-light: #666;
+      --border-color: #eee;
+    }
+    
+    /* Enhanced link styling for characters, objects, and places */
+    .character-link {
+      color: #e67e22;
+      font-weight: bold;
+      text-decoration: none;
+      border-bottom: 1px dotted #e67e22;
+    }
+    
+    .place-link {
+      color: #3498db;
+      font-weight: bold;
+      text-decoration: none;
+      border-bottom: 1px dotted #3498db;
+    }
+    
+    .object-link {
+      color: #9b59b6;
+      font-weight: bold;
+      text-decoration: none;
+      border-bottom: 1px dotted #9b59b6;
+    }
+    
+    /* Story metadata styling */
+    .story-metadata {
+      background: #f8f9fa;
+      border-left: 4px solid var(--theme-color);
+      padding: 1rem;
+      margin: 1rem 0;
+    }
+    
+    .story-metadata strong {
+      color: var(--theme-color);
+    }
+    
+    /* Navigation enhancements */
+    .sidebar nav > ul > li > a {
+      font-weight: bold;
+    }
+    
+    .sidebar nav > ul > li > ul > li > a {
+      padding-left: 2rem;
+      font-size: 0.9rem;
+    }
+    
+    /* Custom footer */
+    .app-footer {
+      text-align: center;
+      padding: 2rem 0;
+      border-top: 1px solid var(--border-color);
+      margin-top: 3rem;
+      color: var(--text-color-light);
+    }
+  </style>
+</head>
+<body>
+  <div id="app">🤖 Caricamento delle fiabe...</div>
+  <script>
+    window.$docsify = {
+      name: 'Fiabe di Copilot',
+      repo: 'https://github.com/giobi/fiabe-di-copilot',
+      loadSidebar: true,
+      loadNavbar: false,
+      coverpage: false,
+      onlyCover: false,
+      auto2top: true,
+      maxLevel: 4,
+      subMaxLevel: 3,
+      
+      // Search functionality
+      search: {
+        maxAge: 86400000, // 1 day
+        paths: 'auto',
+        placeholder: 'Cerca nelle fiabe...',
+        noData: 'Nessun risultato trovato!',
+        depth: 3
+      },
+      
+      // Copy code functionality
+      copyCode: {
+        buttonText: 'Copia',
+        errorText: 'Errore',
+        successText: 'Copiato!'
+      },
+      
+      // Pagination
+      pagination: {
+        previousText: 'Precedente',
+        nextText: 'Successivo',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      
+      // Custom plugins
+      plugins: [
+        function(hook, vm) {
+          hook.afterEach(function(html) {
+            // Add footer to each page
+            return html + 
+              '<div class="app-footer">' +
+              '🤖 Generato con <strong>GitHub Copilot</strong> | ' +
+              '📚 Collezione di Fiabe AI | ' +
+              '<a href="https://github.com/giobi/fiabe-di-copilot" target="_blank">Repository GitHub</a>' +
+              '</div>';
+          });
+        }
+      ]
+    }
+  </script>
+  
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  
+  <!-- Search plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  
+  <!-- Copy code plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  
+  <!-- Pagination plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
+  
+  <!-- Zoom image plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  
+  <!-- Emoji support -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+</body>
+</html>

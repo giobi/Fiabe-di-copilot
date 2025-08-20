@@ -1,6 +1,20 @@
 # Fiabe di Copilot 🤖📚
 
-*Una raccolta di racconti generati interamente dall'intelligenza artificiale*
+> Una collezione di racconti generata attraverso l'intelligenza artificiale GitHub Copilot
+
+## 🚀 Inizia Qui | Start Here
+
+### 📚 Esplora le Storie
+- **[Indice Completo](INDICE.md)** - Panoramica di tutte le storie e connessioni
+- **[Fantasy](stories/fantasy/)** - Storie di magia e avventura
+- **[Sci-Fi](stories/sci-fi/)** - Fantascienza e tecnologia
+- **[Mystery](stories/mystery/)** - Investigazioni e misteri
+- **[Cross-Genre](stories/cross-genre/)** - Storie che mescolano generi
+
+### 🌍 L'Universo Narrativo
+- **[Database Personaggi](characters/database-personaggi.md)** - Tutti i protagonisti e le loro connessioni
+- **[Descrizioni dei Mondi](worlds/descrizioni-mondi.md)** - Gli ambienti e la timeline condivisa
+- **[Template per Storie](templates/template-storia.md)** - Come contribuire con nuove storie
 
 ## 🎯 Obiettivo del Progetto | Project Goals
 
@@ -180,8 +194,28 @@ Una volta creata l'issue:
 - Il Cristallo di Vremya appare come reliquia in "Neo-Tokyo 2157"
 - La Libreria è l'unico posto dove sopravvivono le storie del vecchio mondo
 
+## 🌐 Sito Web | Website
+
+**Visita il sito web**: Le fiabe sono ora disponibili come sito web statico generato con [Docsify](https://docsify.js.org/).
+
+### 🔗 Navigazione Interattiva
+- **Sidebar**: Navigazione organizzata per genere e contenuto
+- **Link Interni**: Connessioni dirette tra personaggi, luoghi e oggetti nelle storie
+- **Ricerca**: Funzionalità di ricerca attraverso tutte le storie e il database
+- **Timeline**: Navigazione cronologica attraverso l'universo narrativo
+
+### 🎨 Caratteristiche Speciali
+- **Link Colorati**: 
+  - 🧑‍🎨 **Arancione**: Collegamenti a personaggi
+  - 🌍 **Blu**: Collegamenti a luoghi e mondi
+  - 🔮 **Viola**: Collegamenti a oggetti magici/tecnologici
+- **Metadata**: Informazioni contestuali per ogni storia
+- **Cross-Reference**: Collegamenti automatici tra storie correlate
+
 ## 🔮 Roadmap Futura | Future Roadmap
 
+- [x] **Trasformazione in sito web con Docsify** 
+- [x] **Sistema di link manuali tra personaggi, oggetti e luoghi**
 - [ ] Implementare sistema di tagging automatico
 - [ ] Creare database interattivo dei personaggi
 - [ ] Sviluppare timeline condivisa tra storie
