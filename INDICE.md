@@ -1,6 +1,6 @@
 # Indice delle Storie | Story Index
 
-## Prime 4 Storie Create | First 4 Stories Created
+## Prime 5 Storie Create | First 5 Stories Created
 
 ### 1. Il Cristallo di Vremya
 - **File**: `stories/cross-genre/il-cristallo-di-vremya.md`
@@ -38,6 +38,15 @@
 - **Temi**: Amore tra specie diverse, tecnologia senziente, preparazione alla convergenza
 - **Connessioni**: Usa tecnologia Stellari, prepara la ricongiunzione dei mondi
 
+### 5. Totò e l'apocalisse nucleare
+- **File**: `stories/cross-genre/toto-e-lapocalisse-nucleare.md`
+- **Genere**: Post-apocalittico/Commedia/Satirico
+- **Protagonisti**: Totò, Massimo Troisi, Diego Armando Maradona, Pulcinella
+- **Epoca**: 2165 (Napoli post-nucleare)
+- **Ambientazione**: Napoli radioattiva dopo le Guerre della Memoria
+- **Temi**: Resilienza attraverso l'umorismo, trasformazione dell'apocalisse in arte, ponti interdimensionali
+- **Connessioni**: Collegata a L'Ultima Libreria, utilizza frammenti del Cristallo di Vremya, espande l'universo post-Guerre della Memoria
+
 ## Cronologia | Timeline
 
 ### Primo XXI Secolo
@@ -49,6 +58,9 @@
 ### 2157
 - **Detective Luna**: Luna risolve crimini dimensionali su Artemis-7
 - **L'Ultima Libreria**: Kai ed Elena preservano la conoscenza a Neo-Tokyo
+
+### 2165
+- **Totò e l'apocalisse nucleare**: Napoli post-nucleare diventa un ponte interdimensionale
 
 ## Personaggi Principali | Main Characters
 
@@ -94,6 +106,11 @@
 - Centro di addestramento per Ambasciatori interdimensionali
 - Tecnologie ibride magia-scienza
 
+### Napoli Post-Nucleare 2165
+- Città radioattiva dopo le Guerre della Memoria
+- La Fonte di San Gennaro come nodo dimensionale
+- Trasformazione dell'apocalisse in arte e teatro cosmico
+
 ## Elementi Ricorrenti | Recurring Elements
 
 ### Il Cristallo di Vremya
@@ -127,11 +144,11 @@
 
 ## Statistiche Attuali | Current Statistics
 
-- **Storie Totali**: 4
-- **Personaggi Unici**: 11 principali + 6 secondari
-- **Mondi Creati**: 5 (Terra Mystica, Università di Blackwood, Artemis-7, Neo-Tokyo 2157, Borgo di Silvacristallo)
-- **Cross-References**: 20+ collegamenti implementati
-- **Generi Coperti**: Fantasy, Sci-Fi, Mystery, Romance, Distopico, Avventura
+- **Storie Totali**: 5
+- **Personaggi Unici**: 15 principali + 6 secondari
+- **Mondi Creati**: 6 (Terra Mystica, Università di Blackwood, Artemis-7, Neo-Tokyo 2157, Borgo di Silvacristallo, Napoli Post-Nucleare 2165)
+- **Cross-References**: 25+ collegamenti implementati
+- **Generi Coperti**: Fantasy, Sci-Fi, Mystery, Romance, Distopico, Avventura, Post-apocalittico, Commedia, Satirico
 
 ## Prossimi Sviluppi Suggeriti | Suggested Next Developments
 
