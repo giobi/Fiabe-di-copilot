@@ -102,6 +102,34 @@
 - **Preparazione alla Convergenza**: Centro di addestramento per Ambasciatori interdimensionali
 - **Preservazione**: Custode di tecnologie di transizione tra le ere
 
+## Repubblica Federale di Aquatica
+
+### Ubicazione
+- **Epoca**: 2134-presente
+- **Posizione**: Ex-Stazione di Ricerca Marittima Stellari-Beta, Oceano Pacifico
+- **Status**: Prima nazione sottomarina riconosciuta dalle Nazioni Unite
+
+### Caratteristiche Fisiche
+- **Struttura**: Stazione di ricerca modificata e espansa
+- **Habitat**: Completamente sommerso con ecosistemi artificiali e naturali integrati
+- **Tecnologia**: Fusione di ingegneria marina avanzata e bioenergia nucleare
+
+### Abitanti
+- **Popolazione**: Coalizione interspecifica (umani, orca, delfini, polpi, pesci evoluti)
+- **Governo**: Parlamento multispecie con rappresentanza proporzionale
+- **Comunicazione**: Sistema di traduzione telepatica universale
+
+### Tecnologie Rivoluzionarie
+- **Energia Nucleare Pulita**: Prodotta attraverso "starnuti calibrati" di Whiskers
+- **Trasformazione Materia**: Conversione diretta polimeri-biomassa
+- **Comunicazione Interspecifica**: Protocolli sviluppati da Shamu-VII
+- **Cucina Molecolare**: Manipolazione subatomica del cibo via radiazioni controllate
+
+### Ruolo Storico
+- **Diplomazia Interspecifica**: Primo esempio di governo multispecie funzionante
+- **Ricerca Ambientale**: Centro per la purificazione degli oceani mondiali
+- **Preparazione Convergenza**: Modello per l'integrazione future tra specie diverse
+
 ## Timeline Condivisa
 
 ### Primo XXI Secolo
@@ -113,6 +141,11 @@
 - **Borgo di Silvacristallo**: Kael e Vixen come Ambasciatori interdimensionali
 - **Preparazione Attiva**: Il Consiglio Interdimensionale prepara la convergenza
 - **Tecnologie Ibride**: Diffusione di dispositivi che uniscono magia e scienza
+
+### 2134
+- **Repubblica Federale di Aquatica**: Giacomo Stellari crea la prima nazione sottomarina interspecifica
+- **Evoluzione Accelerata**: Esperimenti con frammenti del Cristallo di Vremya producono creature senzienti
+- **Integrazione Biologica**: Prima coalizione ufficiale tra umani e altre specie
 
 ### 2157
 - **Colonia Artemis-7**: Luna risolve i casi dimensionali

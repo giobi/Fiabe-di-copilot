@@ -38,6 +38,15 @@
 - **Temi**: Amore tra specie diverse, tecnologia senziente, preparazione alla convergenza
 - **Connessioni**: Usa tecnologia Stellari, prepara la ricongiunzione dei mondi
 
+### 5. Gatti nucleari e balene assassine
+- **File**: `stories/sci-fi/gatti-nucleari-e-balene-assassine.md`
+- **Genere**: Sci-Fi/Comedy
+- **Protagonisti**: Giacomo Stellari, Whiskers, Shamu-VII
+- **Epoca**: 2134
+- **Ambientazione**: Stazione di Ricerca Marittima Stellari-Beta, Oceano Pacifico
+- **Temi**: Evoluzione accelerata, cooperazione interspecifica, conseguenze impreviste della scienza
+- **Connessioni**: Famiglia Stellari, frammenti del Cristallo di Vremya, preparazione alla convergenza
+
 ## Cronologia | Timeline
 
 ### Primo XXI Secolo
@@ -45,6 +54,9 @@
 
 ### 2089  
 - **Il Ragazzo e la Volpe Meccanica**: Kael e Vixen come Ambasciatori interdimensionali
+
+### 2134
+- **Gatti nucleari e balene assassine**: Giacomo Stellari crea la Repubblica Federale di Aquatica
 
 ### 2157
 - **Detective Luna**: Luna risolve crimini dimensionali su Artemis-7
@@ -54,6 +66,7 @@
 
 ### Famiglia Stellari
 - **Marco Stellari**: Esploratore dimensionale (XXI secolo)
+- **Giacomo Stellari**: Bioingegnere marino (2134)
 - **Luna Stellari**: Detective spaziale (2157)
 
 ### Custodi della Memoria
@@ -94,6 +107,12 @@
 - Centro di addestramento per Ambasciatori interdimensionali
 - Tecnologie ibride magia-scienza
 
+### Repubblica Federale di Aquatica
+- Ex-Stazione di Ricerca Marittima Stellari-Beta, Oceano Pacifico (2134)
+- Prima nazione sottomarina governata da coalizione interspecifica
+- Centro di ricerca per energia nucleare pulita e comunicazione animale
+- Riconosciuta dalle Nazioni Unite come stato sovrano
+
 ## Elementi Ricorrenti | Recurring Elements
 
 ### Il Cristallo di Vremya
@@ -102,14 +121,16 @@
 - **Funzione**: Comunicazione e attraversamento dimensionale
 
 ### Cross-References Implementati
-- Marco come antenato di Luna
-- Il cristallo che passa attraverso le generazioni
+- Marco come antenato di Luna e Giacomo
+- Il cristallo che passa attraverso le generazioni Stellari
+- Frammenti del Cristallo usati per esperimenti biologici (Giacomo)
 - Lyralei come guida costante
 - Le storie preserve nell'Ultima Libreria
 - Neo-Tokyo 2157 come setting condiviso
 - Vixen utilizza tecnologia derivata dagli esperimenti Stellari
 - Kael come Ambasciatore per la convergenza finale
 - Borgo di Silvacristallo come ponte tra mondi (2089)
+- Aquatica come preparazione per l'integrazione interspecifica (2134)
 
 ## Database di Supporto | Support Database
 
@@ -127,11 +148,11 @@
 
 ## Statistiche Attuali | Current Statistics
 
-- **Storie Totali**: 4
-- **Personaggi Unici**: 11 principali + 6 secondari
-- **Mondi Creati**: 5 (Terra Mystica, Università di Blackwood, Artemis-7, Neo-Tokyo 2157, Borgo di Silvacristallo)
-- **Cross-References**: 20+ collegamenti implementati
-- **Generi Coperti**: Fantasy, Sci-Fi, Mystery, Romance, Distopico, Avventura
+- **Storie Totali**: 5
+- **Personaggi Unici**: 16 principali + 8 secondari
+- **Mondi Creati**: 6 (Terra Mystica, Università di Blackwood, Artemis-7, Neo-Tokyo 2157, Borgo di Silvacristallo, Repubblica Federale di Aquatica)
+- **Cross-References**: 25+ collegamenti implementati
+- **Generi Coperti**: Fantasy, Sci-Fi, Mystery, Romance, Distopico, Avventura, Comedy
 
 ## Prossimi Sviluppi Suggeriti | Suggested Next Developments
 

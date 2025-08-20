@@ -90,12 +90,51 @@
 - **Caratteristiche**: Orecchie volpine, conoscenza delle reliquie Stellari
 - **Ruolo**: Mentore e informatrice per Kael
 
+## Nuovi Personaggi da "Gatti nucleari e balene assassine"
+
+### Giacomo Stellari
+- **Prima Apparizione**: "Gatti nucleari e balene assassine"
+- **Professione**: Bioingegnere, Professore alla Stazione di Ricerca Marittima Stellari-Beta
+- **Epoca**: 2134
+- **Caratteristiche**: Pronipote di Marco Stellari, specialista in ibridazione biologica
+- **Connessioni**: Continua gli esperimenti della famiglia Stellari con frammenti del Cristallo di Vremya
+- **Ruolo**: Consulente scientifico della Repubblica Federale di Aquatica
+
+### Whiskers
+- **Prima Apparizione**: "Gatti nucleari e balene assassine"
+- **Specie**: Gatto soriano modificato da radiazioni interdimensionali
+- **Caratteristiche**: Pelo luminescente verde, starnuti che generano esplosioni nucleari controllate
+- **Capacità**: Fusione nucleare controllata, cucina molecolare, conversione materia-energia
+- **Ruolo**: Ministro delle Esplosioni Controllate, Dottorato in Fisica Nucleare Applicata
+
+### Shamu-VII
+- **Prima Apparizione**: "Gatti nucleari e balene assassine"
+- **Specie**: Orca modificata telepaticamente
+- **Caratteristiche**: Superintelligenza, telepatia, manipolazione telecinética dell'acqua
+- **Capacità**: Comunicazione interspecifica, organizzazione sociale avanzata
+- **Ruolo**: Primo Ministro di Aquatica, Ambasciatrice ONU per gli Affari Oceanici
+
+### Professor Tentacles
+- **Prima Apparizione**: "Gatti nucleari e balene assassine"
+- **Specie**: Polpo evoluto
+- **Caratteristiche**: Corona di coralli luminescenti, comunicazione tramite pattern colorati
+- **Ruolo**: Ministro degli Affari Esteri della Repubblica Federale di Aquatica
+
+### Comandante Morrison
+- **Prima Apparizione**: "Gatti nucleari e balene assassine"
+- **Professione**: Ispettore della Commissione per la Sicurezza Nucleare Marina
+- **Ruolo**: Primo rappresentante umano a riconoscere ufficialmente Aquatica
+
 ## Cross-References
 
 - **Marco → Luna**: Relazione familiare diretta (bisnonno-pronipote)
+- **Marco → Giacomo**: Relazione familiare diretta (bisnonno-pronipote)
 - **Marco → Kael**: Vixen usa tecnologia derivata dagli esperimenti Stellari
 - **Luna → Kai/Elena**: Le sue ricerche sono conservate nell'Ultima Libreria
+- **Giacomo → Whiskers/Shamu-VII**: Esperimenti con frammenti del Cristallo di Vremya causano mutazioni
 - **Lyralei**: Appare come guida in tutte le linee temporali
 - **Lyralei → Vixen**: Entrambe sono Guardiane di Terra Mystica
-- **Cristallo di Vremya**: Elemento unificante presente in tutte le storie
+- **Cristallo di Vremya**: Elemento unificante presente in tutte le storie, frammenti utilizzati in esperimenti biologici
 - **Kael → Convergenza**: La sua storia prepara la ricongiunzione dei mondi prevista
+- **Aquatica → Convergenza**: La coalizione interspecifica prepara la Terra per l'integrazione dimensionale
+- **Famiglia Stellari**: Linea genealogica che continua gli esperimenti dimensionali attraverso le generazioni
