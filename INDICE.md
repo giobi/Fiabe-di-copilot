@@ -56,10 +56,22 @@
 - **Temi**: Resilienza attraverso l'umorismo, trasformazione dell'apocalisse in arte, ponti interdimensionali
 - **Connessioni**: Collegata a L'Ultima Libreria, utilizza frammenti del Cristallo di Vremya, espande l'universo post-Guerre della Memoria
 
+### 7. La Tessitrice di Stelle
+- **File**: `stories/cross-genre/la-tessitrice-di-stelle.md`
+- **Genere**: Fantasy/Sci-Fi
+- **Protagonisti**: Stella Stellari, Cosmo (IA)
+- **Epoca**: 2085
+- **Ambientazione**: Osservatorio di Monte Stellario, Alpi Italiane
+- **Temi**: Arte come ponte dimensionale, astronomia magica, preparazione alla Convergenza, coordinamento familiare
+- **Connessioni**: Famiglia Stellari, prepara le mappe per la Grande Convergenza, collabora con Lyralei, utilizza frammento del Cristallo di Vremya
+
 ## Cronologia | Timeline
 
 ### Primo XXI Secolo
 - **Il Cristallo di Vremya**: Marco Stellari scopre il ponte dimensionale
+
+### 2085
+- **La Tessitrice di Stelle**: Stella Stellari crea le mappe stellari per la Grande Convergenza
 
 ### 2089  
 - **Il Ragazzo e la Volpe Meccanica**: Kael e Vixen come Ambasciatori interdimensionali
@@ -78,6 +90,7 @@
 
 ### Famiglia Stellari
 - **Marco Stellari**: Esploratore dimensionale (XXI secolo)
+- **Stella Stellari**: Astronoma-artista e tessitrice di mappe stellari (2085)
 - **Giacomo Stellari**: Bioingegnere marino (2134)
 - **Luna Stellari**: Detective spaziale (2157)
 
@@ -119,6 +132,12 @@
 - Centro di addestramento per Ambasciatori interdimensionali
 - Tecnologie ibride magia-scienza
 
+### Osservatorio di Monte Stellario
+- Centro astronomico-artistico nelle Alpi Italiane (2085)
+- Casa del telaio quantico e delle mappe stellari dimensionali
+- Centro di coordinamento della rete familiare Stellari
+- Dimensioni sottili favoriscono l'osservazione interdimensionale
+
 
 ### Repubblica Federale di Aquatica
 - Ex-Stazione di Ricerca Marittima Stellari-Beta, Oceano Pacifico (2134)
@@ -139,15 +158,18 @@
 - **Funzione**: Comunicazione e attraversamento dimensionale
 
 ### Cross-References Implementati
-- Marco come antenato di Luna e Giacomo
+- Marco come antenato di Luna, Giacomo e Stella
 - Il cristallo che passa attraverso le generazioni Stellari
 - Frammenti del Cristallo usati per esperimenti biologici (Giacomo)
+- Frammenti del Cristallo usati per tessitura stellare (Stella)
 - Lyralei come guida costante
 - Le storie preserve nell'Ultima Libreria
 - Neo-Tokyo 2157 come setting condiviso
 - Vixen utilizza tecnologia derivata dagli esperimenti Stellari
 - Kael come Ambasciatore per la convergenza finale
+- Stella prepara le mappe per la convergenza finale
 - Borgo di Silvacristallo come ponte tra mondi (2089)
+- Osservatorio di Monte Stellario come centro coordinamento familiare (2085)
 - Aquatica come preparazione per l'integrazione interspecifica (2134)
 
 ## Database di Supporto | Support Database

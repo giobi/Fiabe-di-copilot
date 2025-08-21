@@ -100,6 +100,15 @@
 - **Connessioni**: Continua gli esperimenti della famiglia Stellari con frammenti del Cristallo di Vremya
 - **Ruolo**: Consulente scientifico della Repubblica Federale di Aquatica
 
+### Stella Stellari
+- **Prima Apparizione**: "La Tessitrice di Stelle"
+- **Professione**: Astronoma-artista all'Osservatorio di Monte Stellario
+- **Epoca**: 2085
+- **Caratteristiche**: Discendente della famiglia Stellari, tessitrice di mappe stellari dimensionali
+- **Capacità**: Percepisce i fili dimensionali, cattura luce stellare multidimensionale, tesse pattern che stabilizzano i ponti tra mondi
+- **Connessioni**: Cugina di Giacomo Stellari, collabora con Lyralei, prepara le mappe per la Grande Convergenza
+- **Ruolo**: Coordinatrice della rete familiare Stellari, preparatrice della Convergenza
+
 ### Whiskers
 - **Prima Apparizione**: "Gatti nucleari e balene assassine"
 - **Specie**: Gatto soriano modificato da radiazioni interdimensionali
@@ -124,6 +133,14 @@
 - **Prima Apparizione**: "Gatti nucleari e balene assassine"
 - **Professione**: Ispettore della Commissione per la Sicurezza Nucleare Marina
 - **Ruolo**: Primo rappresentante umano a riconoscere ufficialmente Aquatica
+
+### Cosmo
+- **Prima Apparizione**: "La Tessitrice di Stelle"
+- **Natura**: Intelligenza Artificiale dell'Osservatorio di Monte Stellario
+- **Epoca**: 2085
+- **Caratteristiche**: Voce melodiosa, capacità di rilevare anomalie dimensionali, sensori specializzati
+- **Capacità**: Monitoraggio dimensionale, coordinamento della rete Stellari, assistenza nella tessitura stellare
+- **Connessioni**: Partner di lavoro di Stella Stellari, custode delle mappe dimensionali
 
 
 ## Nuovi Personaggi da "Totò e l'apocalisse nucleare"
@@ -164,9 +181,15 @@
 
 - **Marco → Luna**: Relazione familiare diretta (bisnonno-pronipote)
 - **Marco → Giacomo**: Relazione familiare diretta (bisnonno-pronipote)
+- **Marco → Stella**: Relazione familiare diretta (trisnonno-pronipote)
 - **Marco → Kael**: Vixen usa tecnologia derivata dagli esperimenti Stellari
 - **Marco → Totò**: Frammento del Cristallo di Vremya trovato nell'Università Federico II
 - **Luna → Kai/Elena**: Le sue ricerche sono conservate nell'Ultima Libreria
+
+- **Stella → Giacomo**: Relazione familiare diretta (cugina)
+- **Stella → Kael**: Le sue mappe stellari preparano l'addestramento interdimensionale
+- **Stella → Lyralei**: Collaborazione diretta nella preparazione della Convergenza
+- **Stella → Rete Stellari**: Centro di coordinamento familiare attraverso l'Osservatorio
 
 
 - **Giacomo → Whiskers/Shamu-VII**: Esperimenti con frammenti del Cristallo di Vremya causano mutazioni
