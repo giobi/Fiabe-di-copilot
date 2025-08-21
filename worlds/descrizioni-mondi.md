@@ -132,6 +132,43 @@
 
 
 
+## Osservatorio di Monte Stellario
+
+### Ubicazione
+- **Montagna**: Monte Stellario, Alpi Piemontesi
+- **Altitudine**: 3000 metri
+- **Epoca**: Costruito nel 2084, operativo dal 2085
+- **Caratteristiche Geografiche**: Zona dove il velo dimensionale è naturalmente sottile
+
+### Strutture Principali
+- **Cupola Astronomica**: Equipaggiata con telescopi convenzionali e sensori dimensionali
+- **Telaio Quantico**: Dispositivo ibrido per catturare e tessere luce stellare multidimensionale
+- **Camera del Cristallo**: Dove è custodito il frammento del Cristallo di Vremya
+- **Centro Comunicazioni**: Hub per la rete familiare Stellari
+
+### Tecnologie Uniche
+- **Cattura Luce Stellare**: Capacità di catturare luce da multiple dimensioni
+- **Tessitura Dimensionale**: Creazione di pattern che stabilizzano ponti interdimensionali
+- **Sensori Temporali**: Monitoraggio delle fluttuazioni del tessuto spazio-temporale
+- **Rete Stellari**: Sistema di comunicazione familiare attraverso cristalli risonanti
+
+### Funzioni
+- **Ricerca Astronomica**: Studio di fenomeni celesti convenzionali e dimensionali
+- **Preparazione Convergenza**: Creazione delle mappe che guideranno la riunificazione
+- **Coordinamento Familiare**: Centro di comunicazione per tutti i membri Stellari
+- **Arte Dimensionale**: Creazione di opere che influenzano la realtà stessa
+
+### Abitanti
+- **Stella Stellari**: Direttrice e tessitrice principale
+- **Cosmo**: Intelligenza Artificiale dell'osservatorio
+- **Staff Ridotto**: Pochi tecnici che comprendono le tecnologie ibride
+
+### Fenomeni Unici
+- **Notti di Tessitura**: Quando le condizioni dimensionali permettono la creazione di mappe stellari
+- **Risonanza Cristallina**: Il Cristallo di Vremya amplifica i pattern tessuti
+- **Visioni Interdimensionali**: Comunicazioni dirette con Lyralei e Terra Mystica
+
+
 ## Napoli Post-Nucleare 2165
 
 ### Contesto Storico
@@ -176,6 +213,11 @@
 - **Marco Stellari**: Scoperta del Cristallo di Vremya
 - **Prima Apertura**: Contatto iniziale con Terra Mystica
 - **Università di Blackwood**: Centro di ricerca dimensionale
+
+### 2085
+- **Osservatorio di Monte Stellario**: Stella Stellari tesse le mappe stellari per guidare la Convergenza
+- **Coordinamento Familiare**: L'Osservatorio diventa centro di comunicazione per tutti gli Stellari
+- **Prime Mappe Dimensionali**: Creazione dei pattern che stabilizzeranno la convergenza futura
 
 ### 2089
 - **Borgo di Silvacristallo**: Kael e Vixen come Ambasciatori interdimensionali
