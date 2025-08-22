@@ -234,8 +234,34 @@
 - **Capacità**: Illusioni dimensionali, conoscenza dei funghi di Terra Mystica, lettura dei database interdimensionali
 - **Ruolo**: Co-fondatore di "Funghi & Radiazioni", ponte tra Terra Mystica e mondo post-apocalittico
 
+## Nuovi Personaggi da "Il Copywriter Annoiato e la Tangente Infinita"
+
+### Gabriele Rossi
+- **Prima Apparizione**: "Il Copywriter Annoiato e la Tangente Infinita"
+- **Professione**: Copywriter presso agenzia pubblicitaria "Creatività & Associati", Milano
+- **Epoca**: 2000 (Primo XXI secolo)
+- **Caratteristiche**: Ventotto anni, copywriter stressato e annoiato dal lavoro quotidiano
+- **Capacità**: Creatività pubblicitaria, apertura mentale verso il fantastico
+- **Connessioni**: Testimone degli effetti delle ricerche di Marco Stellari sulla vita quotidiana milanese
+- **Ruolo**: Rappresenta la normalità che viene destabilizzata dalla magia dimensionale
+
+### Giobi Martinelli
+- **Prima Apparizione**: "Il Copywriter Annoiato e la Tangente Infinita"
+- **Professione**: Ruolo indefinito presso "Creatività & Associati", documentatore di fenomeni strani
+- **Epoca**: 2000 (Primo XXI secolo)
+- **Caratteristiche**: Quarant'anni, barba incolta, occhiali rotondi, collezionista di camicie hawaiane
+- **Capacità**: Osservazione acuta, documentazione meticolosa, connessione di eventi apparentemente scollegati
+- **Oggetti**: Quaderno nero per documentare eventi strani, cristallo azzurro come fermacarte
+- **Connessioni**: Ponte tra il mondo normale e quello fantastico, collegato indirettamente alle ricerche di Marco Stellari
+- **Ruolo**: Osservatore e cronista delle interferenze dimensionali nella vita quotidiana
+
 ## Cross-References Aggiornati
 
+- **Gabriele → Marco Stellari**: Contemporaneo delle ricerche, subisce gli effetti delle interferenze dimensionali
+- **Giobi → Marco Stellari**: Ricerca attiva sui suoi esperimenti, documenta gli effetti collaterali
+- **Giobi → Cristallo di Vremya**: Possiede un frammento trovato nell'ufficio
+- **Ufficio Milanese → Esperimenti Stellari**: Centro di manifestazioni dimensionali dovute alle ricerche universitarie
+- **Fenomeni Quotidiani**: Gli esperimenti di Marco iniziano a influenzare la vita normale milanese
 - **Jennifer → Cristallo di Vremya**: Riceve frammento da viaggiatore da Napoli
 - **Jennifer → Totò**: Collegata attraverso viaggiatori napoletani post-apocalittici
 - **Jennifer → L'Ultima Libreria**: Menzione indiretta attraverso viaggiatori che raccontano storie
