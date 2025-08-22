@@ -1,9 +1,9 @@
 # Indice delle Storie | Story Index
 
-## Prime 5 Storie Create | First 5 Stories Created
+## Tutte le Storie | All Stories
 
-### 1. Il Cristallo di Vremya
-- **File**: `stories/cross-genre/il-cristallo-di-vremya.md`
+### 1. [Il Cristallo di Vremya](stories/cross-genre/il-cristallo-di-vremya.md)
+- **File**: [stories/cross-genre/il-cristallo-di-vremya.md](stories/cross-genre/il-cristallo-di-vremya.md)
 - **Genere**: Fantasy/Sci-Fi
 - **Protagonista**: Marco Stellari
 - **Epoca**: Primo XXI secolo
@@ -11,8 +11,8 @@
 - **Temi**: Scoperta dimensionale, sacrificio, preparazione per il futuro
 - **Connessioni**: Base di tutto l'universo narrativo
 
-### 2. Detective Luna
-- **File**: `stories/mystery/detective-luna.md`
+### 2. [Detective Luna](stories/mystery/detective-luna.md)
+- **File**: [stories/mystery/detective-luna.md](stories/mystery/detective-luna.md)
 - **Genere**: Mystery/Sci-Fi  
 - **Protagonista**: Luna Stellari
 - **Epoca**: 2157
@@ -20,8 +20,8 @@
 - **Temi**: Investigazione paranormale, eredità familiare, protezione dimensionale
 - **Connessioni**: Pronipote di Marco, stesso periodo di L'Ultima Libreria
 
-### 3. L'Ultima Libreria
-- **File**: `stories/cross-genre/lultima-libreria.md`
+### 3. [L'Ultima Libreria](stories/cross-genre/lultima-libreria.md)
+- **File**: [stories/cross-genre/lultima-libreria.md](stories/cross-genre/lultima-libreria.md)
 - **Genere**: Distopico/Romance
 - **Protagonisti**: Kai ed Elena
 - **Epoca**: 2157 (Neo-Tokyo post-apocalittica)
@@ -29,8 +29,8 @@
 - **Temi**: Preservazione della memoria, amore, resistenza culturale
 - **Connessioni**: Conserva le storie di Marco e Luna, stesso periodo temporale
 
-### 4. Il Ragazzo e la Volpe Meccanica
-- **File**: `stories/fantasy/il-ragazzo-e-la-volpe-meccanica.md`
+### 4. [Il Ragazzo e la Volpe Meccanica](stories/fantasy/il-ragazzo-e-la-volpe-meccanica.md)
+- **File**: [stories/fantasy/il-ragazzo-e-la-volpe-meccanica.md](stories/fantasy/il-ragazzo-e-la-volpe-meccanica.md)
 - **Genere**: Fantasy/Avventura
 - **Protagonisti**: Kael e Vixen
 - **Epoca**: 2089
@@ -38,8 +38,8 @@
 - **Temi**: Amore tra specie diverse, tecnologia senziente, preparazione alla convergenza
 - **Connessioni**: Usa tecnologia Stellari, prepara la ricongiunzione dei mondi
 
-### 5. Gatti nucleari e balene assassine
-- **File**: `stories/sci-fi/gatti-nucleari-e-balene-assassine.md`
+### 5. [Gatti nucleari e balene assassine](stories/sci-fi/gatti-nucleari-e-balene-assassine.md)
+- **File**: [stories/sci-fi/gatti-nucleari-e-balene-assassine.md](stories/sci-fi/gatti-nucleari-e-balene-assassine.md)
 - **Genere**: Sci-Fi/Comedy
 - **Protagonisti**: Giacomo Stellari, Whiskers, Shamu-VII
 - **Epoca**: 2134
@@ -47,8 +47,17 @@
 - **Temi**: Evoluzione accelerata, cooperazione interspecifica, conseguenze impreviste della scienza
 - **Connessioni**: Famiglia Stellari, frammenti del Cristallo di Vremya, preparazione alla convergenza
 
-### 6. Totò e l'apocalisse nucleare
-- **File**: `stories/cross-genre/toto-e-lapocalisse-nucleare.md`
+### 6. [La Tessitrice di Stelle](stories/cross-genre/la-tessitrice-di-stelle.md)
+- **File**: [stories/cross-genre/la-tessitrice-di-stelle.md](stories/cross-genre/la-tessitrice-di-stelle.md)
+- **Genere**: Fantasy/Sci-Fi
+- **Protagonista**: Stella Stellari
+- **Epoca**: 2085
+- **Ambientazione**: Osservatorio di Monte Stellario, Alpi Italiane
+- **Temi**: Arte astronomica, preparazione alla convergenza, mappe stellari dimensionali
+- **Connessioni**: Famiglia Stellari, frammento del Cristallo di Vremya, preparazione alla Grande Convergenza
+
+### 7. [Totò e l'apocalisse nucleare](stories/cross-genre/toto-e-lapocalisse-nucleare.md)
+- **File**: [stories/cross-genre/toto-e-lapocalisse-nucleare.md](stories/cross-genre/toto-e-lapocalisse-nucleare.md)
 - **Genere**: Post-apocalittico/Commedia/Satirico
 - **Protagonisti**: Totò, Massimo Troisi, Diego Armando Maradona, Pulcinella
 - **Epoca**: 2165 (Napoli post-nucleare)
@@ -56,8 +65,8 @@
 - **Temi**: Resilienza attraverso l'umorismo, trasformazione dell'apocalisse in arte, ponti interdimensionali
 - **Connessioni**: Collegata a L'Ultima Libreria, utilizza frammenti del Cristallo di Vremya, espande l'universo post-Guerre della Memoria
 
-### 8. I funghetti magici del mondo di Jennifer
-- **File**: `stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md`
+### 8. [I funghetti magici del mondo di Jennifer](stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md)
+- **File**: [stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md](stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md)
 - **Genere**: Sci-Fi/Fantasy/Satirico/Distopico
 - **Protagonisti**: Jennifer McAllister, Mefistofele (gatto gigante), Spore (fungo senziente)
 - **Epoca**: 2175
@@ -68,26 +77,26 @@
 ## Cronologia | Timeline
 
 ### Primo XXI Secolo
-- **Il Cristallo di Vremya**: Marco Stellari scopre il ponte dimensionale
+- **[Il Cristallo di Vremya](stories/cross-genre/il-cristallo-di-vremya.md)**: Marco Stellari scopre il ponte dimensionale
 
 ### 2085
-- **La Tessitrice di Stelle**: Stella Stellari crea le mappe stellari per la Grande Convergenza
+- **[La Tessitrice di Stelle](stories/cross-genre/la-tessitrice-di-stelle.md)**: Stella Stellari crea le mappe stellari per la Grande Convergenza
 
 ### 2089  
-- **Il Ragazzo e la Volpe Meccanica**: Kael e Vixen come Ambasciatori interdimensionali
+- **[Il Ragazzo e la Volpe Meccanica](stories/fantasy/il-ragazzo-e-la-volpe-meccanica.md)**: Kael e Vixen come Ambasciatori interdimensionali
 
 ### 2134
-- **Gatti nucleari e balene assassine**: Giacomo Stellari crea la Repubblica Federale di Aquatica
+- **[Gatti nucleari e balene assassine](stories/sci-fi/gatti-nucleari-e-balene-assassine.md)**: Giacomo Stellari crea la Repubblica Federale di Aquatica
 
 ### 2157
-- **Detective Luna**: Luna risolve crimini dimensionali su Artemis-7
-- **L'Ultima Libreria**: Kai ed Elena preservano la conoscenza a Neo-Tokyo
+- **[Detective Luna](stories/mystery/detective-luna.md)**: Luna risolve crimini dimensionali su Artemis-7
+- **[L'Ultima Libreria](stories/cross-genre/lultima-libreria.md)**: Kai ed Elena preservano la conoscenza a Neo-Tokyo
 
 ### 2165
-- **Totò e l'apocalisse nucleare**: Napoli post-nucleare diventa un ponte interdimensionale
+- **[Totò e l'apocalisse nucleare](stories/cross-genre/toto-e-lapocalisse-nucleare.md)**: Napoli post-nucleare diventa un ponte interdimensionale
 
 ### 2175
-- **I funghetti magici del mondo di Jennifer**: Nascita del primo commercio interdimensionale post-apocalittico
+- **[I funghetti magici del mondo di Jennifer](stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md)**: Nascita del primo commercio interdimensionale post-apocalittico
 
 ## Personaggi Principali | Main Characters
 
@@ -189,21 +198,24 @@
 ## Database di Supporto | Support Database
 
 ### Personaggi
-- **File**: `characters/database-personaggi.md`
+- **File**: [characters/database-personaggi.md](characters/database-personaggi.md)
 - Contiene profili dettagliati di tutti i personaggi e le loro interconnessioni
 
 ### Mondi
-- **File**: `worlds/descrizioni-mondi.md`
+- **File**: [worlds/descrizioni-mondi.md](worlds/descrizioni-mondi.md)
 - Descrizioni complete di tutte le ambientazioni e la timeline condivisa
 
 ### Template
-- **File**: `templates/template-storia.md`
+- **File**: [templates/template-storia.md](templates/template-storia.md)
 - Guida per la creazione di nuove storie nell'universo
 
 ## Statistiche Attuali | Current Statistics
 
-- **Storie Totali**: 
-- TODO: ricotnare storie e personaggi
+- **Storie Totali**: 8
+- **Generi**: Fantasy, Sci-Fi, Mystery, Cross-Genre, Post-apocalittico, Commedia, Satirico, Distopico
+- **Ambientazioni**: 8 mondi/epoche diverse
+- **Personaggi Principali**: 15+
+- **Linea Temporale**: Dal primo XXI secolo al 2175
 
 ## Prossimi Sviluppi Suggeriti | Suggested Next Developments
 
