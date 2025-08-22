@@ -6,9 +6,46 @@
 
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
+const http = require('http');
 
 // Endpoint per la generazione delle immagini
 const IMAGE_ENDPOINT = 'https://giobiflare-llm24.giobi.workers.dev/image?prompt=';
+const IMAGE_PARAMS = '&width=1000&height=600&regen';
+const SAVE_IMAGES_LOCALLY = process.env.SAVE_IMAGES_LOCALLY === 'true';
+const IMAGES_DIR = path.join(__dirname, '../images/stories');
+
+/**
+ * Scarica e salva un'immagine localmente
+ */
+function downloadImage(url, filename) {
+    return new Promise((resolve, reject) => {
+        const protocol = url.startsWith('https:') ? https : http;
+        
+        protocol.get(url, (response) => {
+            if (response.statusCode === 200) {
+                const filePath = path.join(IMAGES_DIR, filename);
+                const fileStream = fs.createWriteStream(filePath);
+                
+                response.pipe(fileStream);
+                
+                fileStream.on('finish', () => {
+                    fileStream.close();
+                    resolve(filePath);
+                });
+                
+                fileStream.on('error', (err) => {
+                    fs.unlink(filePath, () => {}); // Rimuove file parziale
+                    reject(err);
+                });
+            } else {
+                reject(new Error(`HTTP ${response.statusCode}: ${response.statusMessage}`));
+            }
+        }).on('error', (err) => {
+            reject(err);
+        });
+    });
+}
 
 /**
  * Estrae il contenuto della storia dal file markdown
@@ -65,17 +102,23 @@ function generateImagePrompts(storyText, metadata) {
     
     const baseStyle = `Fantasy illustration, ${metadata.genre.toLowerCase()} style, ${metadata.ambientazione}, cinematic lighting, detailed digital art`;
     
+    // Limita a 50 parole per ogni parte della storia
+    const getFirst50Words = (text) => {
+        const textWords = text.split(' ');
+        return textWords.slice(0, 50).join(' ');
+    };
+    
     return {
         beginning: {
-            prompt: `${baseStyle}. Opening scene: ${part1.substring(0, 200)}...`,
+            prompt: `${baseStyle}. Opening scene: ${getFirst50Words(part1)}`,
             alt: `Immagine iniziale - ${metadata.title}`
         },
         middle: {
-            prompt: `${baseStyle}. Middle scene: ${part2.substring(0, 200)}...`,
+            prompt: `${baseStyle}. Middle scene: ${getFirst50Words(part2)}`,
             alt: `Immagine centrale - ${metadata.title}`
         },
         end: {
-            prompt: `${baseStyle}. Final scene: ${part3.substring(0, 200)}...`,
+            prompt: `${baseStyle}. Final scene: ${getFirst50Words(part3)}`,
             alt: `Immagine finale - ${metadata.title}`
         }
     };
@@ -84,20 +127,46 @@ function generateImagePrompts(storyText, metadata) {
 /**
  * Genera l'HTML per le immagini
  */
-function generateImageHTML(prompts, storyFileName) {
+async function generateImageHTML(prompts, storyFileName) {
     const baseFileName = path.basename(storyFileName, '.md');
+    const results = {};
     
-    return {
-        beginning: `![${prompts.beginning.alt}](${IMAGE_ENDPOINT}${encodeURIComponent(prompts.beginning.prompt)} "${prompts.beginning.alt}")`,
-        middle: `![${prompts.middle.alt}](${IMAGE_ENDPOINT}${encodeURIComponent(prompts.middle.prompt)} "${prompts.middle.alt}")`,
-        end: `![${prompts.end.alt}](${IMAGE_ENDPOINT}${encodeURIComponent(prompts.end.prompt)} "${prompts.end.alt}")`
-    };
+    for (const [position, promptData] of Object.entries(prompts)) {
+        const imageUrl = `${IMAGE_ENDPOINT}${encodeURIComponent(promptData.prompt)}${IMAGE_PARAMS}`;
+        
+        if (SAVE_IMAGES_LOCALLY) {
+            try {
+                // Crea nome file per immagine locale
+                const imageFileName = `${baseFileName}-${position}.jpg`;
+                
+                // Scarica e salva l'immagine
+                console.log(`Scaricando immagine ${position} per ${baseFileName}...`);
+                await downloadImage(imageUrl, imageFileName);
+                
+                // Usa percorso relativo per l'immagine locale
+                const localPath = `../images/stories/${imageFileName}`;
+                results[position] = `![${promptData.alt}](${localPath} "${promptData.alt}")`;
+                
+                console.log(`✅ Immagine ${position} salvata localmente: ${imageFileName}`);
+            } catch (error) {
+                console.warn(`⚠️  Errore scaricamento immagine ${position}: ${error.message}`);
+                console.warn(`   Uso URL remoto come fallback`);
+                // Fallback all'URL remoto
+                results[position] = `![${promptData.alt}](${imageUrl} "${promptData.alt}")`;
+            }
+        } else {
+            // Usa URL remoto
+            results[position] = `![${promptData.alt}](${imageUrl} "${promptData.alt}")`;
+        }
+    }
+    
+    return results;
 }
 
 /**
  * Aggiorna il file della storia con le immagini
  */
-function updateStoryWithImages(filePath) {
+async function updateStoryWithImages(filePath, forceRegenerate = false) {
     console.log(`Processando: ${filePath}`);
     
     const storyContent = extractStoryContent(filePath);
@@ -105,15 +174,23 @@ function updateStoryWithImages(filePath) {
     
     const metadata = extractMetadata(filePath);
     const prompts = generateImagePrompts(storyContent, metadata);
-    const images = generateImageHTML(prompts, filePath);
+    const images = await generateImageHTML(prompts, filePath);
     
     // Legge il contenuto del file
     let content = fs.readFileSync(filePath, 'utf8');
     
     // Verifica se le immagini sono già presenti
     if (content.includes('<!-- IMMAGINE INIZIALE -->')) {
-        console.log(`Le immagini sono già presenti in ${filePath}`);
-        return;
+        if (!forceRegenerate) {
+            console.log(`Le immagini sono già presenti in ${filePath}`);
+            return;
+        } else {
+            console.log(`🔄 Rigenerazione forzata per ${filePath}`);
+            // Rimuove le immagini esistenti
+            content = content.replace(/<!-- IMMAGINE INIZIALE -->\s*\n![^)]*\)\s*\n/g, '');
+            content = content.replace(/<!-- IMMAGINE CENTRALE -->\s*\n![^)]*\)\s*\n/g, '');
+            content = content.replace(/<!-- IMMAGINE FINALE -->\s*\n![^)]*\)\s*\n/g, '');
+        }
     }
     
     // Trova la posizione dove inserire le immagini
@@ -173,9 +250,18 @@ ${images.end}
 /**
  * Funzione principale
  */
-function main() {
+async function main() {
     const storiesDir = path.join(__dirname, '../stories');
     const storyFiles = [];
+    
+    // Controlla se è stata richiesta la rigenerazione
+    const forceRegenerate = process.argv.includes('--regen');
+    
+    // Crea la cartella delle immagini se non esiste
+    if (SAVE_IMAGES_LOCALLY && !fs.existsSync(IMAGES_DIR)) {
+        fs.mkdirSync(IMAGES_DIR, { recursive: true });
+        console.log(`📁 Creata cartella immagini: ${IMAGES_DIR}`);
+    }
     
     // Raccoglie tutti i file .md nelle sottocartelle
     function collectStoryFiles(dir) {
@@ -196,15 +282,27 @@ function main() {
     console.log(`Trovati ${storyFiles.length} file di storie da processare:`);
     storyFiles.forEach(file => console.log(` - ${path.relative(storiesDir, file)}`));
     
-    // Processa ogni file
-    storyFiles.forEach(updateStoryWithImages);
+    if (SAVE_IMAGES_LOCALLY) {
+        console.log(`🖼️  Modalità salvataggio locale attivata - le immagini saranno salvate in: ${IMAGES_DIR}`);
+    } else {
+        console.log(`🌐 Modalità URL remoto - le immagini useranno l'endpoint esterno`);
+    }
+    
+    if (forceRegenerate) {
+        console.log(`🔄 Modalità rigenerazione attivata - le immagini esistenti verranno sostituite`);
+    }
+    
+    // Processa ogni file in modo sequenziale per evitare overload
+    for (const filePath of storyFiles) {
+        await updateStoryWithImages(filePath, forceRegenerate);
+    }
     
     console.log('\n🎨 Generazione immagini completata!');
 }
 
 // Esegue solo se chiamato direttamente
 if (require.main === module) {
-    main();
+    main().catch(console.error);
 }
 
 module.exports = {
