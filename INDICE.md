@@ -56,14 +56,14 @@
 - **Temi**: Resilienza attraverso l'umorismo, trasformazione dell'apocalisse in arte, ponti interdimensionali
 - **Connessioni**: Collegata a L'Ultima Libreria, utilizza frammenti del Cristallo di Vremya, espande l'universo post-Guerre della Memoria
 
-### 7. La Tessitrice di Stelle
-- **File**: `stories/cross-genre/la-tessitrice-di-stelle.md`
-- **Genere**: Fantasy/Sci-Fi
-- **Protagonisti**: Stella Stellari, Cosmo (IA)
-- **Epoca**: 2085
-- **Ambientazione**: Osservatorio di Monte Stellario, Alpi Italiane
-- **Temi**: Arte come ponte dimensionale, astronomia magica, preparazione alla Convergenza, coordinamento familiare
-- **Connessioni**: Famiglia Stellari, prepara le mappe per la Grande Convergenza, collabora con Lyralei, utilizza frammento del Cristallo di Vremya
+### 8. I funghetti magici del mondo di Jennifer
+- **File**: `stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md`
+- **Genere**: Sci-Fi/Fantasy/Satirico/Distopico
+- **Protagonisti**: Jennifer McAllister, Mefistofele (gatto gigante), Spore (fungo senziente)
+- **Epoca**: 2175
+- **Ambientazione**: Foresta Contaminata di Chernobyl-Sud, ex-zona industriale
+- **Temi**: Sopravvivenza post-apocalittica, ironia sul perfezionismo, accettazione del caos, imprenditoria interdimensionale
+- **Connessioni**: Ambientato dopo "Totò e l'apocalisse nucleare", energia di Terra Mystica contamina zone radioattive, frammento del Cristallo di Vremya
 
 ## Cronologia | Timeline
 
@@ -85,6 +85,9 @@
 
 ### 2165
 - **Totò e l'apocalisse nucleare**: Napoli post-nucleare diventa un ponte interdimensionale
+
+### 2175
+- **I funghetti magici del mondo di Jennifer**: Nascita del primo commercio interdimensionale post-apocalittico
 
 ## Personaggi Principali | Main Characters
 
@@ -150,6 +153,11 @@
 - La Fonte di San Gennaro come nodo dimensionale
 - Trasformazione dell'apocalisse in arte e teatro cosmico
 
+### Foresta Contaminata di Chernobyl-Sud 2175
+- Ex-zona industriale trasformata da energia di Terra Mystica
+- Primo centro commerciale interdimensionale post-apocalittico
+- Ecosistema impossibile con funghi magici e creature mutanti
+
 ## Elementi Ricorrenti | Recurring Elements
 
 ### Il Cristallo di Vremya
@@ -162,6 +170,7 @@
 - Il cristallo che passa attraverso le generazioni Stellari
 - Frammenti del Cristallo usati per esperimenti biologici (Giacomo)
 - Frammenti del Cristallo usati per tessitura stellare (Stella)
+- Frammenti del Cristallo in mano a Jennifer come ponte commerciale interdimensionale
 - Lyralei come guida costante
 - Le storie preserve nell'Ultima Libreria
 - Neo-Tokyo 2157 come setting condiviso
@@ -171,6 +180,11 @@
 - Borgo di Silvacristallo come ponte tra mondi (2089)
 - Osservatorio di Monte Stellario come centro coordinamento familiare (2085)
 - Aquatica come preparazione per l'integrazione interspecifica (2134)
+- Napoli come nodo dimensionale riattivato (2165)
+- Chernobyl-Sud come primo centro commerciale interdimensionale (2175)
+- Contaminazione energetica che si diffonde da Napoli verso l'Europa
+- Evoluzione da sopravvivenza individuale a commercio inter-dimensionale
+- Mutanti: da Whiskers a Mefistofele, evoluzione delle creature radioattive senzienti
 
 ## Database di Supporto | Support Database
 

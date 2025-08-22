@@ -255,3 +255,36 @@
 - **Conservazione**: Nell'Ultima Libreria
 - **Trasmissione**: Attraverso le generazioni
 - **Potere**: Preparano l'umanità per la convergenza finale
+
+## Foresta Contaminata di Chernobyl-Sud
+
+### Ubicazione
+- **Epoca**: 2175
+- **Posizione**: Ex-zona industriale europea, sud dell'originale Chernobyl
+- **Caratteristiche**: Ecosistema impossibile dove radiazioni terrestri si mescolano con energia di Terra Mystica
+
+### Formazione
+- **Contaminazione Dimensionale**: Risultato dei ponti dimensionali aperti a Napoli nel 2165
+- **Cascata Energetica**: Diffusione di energie di Terra Mystica per l'Europa meridionale
+- **Evoluzione Accelerata**: Trasformazione di zone industriali in foreste magiche post-apocalittiche
+
+### Flora e Fauna
+- **Funghi Bioluminescenti**: Commestibili ma radioattivi, crescita spontanea
+- **Alberi Impossibili**: Crescita sottosopra, fiori che sbocciano al contrario
+- **Creature Mutanti**: Animali giganteschi con proprietà dimensionali (es. Mefistofele)
+- **Funghi Interdimensionali**: Specie native di Terra Mystica adattatesi all'ambiente terrestre
+
+### Abitanti
+- **Sopravvissuti**: Ex-scienziati e tecnici adattatisi alla nuova realtà
+- **Entità di Terra Mystica**: Funghi senzienti e altre creature dimensionali
+- **Imprenditori Post-Apocalittici**: Commercianti di risorse magiche e biologiche
+
+### Tecnologie
+- **Commercio Interdimensionale**: Primi esperimenti di economia trans-dimensionale
+- **Tute Antiradioazioni Modificate**: Equipaggiamento adattato per energie magiche
+- **Funghi Funzionali**: Uso di micologia magica per nutrizione e comunicazione dimensionale
+
+### Ruolo Storico
+- **Primo Commercio Interdimensionale**: Nascita di "Funghi & Radiazioni - Biologico e Magico dal 2175"
+- **Ponte Post-Convergenza**: Collegamento naturale tra sopravvissuti terrestri e entità di Terra Mystica
+- **Laboratorio Evolutivo**: Sperimentazione di coesistenza tra realtà magica e post-apocalittica
