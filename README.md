@@ -211,11 +211,13 @@ Una volta creata l'issue:
   - 🔮 **Viola**: Collegamenti a oggetti magici/tecnologici
 - **Metadata**: Informazioni contestuali per ogni storia
 - **Cross-Reference**: Collegamenti automatici tra storie correlate
+- **Immagini Generate**: Ogni storia include tre immagini AI-generate che illustrano l'inizio, la metà e la fine della trama
 
 ## 🔮 Roadmap Futura | Future Roadmap
 
 - [x] **Trasformazione in sito web con Docsify** 
 - [x] **Sistema di link manuali tra personaggi, oggetti e luoghi**
+- [x] **Integrazione generatore di immagini per ogni storia**
 - [ ] Implementare sistema di tagging automatico
 - [ ] Creare database interattivo dei personaggi
 - [ ] Sviluppare timeline condivisa tra storie

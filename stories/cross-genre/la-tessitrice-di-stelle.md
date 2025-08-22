@@ -8,6 +8,10 @@
 
 ## Storia
 
+
+<!-- IMMAGINE INIZIALE -->
+![Immagine iniziale - La Tessitrice di Stelle](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Fsci-fi%20%20%20style%2C%20Osservatorio%20di%20Monte%20Stellario%2C%20Alpi%20Italiane%2C%20anno%202085%20%20%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Nelle%20notti%20pi%C3%B9%20buie%20dell'inverno%20alpino%2C%20quando%20il%20velo%20tra%20le%20dimensioni%20si%20assottigliava%20come%20seta%20antica%2C%20Stella%20Stellari%20tesseva%20mappe%20stellari%20che%20nessun%20astronomo%20tradizionale%20avrebbe%20mai%20potut... "Immagine iniziale - La Tessitrice di Stelle")
+
 Nelle notti più buie dell'inverno alpino, quando il velo tra le dimensioni si assottigliava come seta antica, Stella Stellari tesseva mappe stellari che nessun astronomo tradizionale avrebbe mai potuto immaginare.
 
 L'Osservatorio di Monte Stellario, costruito a tremila metri di altitudine sulle Alpi piemontesi, non era un semplice centro di ricerca astronomica. Era l'atelier più straordinario del sistema solare, dove scienza e arte si fondevano in modi che avrebbero fatto sorridere il suo trisnonno Marco, il primo degli Stellari a scoprire che l'universo aveva più dimensioni di quante la fisica convenzionale potesse spiegare.
@@ -51,6 +55,9 @@ Lyralei sorrise, e per un momento le sembrò di vedere riflessi di tutti gli Ste
 Un suono improvviso interruppe il momento: l'allarme dimensionale di Cosmo. "Attenzione! Rilevata instabilità nel tessuto spazio-temporale. La mappa che stai creando sta attirando attenzione indesiderata."
 
 Attraverso le pareti trasparenti dell'osservatorio, Stella vide luci strane danzare nel cielo. Non erano aurore boreali: erano creature di Terra Mystica che, attratte dalla potenza del suo telaio, stavano cercando di attraversare prematuramente.
+
+<!-- IMMAGINE CENTRALE -->
+![Immagine centrale - La Tessitrice di Stelle](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Fsci-fi%20%20%20style%2C%20Osservatorio%20di%20Monte%20Stellario%2C%20Alpi%20Italiane%2C%20anno%202085%20%20%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20%22Pi%C3%B9%20di%20quanto%20tu%20possa%20immaginare.%20Ogni%20pattern%20che%20crei%2C%20ogni%20nodo%20che%20intrecci%2C%20stabilizza%20i%20punti%20di%20convergenza.%20Stai%20letteralmente%20cuciendo%20insieme%20i%20due%20mondi%2C%20preparando%20vie%20sicure%20per%20quando%20... "Immagine centrale - La Tessitrice di Stelle")
 
 "È troppo presto," disse Lyralei, la sua forma che iniziava a sbiadire. "La Convergenza non può avvenire ancora. Tu devi completare prima tutte le mappe, stabilizzare tutti i nodi."
 
@@ -97,6 +104,10 @@ Stella si appoggiò alla ringhiera dell'osservatorio, sentendo il peso e la bell
 Nel frammento del Cristallo di Vremya incastonato nel telaio, per un istante, vide riflesse le figure di tutti gli altri Stellari: Marco nel suo laboratorio, Luna che investigava tra le stelle, Giacomo che parlava con balene evolute, Kael che accarezzava una volpe meccanica. Tutti tessitori della stessa trama infinita, ognuno con il proprio filo nel grande disegno dell'universo.
 
 L'alba delle Alpi portava con sé la promessa di un futuro tessuto con fili di stelle e sogni, dove l'arte e la scienza si sarebbero unite per creare qualcosa di più bello di quanto l'umanità avesse mai osato immaginare.
+
+
+<!-- IMMAGINE FINALE -->
+![Immagine finale - La Tessitrice di Stelle](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Fsci-fi%20%20%20style%2C%20Osservatorio%20di%20Monte%20Stellario%2C%20Alpi%20Italiane%2C%20anno%202085%20%20%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20che%20i%20pattern%20tessuti%20non%20erano%20solo%20mappe%3A%20erano%20istruzioni.%20Ogni%20nodo%20di%20luce%20stellare%20conteneva%20informazioni%20che%20sarebbero%20state%20essenziali%20per%20i%20futuri%20Stellari.%20%22Cosmo%2C%22%20disse%2C%20toccando%20delicatam... "Immagine finale - La Tessitrice di Stelle")
 
 ## Note dell'Autore AI
 

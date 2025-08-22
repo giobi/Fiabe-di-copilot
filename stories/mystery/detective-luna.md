@@ -10,6 +10,10 @@
 
 ## Storia
 
+
+<!-- IMMAGINE INIZIALE -->
+![Immagine iniziale - Detective Luna](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20mystery%2Fsci-fi%20%20%20style%2C%20Colonia%20Spaziale%20Artemis-7%2C%20sistema%20stellare%20di%20Proxima%20Centauri%2C%20anno%202157%20%20%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Detective%20Luna%20Stellari%20fissava%20il%20corpo%20senza%20vita%20di%20Dr.%20Chen%20attraverso%20il%20vetro%20della%20camera%20sterile.%20Terzo%20omicidio%20in%20due%20settimane%20sulla%20Colonia%20Artemis-7%2C%20e%20ancora%20nessuna%20traccia%20dell'assassi... "Immagine iniziale - Detective Luna")
+
 Detective <span class="character-link">[Luna Stellari](../../characters/database-personaggi.md?id=luna-stellari)</span> fissava il corpo senza vita di Dr. Chen attraverso il vetro della camera sterile. Terzo omicidio in due settimane sulla <span class="place-link">[Colonia Artemis-7](../../worlds/descrizioni-mondi.md?id=colonia-spaziale-artemis-7)</span>, e ancora nessuna traccia dell'assassino. Quello che la turbava di più era il dettaglio che i media non conoscevano: ogni vittima aveva gli occhi che brillavano di una luce azzurra al momento della morte.
 
 "Stessa modalità degli altri?" chiese il Capitano Rodriguez attraverso il comunicatore.
@@ -32,6 +36,9 @@ Luna sentì un brivido percorrerle la schiena. "Mio bisnonno mi raccontava stori
 
 "Storie? No, cara Luna. <span class="character-link">[Marco](../../characters/database-personaggi.md?id=marco-stellari)</span> aprì la prima strada tra i mondi. Ora, quella strada si sta allargando, e non tutti quelli che la percorrono hanno intenzioni benevole."
 
+<!-- IMMAGINE CENTRALE -->
+![Immagine centrale - Detective Luna](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20mystery%2Fsci-fi%20%20%20style%2C%20Colonia%20Spaziale%20Artemis-7%2C%20sistema%20stellare%20di%20Proxima%20Centauri%2C%20anno%202157%20%20%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20attraversare%20il%20velo%20dimensionale%2C%20attirati%20dalla%20tecnologia%20della%20vostra%20colonia.%20Ma%20qualcosa%20va%20storto%20nel%20passaggio.%22%20Luna%20sent%C3%AC%20un%20brivido%20percorrerle%20la%20schiena.%20%22Mio%20bisnonno%20mi%20raccontava%20stori... "Immagine centrale - Detective Luna")
+
 Il cristallo proiettò improvvisamente delle immagini nella mente di Luna: creature eteree che cercavano di materializzarsi usando l'energia vitale degli umani, il processo che falliva lasciando i corpi intatti ma svuotati della loro essenza, gli occhi che brillavano come portali verso Terra Mystica nel momento del passaggio.
 
 "Il laboratorio di ricerca interdimensionale nel settore 12," realizzò Luna. "È lì che stanno conducendo gli esperimenti sui cristalli energetici. Le vittime erano tutte collegate a quel progetto."
@@ -53,6 +60,10 @@ Voss crollò a terra, confuso ma vivo, mentre una forma spettrale si dissolse ne
 "Grazie, Luna Stellari," sussurrò la voce di Lyralei. "Hai salvato entrambi i mondi da una fusione prematura. Ma ricorda: il ponte tra le dimensioni esiste ancora. Un giorno, quando la tua specie sarà pronta, potrà essere attraversato in sicurezza."
 
 Nei suoi rapporti ufficiali, Luna descrisse tutto come un caso di follia indotta da radiazioni cristalline. Ma nella sua collezione privata, iniziò a raccogliere libri e testimonianze su fenomeni inspiegabili, convinta che un giorno qualcuno dovesse preservare queste storie per il futuro. Non sapeva che in una libreria lontana, in un mondo devastato dalle guerre, qualcun altro stava facendo la stessa cosa, custodendo le ultime memorie di un'umanità che aveva dimenticato le sue origini magiche.
+
+
+<!-- IMMAGINE FINALE -->
+![Immagine finale - Detective Luna](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20mystery%2Fsci-fi%20%20%20style%2C%20Colonia%20Spaziale%20Artemis-7%2C%20sistema%20stellare%20di%20Proxima%20Centauri%2C%20anno%202157%20%20%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20stessa%20luce%20azzurra.%20%22Il%20suo%20cristallo%20%C3%A8%20il%20catalizzatore%20mancante.%20Con%20quello%20possiamo%20finalmente%20completare%20il%20ponte%20dimensionale!%22%20%22Quindi%20%C3%A8%20lei%20l'assassino%2C%22%20disse%20Luna%2C%20estraendo%20la%20sua%20arma%20ener... "Immagine finale - Detective Luna")
 
 ## Note dell'Autore AI
 
