@@ -209,3 +209,36 @@
 - **Totò → Fonte San Gennaro**: Riattivazione del nodo dimensionale napoletano
 - **Guerre della Memoria**: Evento che collega L'Ultima Libreria e Totò e l'apocalisse nucleare
 - **Pulcinella → Ponti dimensionali**: Facilita le connessioni tra Neo-Tokyo e Napoli
+
+## Nuovi Personaggi da "I funghetti magici del mondo di Jennifer"
+
+### Jennifer McAllister
+- **Prima Apparizione**: "I funghetti magici del mondo di Jennifer"
+- **Professione**: Ex-biotecnologa, sopravvissuta post-apocalittica, imprenditrice interdimensionale
+- **Epoca**: 2175 (Foresta Contaminata di Chernobyl-Sud)
+- **Caratteristiche**: Specialista in micologia, pragmatica, ironicamente ottimista
+- **Connessioni**: Riceve frammento del Cristallo di Vremya da viaggiatore napoletano
+- **Ruolo**: Co-fondatrice di "Funghi & Radiazioni - Biologico e Magico dal 2175"
+
+### Mefistofele
+- **Prima Apparizione**: "I funghetti magici del mondo di Jennifer"
+- **Specie**: Gatto gigante mutante (nato normale, cresciuto con radiazioni interdimensionali)
+- **Caratteristiche**: Dimensioni di piccolo pony e in crescita, miagolio che fa tremare gli alberi, ronzio elettrico
+- **Capacità**: Risonanza interdimensionale, crescita accelerata, fioriture indotte per risonanza
+- **Ruolo**: Compagno di Jennifer, partner nella sopravvivenza post-apocalittica
+
+### Spore (ex-Signor Spore)
+- **Prima Apparizione**: "I funghetti magici del mondo di Jennifer"
+- **Specie**: Fungo senziente di Terra Mystica
+- **Caratteristiche**: Inizialmente travestito da rappresentante commerciale, poi rivelato come fungo antropomorfo
+- **Capacità**: Illusioni dimensionali, conoscenza dei funghi di Terra Mystica, lettura dei database interdimensionali
+- **Ruolo**: Co-fondatore di "Funghi & Radiazioni", ponte tra Terra Mystica e mondo post-apocalittico
+
+## Cross-References Aggiornati
+
+- **Jennifer → Cristallo di Vremya**: Riceve frammento da viaggiatore da Napoli
+- **Jennifer → Totò**: Collegata attraverso viaggiatori napoletani post-apocalittici
+- **Jennifer → L'Ultima Libreria**: Menzione indiretta attraverso viaggiatori che raccontano storie
+- **Spore → Terra Mystica**: Entità nativa che tenta reclutamento interdimensionale
+- **Mefistofele → Famiglia di Mutanti**: Simile a Whiskers per mutazioni da radiazioni interdimensionali
+- **Foresta Contaminata**: Nuovo ecosistema post-convergenza di Napoli, fusione energie Terra Mystica e radiazioni terrestri
