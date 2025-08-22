@@ -255,8 +255,35 @@
 - **Connessioni**: Ponte tra il mondo normale e quello fantastico, collegato indirettamente alle ricerche di Marco Stellari
 - **Ruolo**: Osservatore e cronista delle interferenze dimensionali nella vita quotidiana
 
+## Nuovi Personaggi da "Il Peso dell'Orgoglio"
+
+### Alessandro Benedetti
+- **Prima Apparizione**: "Il Peso dell'Orgoglio"
+- **Professione**: CEO e fondatore di NeuralLink Technologies
+- **Epoca**: 2004-2012 (Milano)
+- **Caratteristiche**: Ingegnere elettronico geniale, figlio incompreso diventato imprenditore di successo
+- **Capacità**: Sviluppo di sistemi di comunicazione quantica, intuizione per tecnologie interdimensionali
+- **Connessioni**: I suoi sistemi sfruttano inconsciamente le interferenze causate dagli esperimenti di Marco Stellari
+- **Ruolo**: Rappresenta la crescita personale e l'emancipazione familiare attraverso il successo tecnologico
+
+### Matteo Benedetti
+- **Prima Apparizione**: "Il Peso dell'Orgoglio"
+- **Professione**: Imprenditore di impianti elettrici
+- **Epoca**: 2004-2012 (Milano)
+- **Caratteristiche**: Padre severo e disapprovante, costruttore self-made ossessionato dal controllo
+- **Ruolo**: Antagonista familiare che rappresenta le aspettative rigide e l'incapacità di riconoscere il talento del figlio
+- **Destino**: Rimane isolato dalle sue scelte, carico del peso del rimorso
+
+### Giancarlo
+- **Prima Apparizione**: "Il Peso dell'Orgoglio"
+- **Professione**: Socio di Matteo Benedetti
+- **Ruolo**: Testimone silenzioso della dinamica padre-figlio, rappresenta la saggezza inascoltata
+
 ## Cross-References Aggiornati
 
+- **Alessandro → Marco Stellari**: Contemporaneo delle ricerche, sfrutta inconsciamente le interferenze dimensionali
+- **Alessandro → NeuralLink Technologies**: Sviluppa tecnologie che preparano inconsciamente il terreno per future comunicazioni interdimensionali
+- **Milano Tecnologica**: Hub di influenza degli esperimenti Stellari, collegata a "Il Copywriter Annoiato"
 - **Gabriele → Marco Stellari**: Contemporaneo delle ricerche, subisce gli effetti delle interferenze dimensionali
 - **Giobi → Marco Stellari**: Ricerca attiva sui suoi esperimenti, documenta gli effetti collaterali
 - **Giobi → Cristallo di Vremya**: Possiede un frammento trovato nell'ufficio

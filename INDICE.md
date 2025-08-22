@@ -83,11 +83,21 @@
 - **Temi**: Creatività sotto pressione, scoperta del fantastico nel quotidiano, interferenze dimensionali nella vita normale
 - **Connessioni**: Contemporaneo alle ricerche di Marco Stellari, effetti collaterali delle scoperte dimensionali sulla vita quotidiana
 
+### 10. [Il Peso dell'Orgoglio](stories/cross-genre/il-peso-dellorgoglio.md)
+- **File**: [stories/cross-genre/il-peso-dellorgoglio.md](stories/cross-genre/il-peso-dellorgoglio.md)
+- **Genere**: Cross-genre/Dramma contemporaneo
+- **Protagonisti**: Alessandro Benedetti, Matteo Benedetti
+- **Epoca**: 2004-2012 (Milano)
+- **Ambientazione**: Milano tecnologica durante l'era delle ricerche dimensionali
+- **Temi**: Crescita personale, orgoglio, emancipazione familiare, rifiuto dell'amore condizionato
+- **Connessioni**: I sistemi tecnologici sviluppati sfruttano le interferenze causate dagli esperimenti di Marco Stellari
+
 ## Cronologia | Timeline
 
 ### Primo XXI Secolo
 - **[Il Cristallo di Vremya](stories/cross-genre/il-cristallo-di-vremya.md)**: Marco Stellari scopre il ponte dimensionale
 - **[Il Copywriter Annoiato e la Tangente Infinita](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)**: Effetti collaterali delle ricerche dimensionali sulla vita quotidiana milanese
+- **[Il Peso dell'Orgoglio](stories/cross-genre/il-peso-dellorgoglio.md)**: Alessandro Benedetti costruisce il suo impero tecnologico
 
 ### 2085
 - **[La Tessitrice di Stelle](stories/cross-genre/la-tessitrice-di-stelle.md)**: Stella Stellari crea le mappe stellari per la Grande Convergenza
@@ -229,10 +239,10 @@
 
 ## Statistiche Attuali | Current Statistics
 
-- **Storie Totali**: 9
-- **Generi**: Fantasy, Sci-Fi, Mystery, Cross-Genre, Post-apocalittico, Commedia, Satirico, Distopico
-- **Ambientazioni**: 9 mondi/epoche diverse
-- **Personaggi Principali**: 17+
+- **Storie Totali**: 10
+- **Generi**: Fantasy, Sci-Fi, Mystery, Cross-Genre, Post-apocalittico, Commedia, Satirico, Distopico, Dramma contemporaneo
+- **Ambientazioni**: 10 mondi/epoche diverse
+- **Personaggi Principali**: 20+
 - **Linea Temporale**: Dal primo XXI secolo al 2175
 
 ## Prossimi Sviluppi Suggeriti | Suggested Next Developments
