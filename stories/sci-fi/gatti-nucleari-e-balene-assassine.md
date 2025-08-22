@@ -6,6 +6,10 @@
 
 ## Storia
 
+
+<!-- IMMAGINE INIZIALE -->
+![Immagine iniziale - Gatti nucleari e balene assassine](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Fcomedy%20style%2C%20Stazione%20di%20Ricerca%20Marittima%20Stellari-Beta%2C%20Oceano%20Pacifico%2C%20anno%202134%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Il%20Professor%20Giacomo%20Stellari%2C%20pronipote%20del%20famoso%20Marco%2C%20non%20avrebbe%20mai%20immaginato%20che%20la%20sua%20carriera%20di%20bioingegnere%20sarebbe%20finita%20con%20un%20gatto%20radioattivo%20che%20faceva%20le%20fusa%20in%20modalit%C3%A0%20%22reazio... "Immagine iniziale - Gatti nucleari e balene assassine")
+
 Il Professor Giacomo Stellari, pronipote del famoso Marco, non avrebbe mai immaginato che la sua carriera di bioingegnere sarebbe finita con un gatto radioattivo che faceva le fusa in modalità "reazione a catena" e un'orca che aveva sviluppato un intelletto superiore e una particolare predilezione per il sarcasmo.
 
 Tutto iniziò quando la Stazione di Ricerca Marittima Stellari-Beta ricevette un carico di "campioni energetici sperimentali" dal laboratorio di ricerca dimensionale sulla terraferma. I documenti di spedizione erano vaghi: "Residui cristallini ad alta risonanza quantica - Maneggiare con cura". Quello che non sapevano era che si trattava di frammenti microscopici del Cristallo di Vremya, contaminati da radiazioni interdimensionali durante gli esperimenti più recenti.
@@ -75,6 +79,9 @@ Il Comandante Morrison si girò verso il Dr. Stellari, che stava galleggiando po
 "Dottore," disse lentamente, "cosa diavolo è successo qui?"
 
 "Beh," rispose Giacomo, "ricorda quando pensavamo che la cosa peggiore che potesse succedere con la ricerca nucleare fosse un incidente di laboratorio standard?"
+
+<!-- IMMAGINE CENTRALE -->
+![Immagine centrale - Gatti nucleari e balene assassine](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Fcomedy%20style%2C%20Stazione%20di%20Ricerca%20Marittima%20Stellari-Beta%2C%20Oceano%20Pacifico%2C%20anno%202134%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20considerare%20di%20utilizzare%20metodi%20di%20comunicazione%20pi%C3%B9...%20primitivi.%20Come%20i%20segnali%20di%20fumo.%20O%20le%20lettere.%22%20%22Le%20lettere%20non%20funzionano%20sott'acqua!%22%20protest%C3%B2%20Giacomo%2C%20guardando%20i%20corridori%20ormai%20complet... "Immagine centrale - Gatti nucleari e balene assassine")
 
 "Sì?"
 
@@ -147,6 +154,10 @@ E se un gatto nucleare e un'orca sarcasta che governavano un paradiso sottomarin
 Shamu-VII rise - un suono che risuonò attraverso l'acqua come campane subacquee.
 
 "Sapete," disse telepaticamente a tutti nella stazione, "penso che questo sia stato solo l'inizio."
+
+
+<!-- IMMAGINE FINALE -->
+![Immagine finale - Gatti nucleari e balene assassine](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Fcomedy%20style%2C%20Stazione%20di%20Ricerca%20Marittima%20Stellari-Beta%2C%20Oceano%20Pacifico%2C%20anno%202134%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20di%20un'esplosione%2C%20produsse%20una%20piccola%20aurora%20boreale%20sottomarina%20che%20danz%C3%B2%20attraverso%20l'acqua%20in%20spirali%20ipnotiche.%20%22Ha%20imparato%20a%20controllare%20l'output%20energetico%2C%22%20spieg%C3%B2%20orgoglioso%20il%20Dr.%20Stellari.... "Immagine finale - Gatti nucleari e balene assassine")
 
 ## Note dell'Autore AI
 

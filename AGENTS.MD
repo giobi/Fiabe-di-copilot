@@ -175,8 +175,9 @@ stories/
 3. **Plan Connections**: Identify natural cross-reference opportunities
 4. **Draft Outline**: Structure story arc with beginning, middle, end
 5. **Write Story**: Follow format requirements and style guidelines
-6. **Update Databases**: Add new characters and elements to database files
-7. **Create Hooks**: Leave subtle setup for future stories
+6. **Generate Images**: Create three images using the specified endpoint
+7. **Update Databases**: Add new characters and elements to database files
+8. **Create Hooks**: Leave subtle setup for future stories
 
 ### 🔍 Quality Assurance Checklist
 
@@ -189,6 +190,8 @@ stories/
 - [ ] Does it add value to the shared universe?
 - [ ] Is the writing quality appropriate for the collection?
 - [ ] Are magical/technological elements consistent with established rules?
+- [ ] Are three images included at appropriate points in the story?
+- [ ] Do the image prompts accurately reflect the story content?
 
 ### 🚫 Avoid These Common Mistakes
 
@@ -264,6 +267,63 @@ feat(stories): add [story-title] - [genre] story
 - Include proper headers and sections
 - Maintain consistent formatting across files
 - Use relative links for internal references
+
+---
+
+## 🎨 Image Generation Guidelines
+
+### 📸 Automatic Image Integration
+
+**Every story must include three generated images:**
+
+1. **Opening Image** - Sets the scene and atmosphere
+2. **Central Image** - Captures the main conflict or turning point
+3. **Closing Image** - Shows the resolution or epilogue
+
+### 🔗 Generation Endpoint
+
+**Always use this endpoint:**
+```
+https://giobiflare-llm24.giobi.workers.dev/image?prompt=${encodeURIComponent(prompt)}
+```
+
+### ✍️ Prompt Engineering
+
+**Prompt Structure:**
+```
+[Visual Style], [genre] style, [setting], cinematic lighting, detailed digital art. [Scene description]
+```
+
+**Examples:**
+- `Fantasy illustration, mystery/sci-fi style, Colonia Spaziale Artemis-7, cinematic lighting, detailed digital art. Opening scene: Detective Luna examining a crime scene in a futuristic space station...`
+- `Digital art, fantasy style, Terra Mystica, cinematic lighting, detailed illustration. Final scene: Marco standing in a crystalline forest under twin moons...`
+
+**Best Practices:**
+- Keep prompts under 300 characters
+- Include specific details from that part of the story
+- Match the visual style to the story's genre and mood
+- Ensure consistency with the established world descriptions
+
+### 🖼️ Image Placement
+
+```markdown
+## Storia
+
+<!-- IMMAGINE INIZIALE -->
+![Alt text](image_url "Title")
+
+[First third of story...]
+
+<!-- IMMAGINE CENTRALE -->
+![Alt text](image_url "Title")
+
+[Second third of story...]
+
+<!-- IMMAGINE FINALE -->
+![Alt text](image_url "Title")
+
+[Final third of story...]
+```
 
 ---
 

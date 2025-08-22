@@ -61,6 +61,42 @@
 ### Risoluzione | Resolution
 [Come si conclude, che messaggi lascia]
 
+## Generazione Immagini | Image Generation
+
+### Linee Guida per le Immagini | Image Guidelines
+
+Ogni storia deve includere **tre immagini** generate automaticamente:
+
+1. **Immagine Iniziale**: Rappresenta la scena di apertura e l'atmosfera generale
+2. **Immagine Centrale**: Cattura il momento cruciale o il conflitto principale  
+3. **Immagine Finale**: Mostra la risoluzione o l'epilogo della storia
+
+### Endpoint di Generazione | Generation Endpoint
+
+Utilizzare sempre questo endpoint per generare le immagini:
+```
+https://giobiflare-llm24.giobi.workers.dev/image?prompt=${encodeURIComponent(prompt)}
+```
+
+### Struttura dei Prompt | Prompt Structure
+
+Ogni prompt deve seguire questa struttura:
+```
+[Stile base], [genere] style, [ambientazione], cinematic lighting, detailed digital art. [Descrizione scena specifica]
+```
+
+**Esempio**:
+```
+Fantasy illustration, mystery style, Neo-Tokyo 2157, cinematic lighting, detailed digital art. Opening scene: Detective Luna investigating in a futuristic space colony...
+```
+
+### Criteri per i Prompt | Prompt Criteria
+
+- **Lunghezza**: Massimo 300 caratteri per prompt
+- **Stile**: Coerente con genere e ambientazione della storia
+- **Contenuto**: Basato sul contenuto effettivo di quella parte della storia
+- **Atmosfera**: Rispettare il tono narrativo (drammatico, misterioso, magico, etc.)
+
 ## Formato Output Richiesto | Required Output Format
 
 ```markdown
@@ -72,13 +108,27 @@
 
 ## Storia
 
-[Contenuto narrativo completo...]
+<!-- IMMAGINE INIZIALE -->
+![Immagine iniziale - Titolo Storia](https://giobiflare-llm24.giobi.workers.dev/image?prompt=PROMPT_INIZIALE "Immagine iniziale - Titolo Storia")
+
+[Primo terzo della storia...]
+
+<!-- IMMAGINE CENTRALE -->
+![Immagine centrale - Titolo Storia](https://giobiflare-llm24.giobi.workers.dev/image?prompt=PROMPT_CENTRALE "Immagine centrale - Titolo Storia")
+
+[Secondo terzo della storia...]
+
+<!-- IMMAGINE FINALE -->
+![Immagine finale - Titolo Storia](https://giobiflare-llm24.giobi.workers.dev/image?prompt=PROMPT_FINALE "Immagine finale - Titolo Storia")
+
+[Ultimo terzo della storia...]
 
 ## Note dell'Autore AI
 
 - **Personaggi Introdotti**: [Lista dei nuovi personaggi]
 - **Elementi per Future Storie**: [Hooks e sviluppi futuri]
 - **Connessioni Create**: [Come si lega ad altre storie dell'universo]
+- **Immagini Generate**: [Descrizione delle tre immagini e dei prompt utilizzati]
 ```
 
 ## Checklist Pre-Scrittura | Pre-Writing Checklist
@@ -100,6 +150,8 @@
 - [ ] Ho rispettato le regole dei mondi esistenti
 - [ ] Ho integrato riferimenti naturali ad altre storie
 - [ ] Ho lasciato hook per sviluppi futuri
+- [ ] Ho generato tre immagini appropriate per la storia
+- [ ] I prompt delle immagini sono coerenti con il contenuto narrativo
 
 ### Revisione | Review
 - [ ] La storia è coerente con l'universo esistente
