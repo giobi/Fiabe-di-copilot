@@ -74,10 +74,20 @@
 - **Temi**: Sopravvivenza post-apocalittica, ironia sul perfezionismo, accettazione del caos, imprenditoria interdimensionale
 - **Connessioni**: Ambientato dopo "Totò e l'apocalisse nucleare", energia di Terra Mystica contamina zone radioattive, frammento del Cristallo di Vremya
 
+### 9. [Il Copywriter Annoiato e la Tangente Infinita](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)
+- **File**: [stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)
+- **Genere**: Commedia/Fantasy
+- **Protagonisti**: Gabriele Rossi, Giobi Martinelli
+- **Epoca**: 2000 (Primo XXI secolo)
+- **Ambientazione**: Ufficio di agenzia pubblicitaria milanese
+- **Temi**: Creatività sotto pressione, scoperta del fantastico nel quotidiano, interferenze dimensionali nella vita normale
+- **Connessioni**: Contemporaneo alle ricerche di Marco Stellari, effetti collaterali delle scoperte dimensionali sulla vita quotidiana
+
 ## Cronologia | Timeline
 
 ### Primo XXI Secolo
 - **[Il Cristallo di Vremya](stories/cross-genre/il-cristallo-di-vremya.md)**: Marco Stellari scopre il ponte dimensionale
+- **[Il Copywriter Annoiato e la Tangente Infinita](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)**: Effetti collaterali delle ricerche dimensionali sulla vita quotidiana milanese
 
 ### 2085
 - **[La Tessitrice di Stelle](stories/cross-genre/la-tessitrice-di-stelle.md)**: Stella Stellari crea le mappe stellari per la Grande Convergenza
@@ -114,10 +124,12 @@
 - **Lyralei**: Custode del Tempo di Terra Mystica (presente in tutte le epoche)
 - **Vixen**: Ex-Guardiana di Terra Mystica trasformata in spirito di motocicletta (2089)
 
+### Documentatori e Osservatori
+- **Giobi Martinelli**: Cronista di fenomeni dimensionali nell'ufficio milanese (2000)
+- **Gabriele Rossi**: Copywriter testimone di interferenze dimensionali (2000)
+
 ### Ambasciatori Interdimensionali
 - **Kael**: Ragazzo metà umano, partner di Vixen (2089)
-
-## Mondi e Ambientazioni | Worlds and Settings
 
 ### Terra Mystica
 - Dimensione parallela con magia e tecnologia fuse
@@ -161,6 +173,12 @@
 - Città radioattiva dopo le Guerre della Memoria
 - La Fonte di San Gennaro come nodo dimensionale
 - Trasformazione dell'apocalisse in arte e teatro cosmico
+
+### Ufficio "Creatività & Associati" Milano
+- Agenzia pubblicitaria milanese nel 2000
+- Centro di interferenze dimensionali dovute alle ricerche di Marco Stellari
+- Macchine da ufficio che manifestano fenomeni paranormali
+- Primo documentato caso di effetti dimensionali sulla vita lavorativa quotidiana
 
 ### Foresta Contaminata di Chernobyl-Sud 2175
 - Ex-zona industriale trasformata da energia di Terra Mystica
@@ -211,10 +229,10 @@
 
 ## Statistiche Attuali | Current Statistics
 
-- **Storie Totali**: 8
+- **Storie Totali**: 9
 - **Generi**: Fantasy, Sci-Fi, Mystery, Cross-Genre, Post-apocalittico, Commedia, Satirico, Distopico
-- **Ambientazioni**: 8 mondi/epoche diverse
-- **Personaggi Principali**: 15+
+- **Ambientazioni**: 9 mondi/epoche diverse
+- **Personaggi Principali**: 17+
 - **Linea Temporale**: Dal primo XXI secolo al 2175
 
 ## Prossimi Sviluppi Suggeriti | Suggested Next Developments
