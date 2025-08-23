@@ -8,8 +8,9 @@
 
 
 
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - Totò e l'apocalisse nucleare](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20post-apocalittico%2Fcommedia%2Fsatirico%20style%2C%20Napoli%20post-nucleare%2C%202165%20-%20otto%20anni%20dopo%20le%20Guerre%20della%20Memoria%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20!Immagine%20iniziale%20-%20Tot%C3%B2%20e%20l'apocalisse%20nucleare%20Il%20sole%20filtrava%20attraverso%20le%20nuvole%20verdastre%20che%20si%20alzavano%20dal%20Vesuvio%20quando%20Tot%C3%B2%20si%20svegli%C3%B2%20nel%20suo%20rifugio%20ricavato%20da%20un%20antico%20caff%C3%A8%20dei%20Quartieri%20Spagnoli.%20Il%20Principe%20della%20risata%20si%20stiracchi%C3%B2%2C%20aggiust%C3%B2%20il%20cilindro%20mezzo%20sfondato%20che%20non%20si%20toglieva%20mai%2C&width=1000&height=600&regen "Immagine iniziale - Totò e l'apocalisse nucleare")
+![Immagine iniziale - Totò e l'apocalisse nucleare](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20post-apocalittico%2Fcommedia%2Fsatirico%20style%2C%20Napoli%20post-nucleare%2C%202165%20-%20otto%20anni%20dopo%20le%20Guerre%20della%20Memoria%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Il%20sole%20filtrava%20attraverso%20le%20nuvole%20verdastre%20che%20si%20alzavano%20dal%20Vesuvio%20quando%20Tot%C3%B2%20si%20svegli%C3%B2%20nel%20suo%20rifugio%20ricavato%20da%20un%20antico%20caff%C3%A8%20dei%20Quartieri%20Spagnoli.%20Il%20Principe%20della%20risata%20si%20stiracchi%C3%B2%2C%20aggiust%C3%B2%20il%20cilindro%20mezzo%20sfondato%20che%20non%20si%20toglieva%20mai%2C%20e%20guard%C3%B2%20fuori%20dalla%20finestra%20blindata%20verso&width=1000&height=600&regen "Immagine iniziale - Totò e l'apocalisse nucleare")
 
 Il sole filtrava attraverso le nuvole verdastre che si alzavano dal Vesuvio quando Totò si svegliò nel suo rifugio ricavato da un antico caffè dei Quartieri Spagnoli. Il Principe della risata si stiracchiò, aggiustò il cilindro mezzo sfondato che non si toglieva mai, e guardò fuori dalla finestra blindata verso quello che un tempo era stato il Golfo di Napoli.
 
@@ -145,6 +146,7 @@ La Fonte sotto San Gennaro continuava a pulsare, alimentando non solo la città,
 E mentre il sole tramontava sul Golfo nero, tingendo le nuvole verdastre di sfumature dorate, Totò si fermò un momento a contemplare quello che aveva contribuito a creare: una città dove l'apocalisse era diventata arte, dove la fine era diventata inizio, dove la commedia della vita continuava anche quando la vita aveva ufficialmente smesso di essere comica.
 
 "Non male per un lunedì," disse al ritratto di Pulcinella che ora sorrideva dal cielo stesso. "Non male per niente."
+
 
 <!-- IMMAGINE FINALE -->
 ![Immagine finale - Totò e l'apocalisse nucleare](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20post-apocalittico%2Fcommedia%2Fsatirico%20style%2C%20Napoli%20post-nucleare%2C%202165%20-%20otto%20anni%20dopo%20le%20Guerre%20della%20Memoria%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20piccolo%20frammento%20sul%20cristallo%20gigante.%20Non%20appena%20i%20due%20cristalli%20si%20toccarono%2C%20la%20cripta%20si%20illumin%C3%B2%20di%20una%20luce%20che%20non%20era%20solo%20azzurra%2C%20ma%20conteneva%20tutti%20i%20colori%20che%20Napoli%20aveva%20mai%20avuto%3A%20il%20blu%20del%20mare%20quando%20era%20ancora%20blu%2C%20il%20rosso%20della%20passione%20che%20non%20si%20spegne&width=1000&height=600&regen "Immagine finale - Totò e l'apocalisse nucleare")

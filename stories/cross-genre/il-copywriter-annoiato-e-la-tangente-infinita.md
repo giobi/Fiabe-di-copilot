@@ -9,8 +9,9 @@
 ## Storia
 
 
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - Il Copywriter Annoiato e la Tangente Infinita](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20commedia%2Ffantasy%20style%2C%20Ufficio%20di%20agenzia%20pubblicitaria%20milanese%2C%20anno%202000%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20!Immagine%20iniziale%20-%20Il%20Copywriter%20Annoiato%20e%20la%20Tangente%20Infinita%20Era%20il%2015%20marzo%20del%202000%2C%20e%20l'agenzia%20pubblicitaria%20%22Creativit%C3%A0%20%26%20Associati%22%20di%20Milano%20bruciava%20nell'inferno%20dell'deadline.%20Le%20scrivanie%20dell'open%20space%20erano%20sommerse%20da%20fogli%2C%20bozze%2C%20evidenziatori%20scarichi%20e%20tazze%20di%20caff%C3%A8%20freddo%20che%20formavano%20una%20geografia%20urbana%20della%20disperazione&width=1000&height=600&regen "Immagine iniziale - Il Copywriter Annoiato e la Tangente Infinita")
+![Immagine iniziale - Il Copywriter Annoiato e la Tangente Infinita](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20commedia%2Ffantasy%20style%2C%20Ufficio%20di%20agenzia%20pubblicitaria%20milanese%2C%20anno%202000%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Era%20il%2015%20marzo%20del%202000%2C%20e%20l'agenzia%20pubblicitaria%20%22Creativit%C3%A0%20%26%20Associati%22%20di%20Milano%20bruciava%20nell'inferno%20dell'deadline.%20Le%20scrivanie%20dell'open%20space%20erano%20sommerse%20da%20fogli%2C%20bozze%2C%20evidenziatori%20scarichi%20e%20tazze%20di%20caff%C3%A8%20freddo%20che%20formavano%20una%20geografia%20urbana%20della%20disperazione%20creativa.%20Gabriele%20Rossi%2C%20copywriter%20di%20ventotto%20anni%20con%20la%20faccia&width=1000&height=600&regen "Immagine iniziale - Il Copywriter Annoiato e la Tangente Infinita")
 
 Era il 15 marzo del 2000, e l'agenzia pubblicitaria "Creatività & Associati" di Milano bruciava nell'inferno dell'deadline. Le scrivanie dell'open space erano sommerse da fogli, bozze, evidenziatori scarichi e tazze di caffè freddo che formavano una geografia urbana della disperazione creativa.
 
@@ -182,7 +183,6 @@ Gabriele rise. "Giobi, ho la sensazione che lavorare qui non sarà mai più noio
 E mentre uscivano dall'ufficio, nessuno dei due notò che il cristallo azzurro sulla scrivania di Giobi stava brillando con una luce che sembrava comunicare qualcosa a qualcun altro, da qualche parte molto lontano nel tempo e nello spazio.
 
 Ma questa è un'altra storia.
-
 
 <!-- IMMAGINE FINALE -->
 ![Immagine finale - Il Copywriter Annoiato e la Tangente Infinita](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20commedia%2Ffantasy%20style%2C%20Ufficio%20di%20agenzia%20pubblicitaria%20milanese%2C%20anno%202000%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20%22forse%20il%20tuo%20approccio%20al%20marketing%20ha%20qualche%20merito.%22%20%22Sai%20cosa%3F%22%20disse%20Giobi%20dirigendosi%20verso%20la%20fotocopiatrice%2C%20%22facciamo%20una%20prova.%20Proviamo%20a%20fare%20una%20fotocopia%20del%20brief%20del%20cliente%20e%20vediamo%20cosa%20succede.%22%20%22Non%20puoi%20essere%20serio.%22%20%22Gabriele%2C%20in%20quarant'anni%20di%20vita%20ho%20imparato%20che%20quando%20l'universo%20ti%20offre%20delle&width=1000&height=600&regen "Immagine finale - Il Copywriter Annoiato e la Tangente Infinita")

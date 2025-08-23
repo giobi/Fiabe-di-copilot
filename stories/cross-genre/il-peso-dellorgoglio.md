@@ -8,8 +8,9 @@
 ## Storia
 
 
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - Il Peso dell'Orgoglio](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20cross-genre%2Fdramma%20contemporaneo%20style%2C%20Milano%2C%202004-2012%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20!Immagine%20iniziale%20-%20Il%20Peso%20dell'Orgoglio%20Matteo%20Benedetti%20guard%C3%B2%20suo%20figlio%20Alessandro%20attraverso%20la%20vetrata%20dell'ufficio%2C%20le%20spalle%20curve%20sulla%20scrivania%20illuminata%20solo%20dalla%20luce%20fredda%20del%20monitor.%20Erano%20le%20undici%20di%20sera%2C%20e%20il%20ragazzo%20era%20ancora%20l%C3%AC%2C%20nel%20laboratorio%20di%20elettronica%20della%20ditta%20di%20famiglia%2C%20a%20lavorare%20su&width=1000&height=600&regen "Immagine iniziale - Il Peso dell'Orgoglio")
+![Immagine iniziale - Il Peso dell'Orgoglio](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20cross-genre%2Fdramma%20contemporaneo%20style%2C%20Milano%2C%202004-2012%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Matteo%20Benedetti%20guard%C3%B2%20suo%20figlio%20Alessandro%20attraverso%20la%20vetrata%20dell'ufficio%2C%20le%20spalle%20curve%20sulla%20scrivania%20illuminata%20solo%20dalla%20luce%20fredda%20del%20monitor.%20Erano%20le%20undici%20di%20sera%2C%20e%20il%20ragazzo%20era%20ancora%20l%C3%AC%2C%20nel%20laboratorio%20di%20elettronica%20della%20ditta%20di%20famiglia%2C%20a%20lavorare%20su%20quell'ennesimo%20prototipo%20che%2C%20secondo%20Matteo%2C%20non&width=1000&height=600&regen "Immagine iniziale - Il Peso dell'Orgoglio")
 
 Matteo Benedetti guardò suo figlio Alessandro attraverso la vetrata dell'ufficio, le spalle curve sulla scrivania illuminata solo dalla luce fredda del monitor. Erano le undici di sera, e il ragazzo era ancora lì, nel laboratorio di elettronica della ditta di famiglia, a lavorare su quell'ennesimo prototipo che, secondo Matteo, non avrebbe mai portato a nulla di concreto.
 

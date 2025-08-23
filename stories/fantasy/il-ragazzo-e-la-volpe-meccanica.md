@@ -8,8 +8,9 @@
 
 
 
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - Il Ragazzo e la Volpe Meccanica](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Favventura%20style%2C%20Borgo%20di%20Silvacristallo%2C%20ai%20confini%20tra%20il%20mondo%20umano%20e%20Terra%20Mystica%2C%20anno%202089%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20!Immagine%20iniziale%20-%20Il%20Ragazzo%20e%20la%20Volpe%20Meccanica%20Kael%20aveva%20sempre%20saputo%20di%20essere%20diverso.%20Non%20solo%20per%20le%20orecchie%20leggermente%20appuntite%20che%20sporgevano%20dai%20suoi%20capelli%20rosso%20fuoco%2C%20o%20per%20l'istinto%20soprannaturale%20che%20lo%20guidava%20attraverso%20i%20sentieri%20boscosi%20attorno%20a%20Silvacristallo.%20Era%20diverso%20perch%C3%A9%20poteva%20sentire%20il&width=1000&height=600&regen "Immagine iniziale - Il Ragazzo e la Volpe Meccanica")
+![Immagine iniziale - Il Ragazzo e la Volpe Meccanica](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Favventura%20style%2C%20Borgo%20di%20Silvacristallo%2C%20ai%20confini%20tra%20il%20mondo%20umano%20e%20Terra%20Mystica%2C%20anno%202089%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Kael%20aveva%20sempre%20saputo%20di%20essere%20diverso.%20Non%20solo%20per%20le%20orecchie%20leggermente%20appuntite%20che%20sporgevano%20dai%20suoi%20capelli%20rosso%20fuoco%2C%20o%20per%20l'istinto%20soprannaturale%20che%20lo%20guidava%20attraverso%20i%20sentieri%20boscosi%20attorno%20a%20Silvacristallo.%20Era%20diverso%20perch%C3%A9%20poteva%20sentire%20il%20cuore%20delle%20macchine.%20Il%20borgo%20dove%20viveva%20si%20trovava&width=1000&height=600&regen "Immagine iniziale - Il Ragazzo e la Volpe Meccanica")
 
 Kael aveva sempre saputo di essere diverso. Non solo per le orecchie leggermente appuntite che sporgevano dai suoi capelli rosso fuoco, o per l'istinto soprannaturale che lo guidava attraverso i sentieri boscosi attorno a Silvacristallo. Era diverso perché poteva sentire il cuore delle macchine.
 
@@ -63,6 +64,7 @@ Gli agenti se ne andarono senza Vixen, ma con una promessa: Kael sarebbe stato a
 Anni dopo, quando i primi ponti stabili verso Terra Mystica furono aperti, Kael e Vixen furono tra i primi a attraversarli. Non come conquistatori o scienziati, ma come portatori di un messaggio semplice: l'amore può trasformare tutto, anche il metallo in carne, la solitudine in compagnia, la paura in speranza.
 
 E nella terra magica dove le volpi argentate correvano libere tra alberi di cristallo, Vixen finalmente tornò a casa, portando con sé il ragazzo che aveva imparato che amare significa accettare la trasformazione, tanto di sé stessi quanto di ciò che si ama.
+
 
 <!-- IMMAGINE FINALE -->
 ![Immagine finale - Il Ragazzo e la Volpe Meccanica](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Favventura%20style%2C%20Borgo%20di%20Silvacristallo%2C%20ai%20confini%20tra%20il%20mondo%20umano%20e%20Terra%20Mystica%2C%20anno%202089%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20Vixen%20fece%20qualcosa%20di%20inaspettato.%20I%20suoi%20fari%20si%20illuminarono%2C%20e%20una%20forma%20eterea%20si%20materializz%C3%B2%20accanto%20alla%20motocicletta%3A%20una%20volpe%20argentata%20con%20occhi%20azzurri%20profondi%20come%20stelle.%20*%22Io%20scelgo%20di%20rimanere%20con%20Kael%2C%22*%20disse%20una%20voce%20che%20ora%20tutti%20potevano%20sentire.%20*%22Lui%20%C3%A8%20il%20ponte%20di%20cui%20Terra%20Mystica&width=1000&height=600&regen "Immagine finale - Il Ragazzo e la Volpe Meccanica")
