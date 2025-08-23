@@ -8,8 +8,9 @@
 
 ## Storia
 
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - Il Copywriter Annoiato e la Tangente Infinita](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Digital%20illustration%2C%20comedy%20style%2C%20office%20environment%20Milan%202000%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Tired%20copywriter%20Gabriele%20at%20desk%20with%20computer%20and%20papers%2C%20approaching%20eccentric%20colleague%20Giobi "Immagine iniziale - Il Copywriter Annoiato e la Tangente Infinita")
+![Immagine iniziale - Il Copywriter Annoiato e la Tangente Infinita](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20commedia%2Ffantasy%20style%2C%20Ufficio%20di%20agenzia%20pubblicitaria%20milanese%2C%20anno%202000%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20!Immagine%20iniziale%20-%20Il%20Copywriter%20Annoiato%20e%20la%20Tangente%20Infinita%20Era%20il%2015%20marzo%20del%202000%2C%20e%20l'agenzia%20pubblicitaria%20%22Creativit%C3%A0%20%26%20Associati%22%20di%20Milano%20bruciava%20nell'inferno%20dell'deadline.%20Le%20scrivanie%20dell'open%20space%20erano%20sommerse%20da%20fogli%2C%20bozze%2C%20evidenziatori%20scarichi%20e%20tazze%20di%20caff%C3%A8%20freddo%20che%20formavano%20una%20geografia%20urbana%20della%20disperazione&width=1000&height=600&regen "Immagine iniziale - Il Copywriter Annoiato e la Tangente Infinita")
 
 Era il 15 marzo del 2000, e l'agenzia pubblicitaria "Creatività & Associati" di Milano bruciava nell'inferno dell'deadline. Le scrivanie dell'open space erano sommerse da fogli, bozze, evidenziatori scarichi e tazze di caffè freddo che formavano una geografia urbana della disperazione creativa.
 
@@ -69,9 +70,6 @@ Il cuore di Gabriele iniziò a battere più forte. "E quindi?"
 
 "E quindi ho chiamato l'università. Ho detto che ero un giornalista del Corriere interessato alla ricerca, e ho scoperto che questo Stellari sta lavorando su una teoria assurda: dice che esistono altre dimensioni che si sovrappongono alla nostra, e che determinati cristalli possono creare dei... come li ha chiamati... 'ponti di risonanza' tra queste dimensioni."
 
-<!-- IMMAGINE CENTRALE -->
-![Immagine centrale - Il Copywriter Annoiato e la Tangente Infinita](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Digital%20illustration%2C%20mystery%2Fcomedy%20style%2C%20Milan%20office%202000%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Central%20scene%3A%20Giobi%20showing%20mysterious%20photocopies%20and%20strange%20coins%20to%20amazed%20Gabriele%2C%20glowing%20objects "Immagine centrale - Il Copywriter Annoiato e la Tangente Infinita")
-
 Gabriele sentì la realtà scivolargli via come sapone bagnato. "Aspetta, aspetta. Tu stai dicendo che le macchine del nostro ufficio stanno... cosa esattamente?"
 
 "Ricevendo interferenze dimensionali!" Giobi batté il pugno sulla scrivania con tale entusiasmo che il cristallo azzurro rimbalzò. "Il cristallo che uso come fermacarte? L'ho trovato nel cestino della spazzatura lunedì mattina. Era caldo. E da quando ce l'ho qui, tutte le macchine elettroniche si comportano in modo strano."
@@ -97,6 +95,9 @@ Gabriele si tenne forte alla sedia. "Prego?"
 "Il detersivo! Tu devi scrivere di 'pulizia profonda' e 'delicatezza', giusto? Bene, che cos'è la pulizia se non il processo di rimuovere ciò che non dovrebbe essere lì? E che cos'è la delicatezza se non il rispetto per l'integrità di ciò che deve rimanere?"
 
 "Okay, questo inizia ad avere senso..."
+
+<!-- IMMAGINE CENTRALE -->
+![Immagine centrale - Il Copywriter Annoiato e la Tangente Infinita](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20commedia%2Ffantasy%20style%2C%20Ufficio%20di%20agenzia%20pubblicitaria%20milanese%2C%20anno%202000%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20stessi%20della%20fotocopia.%20Gabriele%20si%20sedette%20lentamente.%20%22Giobi%2C%20da%20dove%20arrivano%20queste%20cose%3F%22%20%22Ecco%2C%20questa%20%C3%A8%20la%20parte%20interessante!%22%20Giobi%20si%20alz%C3%B2%20e%20inizi%C3%B2%20a%20camminare%20intorno%20alla%20scrivania%20con%20l'aria%20di%20un%20detective%20che%20sta%20per%20svelare%20il%20caso%20del%20secolo.%20%22Ho%20fatto%20delle%20ricerche.%20Ricordi%20quello%20strano%20blackout&width=1000&height=600&regen "Immagine centrale - Il Copywriter Annoiato e la Tangente Infinita")
 
 "Esatto! E ora pensa: cosa fanno questi fenomeni dimensionali? Puliscono la realtà da ciò che è normale e introducono delicatamente elementi di meraviglia! Il detersivo fa lo stesso con i tessuti!"
 
@@ -140,9 +141,6 @@ Si guardarono di nuovo.
 
 "O forse," replicò Giobi con un sorriso, "dovremo ripensare il nostro approccio alla realtà."
 
-<!-- IMMAGINE FINALE -->
-![Immagine finale - Il Copywriter Annoiato e la Tangente Infinita](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Digital%20illustration%2C%20comedy%2Ffantasy%20style%2C%20Milan%20office%202000%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20Gabriele%20and%20Giobi%20looking%20at%20glowing%20mysterious%20documents%20with%20amazement%2C%20office%20equipment%20glowing%20blue "Immagine finale - Il Copywriter Annoiato e la Tangente Infinita")
-
 Un'ora dopo, Gabriele si trovava davanti al computer con un sorriso che non aveva mai avuto durante una giornata lavorativa. Stava scrivendo quello che probabilmente sarebbe diventato il brief pubblicitario più strano della storia del marketing italiano, mentre Giobi, seduto accanto a lui, continuava a documentare nel suo quaderno nero tutti i fenomeni strani che accadevano nell'ufficio.
 
 "Allora," disse Gabriele battendo sulla tastiera, "lo slogan finale è: 'Detersan Ultra: Così potente che pulisce anche dalle dimensioni che non sapevi di sporcare. Così delicato che i tuoi vestiti ringrazieranno in lingue che non sapevi esistessero.'"
@@ -184,6 +182,10 @@ Gabriele rise. "Giobi, ho la sensazione che lavorare qui non sarà mai più noio
 E mentre uscivano dall'ufficio, nessuno dei due notò che il cristallo azzurro sulla scrivania di Giobi stava brillando con una luce che sembrava comunicare qualcosa a qualcun altro, da qualche parte molto lontano nel tempo e nello spazio.
 
 Ma questa è un'altra storia.
+
+
+<!-- IMMAGINE FINALE -->
+![Immagine finale - Il Copywriter Annoiato e la Tangente Infinita](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20commedia%2Ffantasy%20style%2C%20Ufficio%20di%20agenzia%20pubblicitaria%20milanese%2C%20anno%202000%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20%22forse%20il%20tuo%20approccio%20al%20marketing%20ha%20qualche%20merito.%22%20%22Sai%20cosa%3F%22%20disse%20Giobi%20dirigendosi%20verso%20la%20fotocopiatrice%2C%20%22facciamo%20una%20prova.%20Proviamo%20a%20fare%20una%20fotocopia%20del%20brief%20del%20cliente%20e%20vediamo%20cosa%20succede.%22%20%22Non%20puoi%20essere%20serio.%22%20%22Gabriele%2C%20in%20quarant'anni%20di%20vita%20ho%20imparato%20che%20quando%20l'universo%20ti%20offre%20delle&width=1000&height=600&regen "Immagine finale - Il Copywriter Annoiato e la Tangente Infinita")
 
 ## Note dell'Autore AI
 

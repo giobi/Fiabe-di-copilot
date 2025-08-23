@@ -7,8 +7,9 @@
 
 ## Storia
 
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - Il Peso dell'Orgoglio](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Realistic%20drama%20illustration%2C%20contemporary%20style%2C%20Milano%202004%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Matteo%20observing%20his%20son%20Alessandro%20working%20late%20in%20their%20family%20electronics%20workshop%2C%20disappointed%20expression%2C%20cold%20industrial%20atmosphere "Immagine iniziale - Il Peso dell'Orgoglio")
+![Immagine iniziale - Il Peso dell'Orgoglio](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20cross-genre%2Fdramma%20contemporaneo%20style%2C%20Milano%2C%202004-2012%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20!Immagine%20iniziale%20-%20Il%20Peso%20dell'Orgoglio%20Matteo%20Benedetti%20guard%C3%B2%20suo%20figlio%20Alessandro%20attraverso%20la%20vetrata%20dell'ufficio%2C%20le%20spalle%20curve%20sulla%20scrivania%20illuminata%20solo%20dalla%20luce%20fredda%20del%20monitor.%20Erano%20le%20undici%20di%20sera%2C%20e%20il%20ragazzo%20era%20ancora%20l%C3%AC%2C%20nel%20laboratorio%20di%20elettronica%20della%20ditta%20di%20famiglia%2C%20a%20lavorare%20su&width=1000&height=600&regen "Immagine iniziale - Il Peso dell'Orgoglio")
 
 Matteo Benedetti guardò suo figlio Alessandro attraverso la vetrata dell'ufficio, le spalle curve sulla scrivania illuminata solo dalla luce fredda del monitor. Erano le undici di sera, e il ragazzo era ancora lì, nel laboratorio di elettronica della ditta di famiglia, a lavorare su quell'ennesimo prototipo che, secondo Matteo, non avrebbe mai portato a nulla di concreto.
 
@@ -40,9 +41,6 @@ Il punto di rottura arrivò nel 2008, quando Alessandro presentò al padre un pr
 
 Quella notte Alessandro prese una decisione. Raccolse i suoi progetti, i suoi brevetti, i suoi sogni, e lasciò l'azienda di famiglia. Matteo lo lasciò andare senza nemmeno salutarlo: "Vedrai cosa significa il mondo vero. Tornerai con la coda tra le gambe entro un mese."
 
-<!-- IMMAGINE CENTRALE -->
-![Immagine centrale - Il Peso dell'Orgoglio](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Realistic%20drama%20illustration%2C%20contemporary%20style%2C%20Milano%202008%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Central%20scene%3A%20Alessandro%20walking%20away%20from%20family%20business%20with%20a%20box%20of%20his%20projects%2C%20determined%20expression%2C%20while%20Matteo%20watches%20from%20the%20window%20with%20disapproval "Immagine centrale - Il Peso dell'Orgoglio")
-
 Alessandro non tornò. Invece, fondò la sua azienda, "NeuralLink Technologies", in un piccolo garage affittato nella periferia milanese. Il suo sistema di comunicazione quantica, che sfruttava in modo geniale le interferenze dimensionali che stavano emergendo dalle ricerche universitarie, attirò l'attenzione di investitori internazionali.
 
 I primi anni furono durissimi. Alessandro lavorava venti ore al giorno, dormiva sul divano dell'ufficio, mangiava panini alla scrivania. Ma aveva qualcosa che non aveva mai avuto in azienda con suo padre: la libertà di creare, di sbagliare, di imparare dai propri errori. E soprattutto, aveva collaboratori che credevano nelle sue idee invece di demolirle prima ancora di ascoltarle.
@@ -62,6 +60,9 @@ Fu nel dicembre 2012 che Matteo decise di rompere il silenzio. L'azienda di fami
 "Ciao, Alessandro. Sono... sono papà."
 
 Dall'altra parte del telefono, Alessandro riconobbe immediatamente quella voce che per vent'anni gli aveva fatto male. Ma ora, seduto nella sua grande scrivania di amministratore delegato, circondato dai brevetti appesi alle pareti e dalle foto delle cerimonie di premiazione, quella voce non gli faceva più paura.
+
+<!-- IMMAGINE CENTRALE -->
+![Immagine centrale - Il Peso dell'Orgoglio](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20cross-genre%2Fdramma%20contemporaneo%20style%2C%20Milano%2C%202004-2012%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20del%20mercato%20non%20capisci%20niente.%22%20Il%20punto%20di%20rottura%20arriv%C3%B2%20nel%202008%2C%20quando%20Alessandro%20present%C3%B2%20al%20padre%20un%20progetto%20rivoluzionario%3A%20un%20sistema%20di%20comunicazione%20quantica%20che%20sembrava%20sfruttare%20le%20anomalie%20elettromagnetiche%20che%20continuavano%20a%20manifestarsi%20in%20citt%C3%A0.%20Aveva%20lavorato%20tre%20anni%20in%20segreto%2C%20studiando%20i%20pattern%2C%20collaborando%20di%20nascosto%20con&width=1000&height=600&regen "Immagine centrale - Il Peso dell'Orgoglio")
 
 "Ciao, Matteo," rispose, usando volutamente il nome invece di "papà".
 
@@ -86,9 +87,6 @@ Ci fu un lungo silenzio al telefono.
 Alessandro guardò fuori dalla finestra del suo ufficio al trentesimo piano, la Milano che si estendeva sotto di lui come una mappa di luci e possibilità. Pensò a tutti quegli anni in cui aveva sperato in una telefonata così, in una richiesta di perdono così.
 
 "No, Matteo. Non credo proprio."
-
-<!-- IMMAGINE FINALE -->
-![Immagine finale - Il Peso dell'Orgoglio](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Realistic%20drama%20illustration%2C%20contemporary%20style%2C%20Milano%202012%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Closing%20scene%3A%20Alessandro%20in%20his%20successful%20office%20overlooking%20Milano%2C%20confident%20and%20proud%2C%20hanging%20up%20the%20phone%20on%20his%20father "Immagine finale - Il Peso dell'Orgoglio")
 
 E riattaccò.
 
