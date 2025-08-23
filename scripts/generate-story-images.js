@@ -60,12 +60,15 @@ function extractStoryContent(filePath) {
         return null;
     }
     
-    // Rimuove i tag HTML e i link markdown per ottenere testo pulito
+    // Rimuove i tag HTML, commenti di immagini e le immagini per ottenere testo pulito
     let storyText = storyMatch[1]
+        .replace(/<!--\s*IMMAGINE\s+\w+\s*-->/g, '') // Rimuove commenti immagini
+        .replace(/!\[[^\]]*\]\([^)]+\)/g, '') // Rimuove immagini markdown
         .replace(/<[^>]*>/g, '') // Rimuove tag HTML
         .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Converte link markdown in testo
         .replace(/\*\*([^*]+)\*\*/g, '$1') // Rimuove grassetto
         .replace(/\n+/g, ' ') // Sostituisce newline con spazi
+        .replace(/\s+/g, ' ') // Normalizza spazi multipli
         .trim();
     
     return storyText;

@@ -7,8 +7,10 @@
 ## Storia
 
 
+
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - L'Ultima Libreria](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20distopico%2Fromance%20style%2C%20Neo-Tokyo%202157%2C%20Terra%20post-apocalittica%20dopo%20le%20Guerre%20della%20Memoria%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Kai%20scendeva%20le%20scale%20nascoste%20sotto%20le%20rovine%20del%20vecchio%20distretto%20universitario%20di%20Neo-Tokyo%2C%20portando%20con%20s%C3%A9%20l'ultimo%20carico%20di%20libri%20salvati%20dalla%20demolizione.%20Era%20il%202157%2C%20e%20il%20Governo%20Unitario%20... "Immagine iniziale - L'Ultima Libreria")
+![Immagine iniziale - L'Ultima Libreria](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20distopico%2Fromance%20style%2C%20Neo-Tokyo%202157%2C%20Terra%20post-apocalittica%20dopo%20le%20Guerre%20della%20Memoria%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Kai%20scendeva%20le%20scale%20nascoste%20sotto%20le%20rovine%20del%20vecchio%20distretto%20universitario%20di%20Neo-Tokyo%2C%20portando%20con%20s%C3%A9%20l'ultimo%20carico%20di%20libri%20salvati%20dalla%20demolizione.%20Era%20il%202157%2C%20e%20il%20Governo%20Unitario%20aveva%20dichiarato%20che%20la%20%22purificazione%20della%20memoria%22%20era%20quasi%20completa.%20Presto%2C%20nessuno%20avrebbe%20pi%C3%B9%20ricordato%20il%20mondo%20di%20prima&width=1000&height=600&regen "Immagine iniziale - L'Ultima Libreria")
 
 Kai scendeva le scale nascoste sotto le rovine del vecchio distretto universitario di Neo-Tokyo, portando con sé l'ultimo carico di libri salvati dalla demolizione. Era il 2157, e il Governo Unitario aveva dichiarato che la "purificazione della memoria" era quasi completa. Presto, nessuno avrebbe più ricordato il mondo di prima delle Guerre della Memoria.
 
@@ -33,7 +35,7 @@ Kai prese i rapporti dalle mani di Elena, sfiorandole le dita. In quel tocco c'e
 Kai si inginocchiò davanti a lei, tenendo ancora i documenti. "Elena, anche se fosse tutto vero, cosa cambierebbe? Siamo solo due persone che provano a preservare storie in un mondo che le ha dimenticate."
 
 <!-- IMMAGINE CENTRALE -->
-![Immagine centrale - L'Ultima Libreria](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20distopico%2Fromance%20style%2C%20Neo-Tokyo%202157%2C%20Terra%20post-apocalittica%20dopo%20le%20Guerre%20della%20Memoria%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20Detective%20Luna%20Stellari.%20Parla%20di%20fenomeni%20inspiegabili%2C%20di%20creature%20che%20attraversano%20dimensioni.%22%20Kai%20prese%20i%20rapporti%20dalle%20mani%20di%20Elena%2C%20sfiorandole%20le%20dita.%20In%20quel%20tocco%20c'era%20tutto%20l'amore%20che%20... "Immagine centrale - L'Ultima Libreria")
+![Immagine centrale - L'Ultima Libreria](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20distopico%2Fromance%20style%2C%20Neo-Tokyo%202157%2C%20Terra%20post-apocalittica%20dopo%20le%20Guerre%20della%20Memoria%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20Detective%20Luna%20Stellari.%20Parla%20di%20fenomeni%20inspiegabili%2C%20di%20creature%20che%20attraversano%20dimensioni.%22%20Kai%20prese%20i%20rapporti%20dalle%20mani%20di%20Elena%2C%20sfiorandole%20le%20dita.%20In%20quel%20tocco%20c'era%20tutto%20l'amore%20che%20non%20osavano%20ancora%20confessarsi%2C%20nascosto%20dietro%20la%20scusa%20della%20loro%20missione%20comune.%20%22Luna%20Stellari...%20potrebbe%20essere%20una%20discendente%20di%20Marco%3F%22&width=1000&height=600&regen "Immagine centrale - L'Ultima Libreria")
 
 "Cambierebbe tutto," disse Elena, accarezzandogli dolcemente il viso. "Significherebbe che c'è speranza oltre questo mondo distrutto. Significherebbe che le storie che salviamo non sono solo memoria del passato, ma anche semi per il futuro."
 
@@ -61,7 +63,7 @@ Nelle profondità della Terra, l'Ultima Libreria continuò a brillare di una luc
 
 
 <!-- IMMAGINE FINALE -->
-![Immagine finale - L'Ultima Libreria](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20distopico%2Fromance%20style%2C%20Neo-Tokyo%202157%2C%20Terra%20post-apocalittica%20dopo%20le%20Guerre%20della%20Memoria%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20-%20Luna%20Stellari%2C%20ultimo%20rapporto%2C%20Colonia%20Artemis-7.%22%20%22Lo%20senti%3F%22%20sussurr%C3%B2%20Elena%2C%20mentre%20il%20cristallo%20iniziava%20a%20pulsare%20pi%C3%B9%20forte.%20Kai%20lo%20sentiva%3A%20era%20come%20se%20il%20cristallo%20stesse%20comunicando%20con%20qual... "Immagine finale - L'Ultima Libreria")
+![Immagine finale - L'Ultima Libreria](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20distopico%2Fromance%20style%2C%20Neo-Tokyo%202157%2C%20Terra%20post-apocalittica%20dopo%20le%20Guerre%20della%20Memoria%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20-%20Luna%20Stellari%2C%20ultimo%20rapporto%2C%20Colonia%20Artemis-7.%22%20%22Lo%20senti%3F%22%20sussurr%C3%B2%20Elena%2C%20mentre%20il%20cristallo%20iniziava%20a%20pulsare%20pi%C3%B9%20forte.%20Kai%20lo%20sentiva%3A%20era%20come%20se%20il%20cristallo%20stesse%20comunicando%20con%20qualcosa%20di%20molto%20lontano%2C%20una%20vibrazione%20che%20risuonava%20nel%20profondo%20del%20suo%20essere.%20E%20per%20un%20istante%2C%20in%20quella%20stanza&width=1000&height=600&regen "Immagine finale - L'Ultima Libreria")
 
 ## Note dell'Autore AI
 

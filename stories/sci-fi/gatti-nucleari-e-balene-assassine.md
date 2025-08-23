@@ -7,8 +7,10 @@
 ## Storia
 
 
+
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - Gatti nucleari e balene assassine](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Fcomedy%20style%2C%20Stazione%20di%20Ricerca%20Marittima%20Stellari-Beta%2C%20Oceano%20Pacifico%2C%20anno%202134%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Il%20Professor%20Giacomo%20Stellari%2C%20pronipote%20del%20famoso%20Marco%2C%20non%20avrebbe%20mai%20immaginato%20che%20la%20sua%20carriera%20di%20bioingegnere%20sarebbe%20finita%20con%20un%20gatto%20radioattivo%20che%20faceva%20le%20fusa%20in%20modalit%C3%A0%20%22reazio... "Immagine iniziale - Gatti nucleari e balene assassine")
+![Immagine iniziale - Gatti nucleari e balene assassine](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Fcomedy%20style%2C%20Stazione%20di%20Ricerca%20Marittima%20Stellari-Beta%2C%20Oceano%20Pacifico%2C%20anno%202134%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Il%20Professor%20Giacomo%20Stellari%2C%20pronipote%20del%20famoso%20Marco%2C%20non%20avrebbe%20mai%20immaginato%20che%20la%20sua%20carriera%20di%20bioingegnere%20sarebbe%20finita%20con%20un%20gatto%20radioattivo%20che%20faceva%20le%20fusa%20in%20modalit%C3%A0%20%22reazione%20a%20catena%22%20e%20un'orca%20che%20aveva%20sviluppato%20un%20intelletto%20superiore%20e%20una%20particolare%20predilezione%20per%20il%20sarcasmo.%20Tutto%20inizi%C3%B2&width=1000&height=600&regen "Immagine iniziale - Gatti nucleari e balene assassine")
 
 Il Professor Giacomo Stellari, pronipote del famoso Marco, non avrebbe mai immaginato che la sua carriera di bioingegnere sarebbe finita con un gatto radioattivo che faceva le fusa in modalità "reazione a catena" e un'orca che aveva sviluppato un intelletto superiore e una particolare predilezione per il sarcasmo.
 
@@ -81,7 +83,7 @@ Il Comandante Morrison si girò verso il Dr. Stellari, che stava galleggiando po
 "Beh," rispose Giacomo, "ricorda quando pensavamo che la cosa peggiore che potesse succedere con la ricerca nucleare fosse un incidente di laboratorio standard?"
 
 <!-- IMMAGINE CENTRALE -->
-![Immagine centrale - Gatti nucleari e balene assassine](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Fcomedy%20style%2C%20Stazione%20di%20Ricerca%20Marittima%20Stellari-Beta%2C%20Oceano%20Pacifico%2C%20anno%202134%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20considerare%20di%20utilizzare%20metodi%20di%20comunicazione%20pi%C3%B9...%20primitivi.%20Come%20i%20segnali%20di%20fumo.%20O%20le%20lettere.%22%20%22Le%20lettere%20non%20funzionano%20sott'acqua!%22%20protest%C3%B2%20Giacomo%2C%20guardando%20i%20corridori%20ormai%20complet... "Immagine centrale - Gatti nucleari e balene assassine")
+![Immagine centrale - Gatti nucleari e balene assassine](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Fcomedy%20style%2C%20Stazione%20di%20Ricerca%20Marittima%20Stellari-Beta%2C%20Oceano%20Pacifico%2C%20anno%202134%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20di%20utilizzare%20metodi%20di%20comunicazione%20pi%C3%B9...%20primitivi.%20Come%20i%20segnali%20di%20fumo.%20O%20le%20lettere.%22%20%22Le%20lettere%20non%20funzionano%20sott'acqua!%22%20protest%C3%B2%20Giacomo%2C%20guardando%20i%20corridori%20ormai%20completamente%20allagati%20della%20stazione.%20%22Dettaglio%20tecnico%2C%22%20dismisse%C3%B2%20l'orca.%20%22Un%20vero%20scienziato%20troverebbe%20una%20soluzione%20creativa.%22%20Fu%20allora%20che%20arriv%C3%B2%20l'ispezione%20a%20sorpresa.%20Un%20team&width=1000&height=600&regen "Immagine centrale - Gatti nucleari e balene assassine")
 
 "Sì?"
 
@@ -157,7 +159,7 @@ Shamu-VII rise - un suono che risuonò attraverso l'acqua come campane subacquee
 
 
 <!-- IMMAGINE FINALE -->
-![Immagine finale - Gatti nucleari e balene assassine](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Fcomedy%20style%2C%20Stazione%20di%20Ricerca%20Marittima%20Stellari-Beta%2C%20Oceano%20Pacifico%2C%20anno%202134%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20di%20un'esplosione%2C%20produsse%20una%20piccola%20aurora%20boreale%20sottomarina%20che%20danz%C3%B2%20attraverso%20l'acqua%20in%20spirali%20ipnotiche.%20%22Ha%20imparato%20a%20controllare%20l'output%20energetico%2C%22%20spieg%C3%B2%20orgoglioso%20il%20Dr.%20Stellari.... "Immagine finale - Gatti nucleari e balene assassine")
+![Immagine finale - Gatti nucleari e balene assassine](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Fcomedy%20style%2C%20Stazione%20di%20Ricerca%20Marittima%20Stellari-Beta%2C%20Oceano%20Pacifico%2C%20anno%202134%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20di%20un'esplosione%2C%20produsse%20una%20piccola%20aurora%20boreale%20sottomarina%20che%20danz%C3%B2%20attraverso%20l'acqua%20in%20spirali%20ipnotiche.%20%22Ha%20imparato%20a%20controllare%20l'output%20energetico%2C%22%20spieg%C3%B2%20orgoglioso%20il%20Dr.%20Stellari.%20%22Ora%20pu%C3%B2%20produrre%20qualsiasi%20cosa%2C%20dalle%20reazioni%20nucleari%20controllate%20agli%20spettacoli%20di%20luce%20puramente%20estetici.%22%20%22E%20non%20dimentichiamo%20il%20suo%20talento%20culinario%2C%22%20aggiunse%20Shamu-VII.&width=1000&height=600&regen "Immagine finale - Gatti nucleari e balene assassine")
 
 ## Note dell'Autore AI
 

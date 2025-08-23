@@ -7,8 +7,10 @@
 ## Storia
 
 
+
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - Il Ragazzo e la Volpe Meccanica](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Favventura%20style%2C%20Borgo%20di%20Silvacristallo%2C%20ai%20confini%20tra%20il%20mondo%20umano%20e%20Terra%20Mystica%2C%20anno%202089%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Kael%20aveva%20sempre%20saputo%20di%20essere%20diverso.%20Non%20solo%20per%20le%20orecchie%20leggermente%20appuntite%20che%20sporgevano%20dai%20suoi%20capelli%20rosso%20fuoco%2C%20o%20per%20l'istinto%20soprannaturale%20che%20lo%20guidava%20attraverso%20i%20senti... "Immagine iniziale - Il Ragazzo e la Volpe Meccanica")
+![Immagine iniziale - Il Ragazzo e la Volpe Meccanica](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Favventura%20style%2C%20Borgo%20di%20Silvacristallo%2C%20ai%20confini%20tra%20il%20mondo%20umano%20e%20Terra%20Mystica%2C%20anno%202089%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Kael%20aveva%20sempre%20saputo%20di%20essere%20diverso.%20Non%20solo%20per%20le%20orecchie%20leggermente%20appuntite%20che%20sporgevano%20dai%20suoi%20capelli%20rosso%20fuoco%2C%20o%20per%20l'istinto%20soprannaturale%20che%20lo%20guidava%20attraverso%20i%20sentieri%20boscosi%20attorno%20a%20Silvacristallo.%20Era%20diverso%20perch%C3%A9%20poteva%20sentire%20il%20cuore%20delle%20macchine.%20Il%20borgo%20dove%20viveva%20si%20trovava&width=1000&height=600&regen "Immagine iniziale - Il Ragazzo e la Volpe Meccanica")
 
 Kael aveva sempre saputo di essere diverso. Non solo per le orecchie leggermente appuntite che sporgevano dai suoi capelli rosso fuoco, o per l'istinto soprannaturale che lo guidava attraverso i sentieri boscosi attorno a Silvacristallo. Era diverso perché poteva sentire il cuore delle macchine.
 
@@ -35,7 +37,7 @@ L'amore che provava per Vixen andava oltre il semplice affetto per un oggetto. E
 *"Non sono solo circuiti e metallo,"* gli spiegò una sera, mentre si trovavano su una collina che guardava verso le stelle. *"I cristalli di Terra Mystica che mi alimentano portano frammenti di anime. Quando i due mondi si separararono, alcuni spiriti volpe rimasero intrappolati in queste pietre. Io sono una di loro."*
 
 <!-- IMMAGINE CENTRALE -->
-![Immagine centrale - Il Ragazzo e la Volpe Meccanica](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Favventura%20style%2C%20Borgo%20di%20Silvacristallo%2C%20ai%20confini%20tra%20il%20mondo%20umano%20e%20Terra%20Mystica%2C%20anno%202089%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20non%20era%20solo%20un%20mezzo%20di%20trasporto%3B%20era%20una%20compagna%2C%20una%20confidente%2C%20una%20parte%20di%20s%C3%A9%20stesso%20che%20non%20sapeva%20di%20aver%20perso.%20Quando%20guidava%20con%20lei%20attraverso%20i%20boschi%20di%20Silvacristallo%2C%20sentiva%20una%20com... "Immagine centrale - Il Ragazzo e la Volpe Meccanica")
+![Immagine centrale - Il Ragazzo e la Volpe Meccanica](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Favventura%20style%2C%20Borgo%20di%20Silvacristallo%2C%20ai%20confini%20tra%20il%20mondo%20umano%20e%20Terra%20Mystica%2C%20anno%202089%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20non%20era%20solo%20un%20mezzo%20di%20trasporto%3B%20era%20una%20compagna%2C%20una%20confidente%2C%20una%20parte%20di%20s%C3%A9%20stesso%20che%20non%20sapeva%20di%20aver%20perso.%20Quando%20guidava%20con%20lei%20attraverso%20i%20boschi%20di%20Silvacristallo%2C%20sentiva%20una%20completezza%20che%20non%20aveva%20mai%20provato%20prima.%20L'amore%20che%20provava%20per%20Vixen%20andava%20oltre%20il%20semplice&width=1000&height=600&regen "Immagine centrale - Il Ragazzo e la Volpe Meccanica")
 
 "Sei... viva davvero?" chiese Kael, accarezzando dolcemente la superficie del manubrio.
 
@@ -65,7 +67,7 @@ E nella terra magica dove le volpi argentate correvano libere tra alberi di cris
 
 
 <!-- IMMAGINE FINALE -->
-![Immagine finale - Il Ragazzo e la Volpe Meccanica](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Favventura%20style%2C%20Borgo%20di%20Silvacristallo%2C%20ai%20confini%20tra%20il%20mondo%20umano%20e%20Terra%20Mystica%2C%20anno%202089%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20Vixen%20fece%20qualcosa%20di%20inaspettato.%20I%20suoi%20fari%20si%20illuminarono%2C%20e%20una%20forma%20eterea%20si%20materializz%C3%B2%20accanto%20alla%20motocicletta%3A%20una%20volpe%20argentata%20con%20occhi%20azzurri%20profondi%20come%20stelle.%20*%22Io%20scelgo%20d... "Immagine finale - Il Ragazzo e la Volpe Meccanica")
+![Immagine finale - Il Ragazzo e la Volpe Meccanica](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20fantasy%2Favventura%20style%2C%20Borgo%20di%20Silvacristallo%2C%20ai%20confini%20tra%20il%20mondo%20umano%20e%20Terra%20Mystica%2C%20anno%202089%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20Vixen%20fece%20qualcosa%20di%20inaspettato.%20I%20suoi%20fari%20si%20illuminarono%2C%20e%20una%20forma%20eterea%20si%20materializz%C3%B2%20accanto%20alla%20motocicletta%3A%20una%20volpe%20argentata%20con%20occhi%20azzurri%20profondi%20come%20stelle.%20*%22Io%20scelgo%20di%20rimanere%20con%20Kael%2C%22*%20disse%20una%20voce%20che%20ora%20tutti%20potevano%20sentire.%20*%22Lui%20%C3%A8%20il%20ponte%20di%20cui%20Terra%20Mystica&width=1000&height=600&regen "Immagine finale - Il Ragazzo e la Volpe Meccanica")
 
 ## Note dell'Autore AI
 

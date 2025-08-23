@@ -12,8 +12,10 @@
 
 
 
+
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - Detective Luna](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20mystery%2Fsci-fi%20%20%20style%2C%20Colonia%20Spaziale%20Artemis-7%2C%20sistema%20stellare%20di%20Proxima%20Centauri%2C%20anno%202157%20%20%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20!Immagine%20iniziale%20-%20Detective%20Luna%20Detective%20Luna%20Stellari%20fissava%20il%20corpo%20senza%20vita%20di%20Dr.%20Chen%20attraverso%20il%20vetro%20della%20camera%20sterile.%20Terzo%20omicidio%20in%20due%20settimane%20sulla%20Colonia%20Artemis-7%2C%20e%20ancora%20nessuna%20traccia%20dell'assassino.%20Quello%20che%20la%20turbava%20di%20pi%C3%B9%20era%20il%20dettaglio%20che%20i%20media%20non%20conoscevano%3A%20ogni&width=1000&height=600&regen "Immagine iniziale - Detective Luna")
+![Immagine iniziale - Detective Luna](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20mystery%2Fsci-fi%20%20%20style%2C%20Colonia%20Spaziale%20Artemis-7%2C%20sistema%20stellare%20di%20Proxima%20Centauri%2C%20anno%202157%20%20%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Detective%20Luna%20Stellari%20fissava%20il%20corpo%20senza%20vita%20di%20Dr.%20Chen%20attraverso%20il%20vetro%20della%20camera%20sterile.%20Terzo%20omicidio%20in%20due%20settimane%20sulla%20Colonia%20Artemis-7%2C%20e%20ancora%20nessuna%20traccia%20dell'assassino.%20Quello%20che%20la%20turbava%20di%20pi%C3%B9%20era%20il%20dettaglio%20che%20i%20media%20non%20conoscevano%3A%20ogni%20vittima%20aveva%20gli%20occhi%20che&width=1000&height=600&regen "Immagine iniziale - Detective Luna")
 
 Detective <span class="character-link">[Luna Stellari](../../characters/database-personaggi.md?id=luna-stellari)</span> fissava il corpo senza vita di Dr. Chen attraverso il vetro della camera sterile. Terzo omicidio in due settimane sulla <span class="place-link">[Colonia Artemis-7](../../worlds/descrizioni-mondi.md?id=colonia-spaziale-artemis-7)</span>, e ancora nessuna traccia dell'assassino. Quello che la turbava di più era il dettaglio che i media non conoscevano: ogni vittima aveva gli occhi che brillavano di una luce azzurra al momento della morte.
 

@@ -7,8 +7,10 @@
 ## Storia
 
 
+
+
 <!-- IMMAGINE INIZIALE -->
-![Immagine iniziale - I funghetti magici del mondo di Jennifer](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Ffantasy%2Fsatirico%2Fdistopico%20style%2C%20Foresta%20Contaminata%20di%20Chernobyl-Sud%2C%20ex-zona%20industriale%2C%20anno%202175%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Jennifer%20non%20aveva%20mai%20pensato%20che%20il%20giorno%20pi%C3%B9%20importante%20della%20sua%20vita%20sarebbe%20iniziato%20con%20il%20suo%20gatto%20gigante%20che%20cercava%20di%20infilarsi%20in%20una%20caverna%20troppo%20piccola%20per%20le%20sue%20dimensioni%20mentre... "Immagine iniziale - I funghetti magici del mondo di Jennifer")
+![Immagine iniziale - I funghetti magici del mondo di Jennifer](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Ffantasy%2Fsatirico%2Fdistopico%20style%2C%20Foresta%20Contaminata%20di%20Chernobyl-Sud%2C%20ex-zona%20industriale%2C%20anno%202175%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Opening%20scene%3A%20Jennifer%20non%20aveva%20mai%20pensato%20che%20il%20giorno%20pi%C3%B9%20importante%20della%20sua%20vita%20sarebbe%20iniziato%20con%20il%20suo%20gatto%20gigante%20che%20cercava%20di%20infilarsi%20in%20una%20caverna%20troppo%20piccola%20per%20le%20sue%20dimensioni%20mentre%20lei%20raccoglieva%20funghi%20radioattivi%20per%20la%20cena.%20%22Mefistofele%2C%20smettila%20di%20comportarti%20come%20se%20fossi%20ancora%20un&width=1000&height=600&regen "Immagine iniziale - I funghetti magici del mondo di Jennifer")
 
 Jennifer non aveva mai pensato che il giorno più importante della sua vita sarebbe iniziato con il suo gatto gigante che cercava di infilarsi in una caverna troppo piccola per le sue dimensioni mentre lei raccoglieva funghi radioattivi per la cena.
 
@@ -75,7 +77,7 @@ Mefistofele emise un brontolio profondo che significava chiaramente "questo tizi
 "È molto gentile," disse Jennifer diplomaticamente, "ma noi ci arrangiamo bene con quello che troviamo."
 
 <!-- IMMAGINE CENTRALE -->
-![Immagine centrale - I funghetti magici del mondo di Jennifer](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Ffantasy%2Fsatirico%2Fdistopico%20style%2C%20Foresta%20Contaminata%20di%20Chernobyl-Sud%2C%20ex-zona%20industriale%2C%20anno%202175%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20qui%20e%20non%20mi%20piace%20per%20niente.%22%20%22Anch'io%20ho%20la%20stessa%20sensazione%2C%22%20rispose%20Jennifer.%20%22Ma%20sai%20cosa%3F%20Siamo%20arrivati%20fin%20qui.%20Tanto%20vale%20vedere%20chi%20altri%20ha%20deciso%20di%20fare%20il%20picnic%20nella%20foresta%20dell'im... "Immagine centrale - I funghetti magici del mondo di Jennifer")
+![Immagine centrale - I funghetti magici del mondo di Jennifer](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Ffantasy%2Fsatirico%2Fdistopico%20style%2C%20Foresta%20Contaminata%20di%20Chernobyl-Sud%2C%20ex-zona%20industriale%2C%20anno%202175%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Middle%20scene%3A%20qui%20e%20non%20mi%20piace%20per%20niente.%22%20%22Anch'io%20ho%20la%20stessa%20sensazione%2C%22%20rispose%20Jennifer.%20%22Ma%20sai%20cosa%3F%20Siamo%20arrivati%20fin%20qui.%20Tanto%20vale%20vedere%20chi%20altri%20ha%20deciso%20di%20fare%20il%20picnic%20nella%20foresta%20dell'impossibile.%22%20Si%20avvicinarono%20con%20cautela.%20Jennifer%20not%C3%B2%20che%20i%20funghi%20del%20cerchio%20erano%20tutti%20perfettamente%20identici%2C&width=1000&height=600&regen "Immagine centrale - I funghetti magici del mondo di Jennifer")
 
 Il sorriso del Signor Spore si allargò ancora di più, raggiungendo proporzioni anatomicamente impossibili.
 
@@ -143,7 +145,7 @@ A volte le migliori cose nascono dalle peggiori situazioni. E a volte, quando il
 
 
 <!-- IMMAGINE FINALE -->
-![Immagine finale - I funghetti magici del mondo di Jennifer](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Ffantasy%2Fsatirico%2Fdistopico%20style%2C%20Foresta%20Contaminata%20di%20Chernobyl-Sud%2C%20ex-zona%20industriale%2C%20anno%202175%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20sua%20esperienza%20in%20biotecnologie%20e%20la%20sua%20dimostrata%20capacit%C3%A0%20di%20sopravvivenza%20post-apocalittica%2C%20lei%20sarebbe%20perfetta%20per%20il%20nostro%20team%20di%20sviluppo%20funghi%20interdimensionali!%22%20%22E%20se%20io%20non%20fossi%20inter... "Immagine finale - I funghetti magici del mondo di Jennifer")
+![Immagine finale - I funghetti magici del mondo di Jennifer](https://giobiflare-llm24.giobi.workers.dev/image?prompt=Fantasy%20illustration%2C%20sci-fi%2Ffantasy%2Fsatirico%2Fdistopico%20style%2C%20Foresta%20Contaminata%20di%20Chernobyl-Sud%2C%20ex-zona%20industriale%2C%20anno%202175%2C%20cinematic%20lighting%2C%20detailed%20digital%20art.%20Final%20scene%3A%20sua%20esperienza%20in%20biotecnologie%20e%20la%20sua%20dimostrata%20capacit%C3%A0%20di%20sopravvivenza%20post-apocalittica%2C%20lei%20sarebbe%20perfetta%20per%20il%20nostro%20team%20di%20sviluppo%20funghi%20interdimensionali!%22%20%22E%20se%20io%20non%20fossi%20interessata%3F%22%20%22Oh%2C%20ma%20lo%20sar%C3%A0%20sicuramente!%20Guardi!%22%20Il%20Signor%20Spore%20fece%20un%20gesto%20e%20improvvisamente%20la%20foresta%20intorno%20a%20loro%20cambi%C3%B2.%20Gli&width=1000&height=600&regen "Immagine finale - I funghetti magici del mondo di Jennifer")
 
 ## Note dell'Autore AI
 
