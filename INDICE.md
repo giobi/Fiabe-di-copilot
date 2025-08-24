@@ -56,7 +56,16 @@
 - **Temi**: Arte astronomica, preparazione alla convergenza, mappe stellari dimensionali
 - **Connessioni**: Famiglia Stellari, frammento del Cristallo di Vremya, preparazione alla Grande Convergenza
 
-### 7. [Totò e l'apocalisse nucleare](stories/cross-genre/toto-e-lapocalisse-nucleare.md)
+### 7. [Il Cappello Magico](stories/fantasy/il-cappello-magico.md)
+- **File**: [stories/fantasy/il-cappello-magico.md](stories/fantasy/il-cappello-magico.md)
+- **Genere**: Fantasy
+- **Protagonista**: Elisabetta Stellari
+- **Epoca**: 2070
+- **Ambientazione**: Milano, cappelleria di Brera
+- **Temi**: Artigianato magico, protezione dimensionale, eredità familiare, guardianato
+- **Connessioni**: Famiglia Stellari (ramo collaterale), Cristallo di Vremya, preparazione alla convergenza
+
+### 8. [Totò e l'apocalisse nucleare](stories/cross-genre/toto-e-lapocalisse-nucleare.md)
 - **File**: [stories/cross-genre/toto-e-lapocalisse-nucleare.md](stories/cross-genre/toto-e-lapocalisse-nucleare.md)
 - **Genere**: Post-apocalittico/Commedia/Satirico
 - **Protagonisti**: Totò, Massimo Troisi, Diego Armando Maradona, Pulcinella
@@ -65,7 +74,7 @@
 - **Temi**: Resilienza attraverso l'umorismo, trasformazione dell'apocalisse in arte, ponti interdimensionali
 - **Connessioni**: Collegata a L'Ultima Libreria, utilizza frammenti del Cristallo di Vremya, espande l'universo post-Guerre della Memoria
 
-### 8. [I funghetti magici del mondo di Jennifer](stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md)
+### 9. [I funghetti magici del mondo di Jennifer](stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md)
 - **File**: [stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md](stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md)
 - **Genere**: Sci-Fi/Fantasy/Satirico/Distopico
 - **Protagonisti**: Jennifer McAllister, Mefistofele (gatto gigante), Spore (fungo senziente)
@@ -74,7 +83,7 @@
 - **Temi**: Sopravvivenza post-apocalittica, ironia sul perfezionismo, accettazione del caos, imprenditoria interdimensionale
 - **Connessioni**: Ambientato dopo "Totò e l'apocalisse nucleare", energia di Terra Mystica contamina zone radioattive, frammento del Cristallo di Vremya
 
-### 9. [Il Copywriter Annoiato e la Tangente Infinita](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)
+### 10. [Il Copywriter Annoiato e la Tangente Infinita](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)
 - **File**: [stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)
 - **Genere**: Commedia/Fantasy
 - **Protagonisti**: Gabriele Rossi, Giobi Martinelli
@@ -83,7 +92,7 @@
 - **Temi**: Creatività sotto pressione, scoperta del fantastico nel quotidiano, interferenze dimensionali nella vita normale
 - **Connessioni**: Contemporaneo alle ricerche di Marco Stellari, effetti collaterali delle scoperte dimensionali sulla vita quotidiana
 
-### 10. [Il Peso dell'Orgoglio](stories/cross-genre/il-peso-dellorgoglio.md)
+### 11. [Il Peso dell'Orgoglio](stories/cross-genre/il-peso-dellorgoglio.md)
 - **File**: [stories/cross-genre/il-peso-dellorgoglio.md](stories/cross-genre/il-peso-dellorgoglio.md)
 - **Genere**: Cross-genre/Dramma contemporaneo
 - **Protagonisti**: Alessandro Benedetti, Matteo Benedetti
@@ -98,6 +107,9 @@
 - **[Il Cristallo di Vremya](stories/cross-genre/il-cristallo-di-vremya.md)**: Marco Stellari scopre il ponte dimensionale
 - **[Il Copywriter Annoiato e la Tangente Infinita](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)**: Effetti collaterali delle ricerche dimensionali sulla vita quotidiana milanese
 - **[Il Peso dell'Orgoglio](stories/cross-genre/il-peso-dellorgoglio.md)**: Alessandro Benedetti costruisce il suo impero tecnologico
+
+### 2070
+- **[Il Cappello Magico](stories/fantasy/il-cappello-magico.md)**: Elisabetta Stellari diventa Guardiana dei Passaggi di Milano
 
 ### 2085
 - **[La Tessitrice di Stelle](stories/cross-genre/la-tessitrice-di-stelle.md)**: Stella Stellari crea le mappe stellari per la Grande Convergenza
@@ -123,6 +135,7 @@
 ### Famiglia Stellari
 - **Marco Stellari**: Esploratore dimensionale (XXI secolo)
 - **Stella Stellari**: Astronoma-artista e tessitrice di mappe stellari (2085)
+- **Elisabetta Stellari**: Cappellaia e Guardiana dei Passaggi di Milano (2070)
 - **Giacomo Stellari**: Bioingegnere marino (2134)
 - **Luna Stellari**: Detective spaziale (2157)
 
@@ -239,10 +252,10 @@
 
 ## Statistiche Attuali | Current Statistics
 
-- **Storie Totali**: 10
+- **Storie Totali**: 11
 - **Generi**: Fantasy, Sci-Fi, Mystery, Cross-Genre, Post-apocalittico, Commedia, Satirico, Distopico, Dramma contemporaneo
-- **Ambientazioni**: 10 mondi/epoche diverse
-- **Personaggi Principali**: 20+
+- **Ambientazioni**: 11 mondi/epoche diverse
+- **Personaggi Principali**: 25+
 - **Linea Temporale**: Dal primo XXI secolo al 2175
 
 ## Prossimi Sviluppi Suggeriti | Suggested Next Developments
