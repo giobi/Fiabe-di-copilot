@@ -106,8 +106,17 @@
 - **Epoca**: 2085
 - **Caratteristiche**: Discendente della famiglia Stellari, tessitrice di mappe stellari dimensionali
 - **Capacità**: Percepisce i fili dimensionali, cattura luce stellare multidimensionale, tesse pattern che stabilizzano i ponti tra mondi
-- **Connessioni**: Cugina di Giacomo Stellari, collabora con Lyralei, prepara le mappe per la Grande Convergenza
+- **Connessioni**: Cugina di Giacomo Stellari e Elisabetta Stellari, collabora con Lyralei, prepara le mappe per la Grande Convergenza
 - **Ruolo**: Coordinatrice della rete familiare Stellari, preparatrice della Convergenza
+
+### Elisabetta Stellari
+- **Prima Apparizione**: "Il Cappello Magico"
+- **Professione**: Cappellaia artigiana e Guardiana dei Passaggi di Milano
+- **Epoca**: 2070
+- **Caratteristiche**: 28 anni, discendente del ramo collaterale della famiglia Stellari, specialista in protezione dimensionale
+- **Capacità**: Visione interdimensionale attraverso il cappello magico, protezione da entità ostili, creazione di cappelli con proprietà protettive
+- **Connessioni**: Pronipote di Marco Stellari (ramo collaterale), cugina di Stella Stellari, guidata da Lyralei
+- **Ruolo**: Protettrice di Milano durante la preparazione alla convergenza, guardiana del cappello magico
 
 ### Whiskers
 - **Prima Apparizione**: "Gatti nucleari e balene assassine"
@@ -134,7 +143,21 @@
 - **Professione**: Ispettore della Commissione per la Sicurezza Nucleare Marina
 - **Ruolo**: Primo rappresentante umano a riconoscere ufficialmente Aquatica
 
-### Cosmo
+### Rosa Stellari
+- **Prima Apparizione**: "Il Cappello Magico"
+- **Professione**: Cappellaia artigiana (defunta), custode di segreti familiari
+- **Epoca**: 1925-2065 (defunta)
+- **Caratteristiche**: Nonna di Elisabetta, depositaria del cappello magico, ponte tra le scoperte di Marco e le nuove generazioni
+- **Connessioni**: Sorella di un discendente di Marco Stellari, custode del cappello con frammento del Cristallo di Vremya
+- **Ruolo**: Custode temporanea del cappello magico, preparatrice del passaggio di consegne a Elisabetta
+
+### Il Raccoglitore
+- **Prima Apparizione**: "Il Cappello Magico"
+- **Natura**: Entità interdimensionale parassita
+- **Caratteristiche**: Forma angolosa e innaturale, occhi come vuoti stellari, voce simile a ghiaccio che si spezza
+- **Capacità**: Attraversamento dimensionale, rimodellamento della realtà se non contrastato
+- **Minaccia**: Si nutre del caos dimensionale, antagonista delle barriere protettive
+- **Ruolo**: Prima minaccia interdimensionale diretta contro i guardiani dei passaggi
 - **Prima Apparizione**: "La Tessitrice di Stelle"
 - **Natura**: Intelligenza Artificiale dell'Osservatorio di Monte Stellario
 - **Epoca**: 2085
@@ -187,9 +210,16 @@
 - **Luna → Kai/Elena**: Le sue ricerche sono conservate nell'Ultima Libreria
 
 - **Stella → Giacomo**: Relazione familiare diretta (cugina)
+- **Stella → Elisabetta**: Relazione familiare diretta (cugina, ramo collaterale)
 - **Stella → Kael**: Le sue mappe stellari preparano l'addestramento interdimensionale
 - **Stella → Lyralei**: Collaborazione diretta nella preparazione della Convergenza
 - **Stella → Rete Stellari**: Centro di coordinamento familiare attraverso l'Osservatorio
+
+- **Elisabetta → Marco Stellari**: Relazione familiare diretta (pronipote, ramo collaterale)
+- **Elisabetta → Stella Stellari**: Relazione familiare diretta (cugina)
+- **Elisabetta → Milano Dimensionale**: Guardiana dei passaggi dimensionali milanesi
+- **Elisabetta → Cappello Magico**: Custode e utilizzatrice del cappello con frammento cristallino
+- **Elisabetta → Lyralei**: Guidata dalla Custode del Tempo come altri Stellari
 
 
 - **Giacomo → Whiskers/Shamu-VII**: Esperimenti con frammenti del Cristallo di Vremya causano mutazioni

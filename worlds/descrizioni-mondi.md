@@ -132,6 +132,36 @@
 
 
 
+## Milano 2070
+
+### Ubicazione
+- **Epoca**: 2070
+- **Status**: Città in transizione verso la convergenza dimensionale
+- **Caratteristiche**: Centro di protezione dimensionale del Nord Italia
+
+### Quartieri Importanti
+- **Brera**: Quartiere artistico che ospita la cappelleria magica di Elisabetta
+- **Navigli**: Canali che riflettono stranamente le lune di Terra Mystica nelle notti chiare
+- **Duomo**: Ancora centro spirituale, ma con nuove energie sottili
+- **Porta Garibaldi**: Distretto tecnologico con interferenze dimensionali
+
+### Abitanti
+- **Elisabetta Stellari**: Guardiana dei Passaggi, cappellaia magica
+- **Artisti Sensibili**: Creatori influenzati inconsciamente dalle energie dimensionali
+- **Turisti Extradimensionali**: Visitatori da altre realtà attirati dall'atmosfera protettiva
+
+### Tecnologie e Magia
+- **Cappello Magico**: Strumento principale di protezione e visione interdimensionale
+- **Cappelli Protettivi**: Accessori minori creati da Elisabetta per la protezione civile
+- **Barriere Luminose**: Proiezioni di energia azzurra che respingono entità ostili
+- **Artigianato Imbevuto**: Oggetti quotidiani con proprietà magiche sottili
+
+### Fenomeni Unici
+- **Protezione Silenziosa**: I cittadini non si accorgono della protezione dimensionale
+- **Atmosfere Magiche**: Sensazioni inspiegabili di benessere e ispirazione
+- **Arte Involontaria**: Creativi che producono opere influenzate da Terra Mystica
+- **Ponti di Luce**: Apparizioni notturne di strutture cristalline sui Navigli
+
 ## Osservatorio di Monte Stellario
 
 ### Ubicazione
@@ -213,6 +243,11 @@
 - **Marco Stellari**: Scoperta del Cristallo di Vremya
 - **Prima Apertura**: Contatto iniziale con Terra Mystica
 - **Università di Blackwood**: Centro di ricerca dimensionale
+
+### 2070
+- **Milano**: Elisabetta Stellari diventa Guardiana dei Passaggi di Milano
+- **Protezione Iniziale**: Prima difesa organizzata contro entità interdimensionali ostili
+- **Cappelleria Magica**: Stabilimento del centro di protezione nel quartiere Brera
 
 ### 2085
 - **Osservatorio di Monte Stellario**: Stella Stellari tesse le mappe stellari per guidare la Convergenza
