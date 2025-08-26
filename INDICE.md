@@ -101,6 +101,15 @@
 - **Temi**: Crescita personale, orgoglio, emancipazione familiare, rifiuto dell'amore condizionato
 - **Connessioni**: I sistemi tecnologici sviluppati sfruttano le interferenze causate dagli esperimenti di Marco Stellari
 
+### 12. [Il Mollusco Filosofo di Proxima Vulpecula](stories/sci-fi/il-mollusco-filosofo-di-proxima-vulpecula.md)
+- **File**: [stories/sci-fi/il-mollusco-filosofo-di-proxima-vulpecula.md](stories/sci-fi/il-mollusco-filosofo-di-proxima-vulpecula.md)
+- **Genere**: Sci-Fi/Filosofico
+- **Protagonista**: Conchiglia-che-Riflette (mollusco bivalve filosofo)
+- **Epoca**: 2189 (post-convergenza dimensionale)
+- **Ambientazione**: Pianeta Proxima Vulpecula-B, sistema stellare sconosciuto
+- **Temi**: Meta-teatro brechtiano, filosofia dell'esistenza, immobilità contemplativa, rottura della quarta parete
+- **Connessioni**: Echi quantici delle vicende Stellari, era post-convergenza dimensionale, riflessioni cosmiche
+
 ## Cronologia | Timeline
 
 ### Primo XXI Secolo
@@ -129,6 +138,9 @@
 
 ### 2175
 - **[I funghetti magici del mondo di Jennifer](stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md)**: Nascita del primo commercio interdimensionale post-apocalittico
+
+### 2189
+- **[Il Mollusco Filosofo di Proxima Vulpecula](stories/sci-fi/il-mollusco-filosofo-di-proxima-vulpecula.md)**: Riflessioni cosmiche di un mollusco bivalve su un pianeta lontano nell'era post-convergenza
 
 ## Personaggi Principali | Main Characters
 
