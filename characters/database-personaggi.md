@@ -309,6 +309,18 @@
 - **Professione**: Socio di Matteo Benedetti
 - **Ruolo**: Testimone silenzioso della dinamica padre-figlio, rappresenta la saggezza inascoltata
 
+## Nuovi Personaggi da "Il Mollusco Filosofo di Proxima Vulpecula"
+
+### Conchiglia-che-Riflette
+- **Prima Apparizione**: "Il Mollusco Filosofo di Proxima Vulpecula"
+- **Specie**: Mollusco bivalve alieno
+- **Epoca**: 2189 (post-convergenza dimensionale)
+- **Ambientazione**: Pianeta Proxima Vulpecula-B
+- **Caratteristiche**: Immobile da cinquecento anni terrestri, bioluminescente, valve lucide che riflettono due soli
+- **Capacità**: Riflessione filosofica profonda, percezione di echi quantici interdimensionali, rottura della quarta parete
+- **Connessioni**: Riceve echi quantici delle vicende Stellari e del Cristallo di Vremya attraverso lo spazio-tempo
+- **Ruolo**: Filosofo cosmico e narratore meta-teatrale, rappresenta la contemplazione pura nell'era post-convergenza
+
 ## Cross-References Aggiornati
 
 - **Alessandro → Marco Stellari**: Contemporaneo delle ricerche, sfrutta inconsciamente le interferenze dimensionali
@@ -325,3 +337,6 @@
 - **Spore → Terra Mystica**: Entità nativa che tenta reclutamento interdimensionale
 - **Mefistofele → Famiglia di Mutanti**: Simile a Whiskers per mutazioni da radiazioni interdimensionali
 - **Foresta Contaminata**: Nuovo ecosistema post-convergenza di Napoli, fusione energie Terra Mystica e radiazioni terrestri
+- **Conchiglia-che-Riflette → Famiglia Stellari**: Riceve echi quantici delle loro vicende attraverso lo spazio-tempo
+- **Conchiglia-che-Riflette → Cristallo di Vremya**: Percepisce le influenze del cristallo attraverso le dimensioni
+- **Proxima Vulpecula-B**: Nuovo mondo nell'era post-convergenza, rappresenta l'espansione cosmica dell'influenza delle storie Stellari

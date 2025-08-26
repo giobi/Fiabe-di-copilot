@@ -323,3 +323,36 @@
 - **Primo Commercio Interdimensionale**: Nascita di "Funghi & Radiazioni - Biologico e Magico dal 2175"
 - **Ponte Post-Convergenza**: Collegamento naturale tra sopravvissuti terrestri e entità di Terra Mystica
 - **Laboratorio Evolutivo**: Sperimentazione di coesistenza tra realtà magica e post-apocalittica
+
+## Pianeta Proxima Vulpecula-B
+
+### Ubicazione
+- **Epoca**: 2189 (era post-convergenza dimensionale)
+- **Sistema Stellare**: Proxima Vulpecula, sistema stellare sconosciuto
+- **Caratteristiche**: Pianeta roccioso con due soli arancioni e spiagge di cristalli viola
+
+### Geografia
+- **Spiagge Cristalline**: Cristalli viola che cantano quando accarezzati dal vento alieno
+- **Orizzonti Infiniti**: Paesaggi che si estendono oltre la percezione normale
+- **Due Soli**: Sistema binario che crea giochi di luce e riflessi unici
+- **Atmosfera**: Respirabile ma aliena, con proprietà acustiche particolari
+
+### Abitanti Noti
+- **Conchiglia-che-Riflette**: Unico abitante identificato, mollusco bivalve filosofo
+- **Altri Possibili**: Presenza di altre forme di vita contemplativa non specificata
+
+### Fenomeni Unici
+- **Echi Quantici**: Il pianeta riceve onde di informazione interdimensionale
+- **Cristalli Senzienti**: I cristalli viola rispondono alle emozioni e riflessioni
+- **Bioluminescenza**: Fenomeni luminosi naturali dovuti all'interazione tra soli gemelli
+- **Acustica Aliena**: Suoni che viaggiano in modi impossibili secondo le leggi terrestri
+
+### Connessioni Dimensionali
+- **Echi Stellari**: Riceve influenze dalle vicende della famiglia Stellari
+- **Cristallo di Vremya**: Percezioni remote dell'energia del cristallo originale
+- **Era Post-Convergenza**: Rappresenta l'espansione dell'influenza dimensionale nello spazio
+
+### Significato Filosofico
+- **Centro di Contemplazione**: Luogo ideale per riflessioni cosmiche profonde
+- **Teatro Meta-Dimensionale**: Palcoscenico per performance che trascendono la realtà
+- **Punto di Osservazione**: Prospettiva esterna sulla storia umana e dimensionale
