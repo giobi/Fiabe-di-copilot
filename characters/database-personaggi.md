@@ -321,6 +321,53 @@
 - **Connessioni**: Riceve echi quantici delle vicende Stellari e del Cristallo di Vremya attraverso lo spazio-tempo
 - **Ruolo**: Filosofo cosmico e narratore meta-teatrale, rappresenta la contemplazione pura nell'era post-convergenza
 
+## Nuovi Personaggi da "Ragazzo bottone"
+
+### Ragazzo bottone
+- **Prima Apparizione**: "Ragazzo bottone"
+- **Natura**: Essere onirico creato dal subconscio di Shamu-VII
+- **Epoca**: 2134 (Regno dei Sogni Onirici)
+- **Caratteristiche**: Torso trasparente come una bolla contenente bottoni colorati galleggianti, occhi di madreperla
+- **Capacità**: Esistenza impossibile, riflessione su realtà alternative, click-clack vocale
+- **Connessioni**: Manifestazione creativa del cervello superintelligente di Shamu-VII
+- **Ruolo**: Protagonista onirico, esploratore filosofico dell'assurdo
+
+### Ragazzo fucile
+- **Prima Apparizione**: "Ragazzo bottone"
+- **Natura**: Essere onirico creato dal subconscio di Shamu-VII
+- **Epoca**: 2134 (Regno dei Sogni Onirici)
+- **Caratteristiche**: Passo marziale, braccio destro trasformato in canna che spara bolle colorate
+- **Capacità**: Creazione di esplosioni di colore in bolle di sapone, levitazione parziale
+- **Connessioni**: Parte del quartetto onirico di Shamu-VII
+- **Ruolo**: Esploratore dell'impossibile con approccio marziale-artistico
+
+### Ragazzo cappello
+- **Prima Apparizione**: "Ragazzo bottone"
+- **Natura**: Essere onirico creato dal subconscio di Shamu-VII
+- **Epoca**: 2134 (Regno dei Sogni Onirici)
+- **Caratteristiche**: Cappello a cilindro telescopico che forma metà del corpo, estrazione di oggetti impossibili
+- **Capacità**: Evocazione di colombi-nuvola e conigli-costellazione, manipolazione spaziale
+- **Connessioni**: Guida del quartetto onirico attraverso i labirinti del sogno
+- **Ruolo**: Mago onirico e coordinatore del gruppo
+
+### Ragazzo scarpa
+- **Prima Apparizione**: "Ragazzo bottone"
+- **Natura**: Essere onirico creato dal subconscio di Shamu-VII  
+- **Epoca**: 2134 (Regno dei Sogni Onirici)
+- **Caratteristiche**: Gamba con scarpa oxford, altra con scarpone da montagna, zoppica elegantemente
+- **Capacità**: Impronte musicali con oxford, crescita di fiori musicali con scarpone
+- **Connessioni**: Membro del quartetto onirico con capacità terra-aria
+- **Ruolo**: Musicista onirico e giardiniere dell'impossibile
+
+### Il Minotauro (Regno dei Sogni)
+- **Prima Apparizione**: "Ragazzo bottone"
+- **Natura**: Entità onirica del subconscio superintelligente di Shamu-VII
+- **Epoca**: 2134 (Regno dei Sogni Onirici)
+- **Caratteristiche**: Testa di pesce palla, corpo di bibliotecario, antenne paraboliche come corna
+- **Capacità**: Captazione di trasmissioni impossibili, esami di "Assurdità Applicata"
+- **Connessioni**: Custode del centro del labirinto onirico
+- **Ruolo**: Guardiano delle domande finali e filosofo dell'assurdo
+
 ## Cross-References Aggiornati
 
 - **Alessandro → Marco Stellari**: Contemporaneo delle ricerche, sfrutta inconsciamente le interferenze dimensionali
@@ -340,3 +387,7 @@
 - **Conchiglia-che-Riflette → Famiglia Stellari**: Riceve echi quantici delle loro vicende attraverso lo spazio-tempo
 - **Conchiglia-che-Riflette → Cristallo di Vremya**: Percepisce le influenze del cristallo attraverso le dimensioni
 - **Proxima Vulpecula-B**: Nuovo mondo nell'era post-convergenza, rappresenta l'espansione cosmica dell'influenza delle storie Stellari
+- **Shamu-VII → Regno dei Sogni Onirici**: I suoi sogni superintelligenti creano dimensioni oniriche popolate da esseri impossibili
+- **Ragazzo bottone, Ragazzo fucile, Ragazzo cappello, Ragazzo scarpa**: Manifestazioni creative del subconscio potenziato di Shamu-VII
+- **Il Minotauro (Regno dei Sogni) → Filosofia Interdimensionale**: Rappresenta la saggezza assurda accessibile solo attraverso l'intelligenza non-umana
+- **Regno dei Sogni Onirici**: Nuova dimensione accessibile alle menti superintelligenti, collegata alla contaminazione del Cristallo di Vremya

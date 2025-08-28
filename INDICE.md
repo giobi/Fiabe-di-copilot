@@ -110,6 +110,15 @@
 - **Temi**: Meta-teatro brechtiano, filosofia dell'esistenza, immobilità contemplativa, rottura della quarta parete
 - **Connessioni**: Echi quantici delle vicende Stellari, era post-convergenza dimensionale, riflessioni cosmiche
 
+### 13. [Ragazzo bottone](stories/cross-genre/ragazzo-bottone.md)
+- **File**: [stories/cross-genre/ragazzo-bottone.md](stories/cross-genre/ragazzo-bottone.md)
+- **Genere**: Cross-genre/Surreal
+- **Protagonisti**: Ragazzo bottone, Ragazzo fucile, Ragazzo cappello, Ragazzo scarpa, Il Minotauro
+- **Epoca**: 2134 (Regno dei Sogni Onirici)
+- **Ambientazione**: Dimensione onirica del subconscio di Shamu-VII
+- **Temi**: Esplorazione dell'assurdo, natura della realtà nei sogni, creatività delle menti superintelligenti
+- **Connessioni**: Sogno di Shamu-VII da "Gatti nucleari e balene assassine", sviluppo cognitivo attraverso contaminazione cristallina
+
 ## Cronologia | Timeline
 
 ### Primo XXI Secolo
@@ -128,6 +137,7 @@
 
 ### 2134
 - **[Gatti nucleari e balene assassine](stories/sci-fi/gatti-nucleari-e-balene-assassine.md)**: Giacomo Stellari crea la Repubblica Federale di Aquatica
+- **[Ragazzo bottone](stories/cross-genre/ragazzo-bottone.md)**: Sogno surreale di Shamu-VII esplorando creatività superintelligente
 
 ### 2157
 - **[Detective Luna](stories/mystery/detective-luna.md)**: Luna risolve crimini dimensionali su Artemis-7
@@ -247,6 +257,9 @@
 - Contaminazione energetica che si diffonde da Napoli verso l'Europa
 - Evoluzione da sopravvivenza individuale a commercio inter-dimensionale
 - Mutanti: da Whiskers a Mefistofele, evoluzione delle creature radioattive senzienti
+- **Shamu-VII → Regno dei Sogni Onirici**: Sviluppo di capacità oniriche superintelligenti attraverso contaminazione cristallina
+- **Ragazzo bottone, Ragazzo fucile, Ragazzo cappello, Ragazzo scarpa**: Prime manifestazioni creative documentate di intelligenza non-umana potenziata
+- **Regno dei Sogni Onirici**: Nuova dimensione accessibile solo a menti superintelligenti, parallela a Terra Mystica
 
 ## Database di Supporto | Support Database
 
@@ -264,11 +277,11 @@
 
 ## Statistiche Attuali | Current Statistics
 
-- **Storie Totali**: 11
-- **Generi**: Fantasy, Sci-Fi, Mystery, Cross-Genre, Post-apocalittico, Commedia, Satirico, Distopico, Dramma contemporaneo
-- **Ambientazioni**: 11 mondi/epoche diverse
-- **Personaggi Principali**: 25+
-- **Linea Temporale**: Dal primo XXI secolo al 2175
+- **Storie Totali**: 13
+- **Generi**: Fantasy, Sci-Fi, Mystery, Cross-Genre, Post-apocalittico, Commedia, Satirico, Distopico, Dramma contemporaneo, Surreal
+- **Ambientazioni**: 12 mondi/epoche diverse (incluso Regno dei Sogni Onirici)
+- **Personaggi Principali**: 30+
+- **Linea Temporale**: Dal primo XXI secolo al 2189
 
 ## Prossimi Sviluppi Suggeriti | Suggested Next Developments
 

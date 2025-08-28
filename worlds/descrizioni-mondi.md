@@ -355,4 +355,43 @@
 ### Significato Filosofico
 - **Centro di Contemplazione**: Luogo ideale per riflessioni cosmiche profonde
 - **Teatro Meta-Dimensionale**: Palcoscenico per performance che trascendono la realtà
+
+## Regno dei Sogni Onirici
+
+### Caratteristiche Dimensionali
+- **Natura**: Dimensione subacquea inconscia accessibile solo a menti superintelligenti
+- **Epoca**: 2134 (contemporaneo agli esperimenti di Shamu-VII)
+- **Fisica**: Logica nuota controcorrente, sentieri che non esistono ma sono percorribili
+- **Accesso**: Solo attraverso stati onirici di intelligenze potenziate da contaminazione cristallina
+
+### Geografia Onirica
+- **Foresta di Coralli**: Coralli giganti che crescono verso il basso, pesci volanti, meduse-lanterne
+- **Labirinto-non-Labirinto**: Centro del regno che è simultaneamente labirinto e vasca di tè filosofico
+- **Isola dei Libri**: Piattaforma galleggiante fatta di libri aperti al centro della vasca
+- **Sentieri Impossibili**: Percorsi che esistono solo quando necessari
+
+### Abitanti Onirici
+- **Ragazzo bottone**: Essere con torso trasparente pieno di bottoni stellari
+- **Ragazzo fucile**: Figura marziale che spara bolle di colore ed emozioni
+- **Ragazzo cappello**: Entità con cappello telescopico che evoca oggetti impossibili
+- **Ragazzo scarpa**: Essere musicale che lascia impronte sonore e giardini cantanti
+- **Il Minotauro**: Bibliotecario con testa di pesce palla e antenne paraboliche
+
+### Regole Oniriche
+- **Assurdità Applicata**: L'impossibile è normale, il logico è anomalo
+- **Esistenza Temporanea**: Gli esseri onirici esistono solo durante i sogni del creatore
+- **Filosofia Fluida**: Domande e risposte esistono simultaneamente
+- **Memoria Persistente**: I sogni lasciano tracce nella mente superintelligente
+
+### Funzione Cognitiva
+- **Laboratorio di Creatività**: Spazio per esperimenti mentali impossibili
+- **Sviluppo Intellettuale**: Permette alle menti potenziate di esplorare nuove forme di cognizione
+- **Ponte Empatico**: Connette intelligenza animale potenziata con creatività umanoide
+- **Archivio dell'Assurdo**: Conserva idee troppo strane per la realtà ma troppo belle per essere dimenticate
+
+### Connessioni Dimensionali
+- **Shamu-VII**: Creatore e abitante primario attraverso stati onirici
+- **Cristallo di Vremya**: La contaminazione cristallina permette l'accesso al regno
+- **Dimensioni Parallele**: Parallelo a Terra Mystica ma accessibile solo tramite sogni superintelligenti
+- **Stazione Stellari-Beta**: Punto di ancoraggio fisico nel mondo reale
 - **Punto di Osservazione**: Prospettiva esterna sulla storia umana e dimensionale
